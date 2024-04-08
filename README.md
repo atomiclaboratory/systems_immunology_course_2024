@@ -27,7 +27,7 @@ This repository contains the following materials, organized by directory:
 To make the most of this course, please ensure you have the following:
 
 - Access to a computer with internet connectivity for software installation and accessing digital materials.
-- Installation of required software for practical sessions. Installation guides are provided in the `Practical_Sessions/` directory.
+- Installation of required software for practical sessions. Installation guides are provided in the `Practical_sessions/` directory.
 
 ## License
 
