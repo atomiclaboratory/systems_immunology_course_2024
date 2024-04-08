@@ -17,17 +17,17 @@ BE500 Systems Immunology offers an in-depth look into how the immune system func
 
 This repository contains the following materials, organized by directory:
 
-- `Lecture_Notes/`: Comprehensive lecture notes covering each topic discussed in class.
+- `Lectures/`: Comprehensive lecture notes covering each topic discussed in class.
 - `Assignments/`: Detailed descriptions and requirements for all course assignments.
-- `Practical_Sessions/`: Guidelines and datasets for hands-on sessions using AI tools for immunological data analysis.
-- `Reading_Materials/`: A collection of additional articles, papers, and resources to complement your learning.
+- `Practical_sessions/`: Guidelines and datasets for hands-on sessions using AI tools for immunological data analysis.
+- `Reading_materials/`: A collection of additional articles, papers, and resources to complement your learning.
 
 ## Getting Started
 
 To make the most of this course, please ensure you have the following:
 
 - Access to a computer with internet connectivity for software installation and accessing digital materials.
-- Installation of required software for practical sessions. Installation guides are provided in the `Practical_Sessions/` directory.
+- Installation of required software for practical sessions. Installation guides are provided in the `Practical_sessions/` directory.
 
 ## License
 
