@@ -10,6 +10,7 @@ Tuesdays and Thursdays, 3:30 pm – 5:15 pm
 
 ### Your Guide 🧑‍🏫
 Dr. Adriana Tomic, PhD - Assistant Professor in Biomedical Engineering and Virology, Immunology & Microbiology
+**Explore Our Work at the [Atomic Lab](http://atomic-lab.org)**  
 
 ### Reach Out 📩
 [atomic@bu.edu](mailto:atomic@bu.edu)
