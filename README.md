@@ -1,4 +1,4 @@
-![Systems Immunology Course Banner](https://github.com/atomiclaboratory/BE500_Systems_Immunology_Fall_2024/blob/main/Images/Codex%20Seraphinius%20BE500.webp) 📚🔬
+<img src="https://github.com/atomiclaboratory/BE500_Systems_Immunology_Fall_2024/blob/main/Images/Codex%20Seraphinius%20BE500.webp" alt="Systems Immunology Course" width="300"/>
 
 # BE 500 – Fall 2024 🍂
 ## Introduction to Systems Immunology: Bridging Immunology and Engineering 🌉
