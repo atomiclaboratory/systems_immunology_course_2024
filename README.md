@@ -1,9 +1,9 @@
 <img src="https://github.com/atomiclaboratory/BE500_Systems_Immunology_Fall_2024/blob/main/Images/Codex%20Seraphinius%20BE500.webp" alt="Systems Immunology Course" width="300"/>
 
 # BE 500 – Fall 2024 🍂
-## Introduction to Systems Immunology: Bridging Immunology and Engineering 🌉
+## Introduction to Systems Immunology: Bridging Immunology and AI 🌉
 
-🎉 Hello, future pioneers of immunology! I'm Dr. Adriana Tomic, eager to guide you through the intricate landscape of Systems Immunology. Together, we will navigate the intersection of immunology, engineering, and data science, tackling global health challenges head-on. This course is your hands-on, active exploration of how the immune system works, its role in combating infectious diseases, and what happens when it encounters challenges. 🌍🔍
+🎉 Hello, future pioneers of immunology! I'm Dr. Adriana Tomic, eager to guide you through the intricate landscape of Systems Immunology. Together, we will navigate the intersection of immunology and data science, tackling global health challenges head-on. This course is your hands-on, active exploration of how AI can be applied to better understand how immune system works, and how to combat infectious diseases. 🌍🔍
 
 ### Meeting Times ⏰
 Tuesdays and Thursdays, 3:30 pm – 5:15 pm
@@ -16,7 +16,7 @@ Dr. Adriana Tomic, PhD - Assistant Professor in Biomedical Engineering and Virol
 [atomic@bu.edu](mailto:atomic@bu.edu)
 
 ## What to Expect from This Journey 🚀
-We stand at a pivotal moment in health science. Our expedition into Systems Immunology will delve into the critical role of the immune system, from the fundamental mechanisms behind vaccine development to the cutting-edge application of "OMICS" technologies and artificial intelligence. This course is an invitation to challenge your understanding, apply your knowledge, and contribute meaningfully to the field.
+We stand at a pivotal moment in health science. Our expedition into Systems Immunology will delve into the critical role of the immune system, from the fundamental mechanisms behind vaccine evaluation to the cutting-edge application of "OMICS" technologies and artificial intelligence. This course is an invitation to challenge your understanding, apply your knowledge, and contribute meaningfully to the field.
 
 ## Your Pathway to Impact 🌟
 - **Unlock the Secrets of the Immune System:** Dive deep into the foundations and advanced concepts of immunology. 🗝️
@@ -25,10 +25,9 @@ We stand at a pivotal moment in health science. Our expedition into Systems Immu
 
 ## Learner-Centered Objectives 🎯
 Upon completing this course, you will be empowered to:
-1. Navigate the principles of immunology and its dynamic response to pathogens. 🧬
-2. Apply systems immunology approaches and computational tools to decode complex immune mechanisms. 💻
-3. Evaluate the transformative impact of systems vaccinology on vaccine development. 💉
-4. Engage with and contribute to current scientific discussions, shaping the future of immunological research. 🌐
+1. Apply systems immunology approaches and computational tools to decode complex immune mechanisms. 💻
+2. Evaluate the transformative impact of systems vaccinology on vaccine evaluation. 💉
+3. Engage with and contribute to current scientific discussions, shaping the future of immunological research. 🌐
 
 ## Navigating Your Success 🛤️
 - **Journal Club Presentations (50%):** Showcase your analytical prowess by dissecting recent scientific literature. 📑
@@ -36,11 +35,10 @@ Upon completing this course, you will be empowered to:
 - **Practical Engagement (25%):** Translate theory into practice with AI tools, tackling real immunological data challenges. 🔬
 
 ## Embarkation Points 🧭
-Our journey is meticulously planned to deepen your understanding step by step:
+Our journey is planned to deepen your understanding step by step:
 - **Weeks 1-2:** The Building Blocks of Immunology 🔨
-- **Weeks 3-4:** Memory, Disease, and Defense 🛡️
-- **Weeks 5-6:** The New Age of Vaccinology 💡
-- **Weeks 7-8:** Data, Complexity, and Discovery 🧠
+- **Weeks 3-5:** The New Age of Vaccinology 💡
+- **Weeks 6-8:** Data, Complexity, and Discovery 🧠
 - **Weeks 9-12:** AI as Your Ally in Immunology 🤖
 
 ## Tools for the Trek 🎒
