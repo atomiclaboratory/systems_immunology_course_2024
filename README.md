@@ -15,9 +15,6 @@ Dr. Adriana Tomic, PhD - Assistant Professor in Biomedical Engineering and Virol
 ### Reach Out 📩
 [atomic@bu.edu](mailto:atomic@bu.edu)
 
-### Office Hours 🕒
-Tuesdays and Thursdays, 2:30-3:30 pm
-
 ## What to Expect from This Journey 🚀
 We stand at a pivotal moment in health science. Our expedition into Systems Immunology will delve into the critical role of the immune system, from the fundamental mechanisms behind vaccine development to the cutting-edge application of "OMICS" technologies and artificial intelligence. This course is an invitation to challenge your understanding, apply your knowledge, and contribute meaningfully to the field.
 
