@@ -52,4 +52,3 @@ Welcome to the **Systems Immunology** course! This course offers a comprehensive
 If you have any questions or need further assistance, please reach out to the course instructor, Dr. Tomic, at **[atomic@bu.edu](mailto:atomic@bu.edu)**. Explore our work at the **[Atomic Lab](http://atomic-lab.org)**.
 
 This README file provides an overview of the course structure and content, guiding students through each module and highlighting the key learning objectives and activities. The GitHub page will serve as a central hub for all course-related materials, including lecture notes, reading materials, and assignment submissions.
-
