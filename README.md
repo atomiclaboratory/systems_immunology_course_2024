@@ -25,4 +25,4 @@ Welcome to the **Systems Immunology** course. This course offers a comprehensive
 
 
 ## 📬 **Contact**
-If you have any questions or need further assistance, please reach out to the course instructor, Dr. Adriana Tomic, at **[atomic@bu.edu](mailto:atomic@bu.edu)**. Explore our work at the **[Atomic Lab](http://atomic-lab.org)**.
+If you have any questions or need further assistance, please reach out to the course instructor, Dr. Adriana Tomic, at **at [atomic\[at\]bu\[dot\]edu](mailto:atomic@bu.edu)**. Explore our work at the **[Atomic Lab](http://atomic-lab.org)**.
