@@ -3,7 +3,7 @@
 # 🧬 **Systems Immunology Course**
 
 ## 📚 **Course Overview**
-Welcome to the **Systems Immunology** course! This course offers a comprehensive exploration of Systems Immunology, blending foundational knowledge with advanced theoretical concepts and practical applications. Throughout the course, students will engage with cutting-edge research, collaborate on group projects, and gain hands-on experience in applying AI and machine learning techniques to immunological data. Our goal is to equip you with the skills and knowledge necessary to navigate and contribute to the rapidly evolving field of Systems Immunology.
+Welcome to the **Systems Immunology** course. This course offers a comprehensive exploration of Systems Immunology, blending foundational knowledge with advanced theoretical concepts and practical applications. Throughout the course, students will engage with cutting-edge research, collaborate on group projects, and gain hands-on experience in applying AI and machine learning techniques to immunological data. Our goal is to equip you with the skills and knowledge necessary to navigate and contribute to the rapidly evolving field of Systems Immunology.
 
 ## 📅 **Course Modules**
 
@@ -20,12 +20,9 @@ Welcome to the **Systems Immunology** course! This course offers a comprehensive
 - 💻 Transition from theory to hands-on application to use AI and machine learning techniques to analyze immunological data and predict outcomes related to immune responses.
 
 ## 🔗 **Resources**
-- **Course Materials:** Available in the "Course Materials" folder.
-- **Reading Materials:** 📖 Key publications and supplementary readings are available in the "Reading Materials" folder.
-- **Software Tools:** 🛠️ Installation guides and usage instructions for PANDORA are available in the "Software Tools" folder.
+- **Course Materials**: All course materials, including lecture notes, reading materials, and assignment instructions, are available in the ["Course Materials"](./Course%20Materials) folder, organized by modules.
+- **Software Tools**: Instructions for PANDORA software installation and usage are provided within the Module 4 materials.
 
 
 ## 📬 **Contact**
-If you have any questions or need further assistance, please reach out to the course instructor, Dr. Tomic, at **[atomic@bu.edu](mailto:atomic@bu.edu)**. Explore our work at the **[Atomic Lab](http://atomic-lab.org)**.
-
-This README file provides an overview of the course structure and content, guiding students through each module and highlighting the key learning objectives and activities. The GitHub page will serve as a central hub for all course-related materials, including lecture notes, reading materials, and assignment submissions.
+If you have any questions or need further assistance, please reach out to the course instructor, Dr. Adriana Tomic, at **[atomic@bu.edu](mailto:atomic@bu.edu)**. Explore our work at the **[Atomic Lab](http://atomic-lab.org)**.
