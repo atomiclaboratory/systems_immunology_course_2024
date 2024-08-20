@@ -43,9 +43,9 @@ Welcome to the **Systems Immunology** course! This course offers a comprehensive
 - **Submission Instructions:** 📤 Details on how to submit assignments and presentations will be provided in the course’s online platform.
 
 ## 🔗 **Resources**
-- **Lecture Notes:** Available in the "Lecture Notes" directory.
-- **Reading Materials:** 📖 Key publications and supplementary readings are available in the "Reading Materials" directory.
-- **Software Tools:** 🛠️ Installation guides and usage instructions for PANDORA are available in the "Software Tools" directory.
+- **Course Materials:** Available in the "Course Materials" folder.
+- **Reading Materials:** 📖 Key publications and supplementary readings are available in the "Reading Materials" folder.
+- **Software Tools:** 🛠️ Installation guides and usage instructions for PANDORA are available in the "Software Tools" folder.
 
 
 ## 📬 **Contact**
