@@ -19,6 +19,46 @@ Welcome to the **Systems Immunology** course. This course offers a comprehensive
 ### **MODULE 4: From Theory to Practice – AI in Immunological Cases (Weeks 7-14)**
 - 💻 Transition from theory to hands-on application to use AI and machine learning techniques to analyze immunological data and predict outcomes related to immune responses.
 
+# Planned Lecture Schedule for Systems Immunology Course
+
+## Week 1: Immunology 101: Fundamentals
+- **Topic**: Exploring the Immune System: Defense Mechanisms, Disease, and Vaccination
+- **Activity**: Reflection and Knowledge Check
+
+## Weeks 2-3: Human Systems Immunology & Vaccinology: Theory, Methodology & Prospects
+- **Lecture 1**: Human Immunology 2.0: Era of Systems Immunology – by Dr. Tomic
+- **Lecture 2**: Bridging Science and Practice in Human Systems Immunology – by Dr. Tomic
+- **Activity**: Collaborative Research Synthesis: Application of Systems Immunology Approaches in Real-world Examples
+
+## Weeks 4-6: Systems Immunology in Action: Insights into Infections and Vaccinology
+- **Group 1**: Predicting Vaccine Success: Systems Biology and the Yellow Fever Vaccine
+- **Group 2**: Decoding Influenza Vaccination: Systems Biology Insights
+- **Group 3**: The Future of Vaccine Design: Exploring Reverse Vaccinology 2.0
+- **Group 4**: HIV-1 and Neutralizing Antibodies: A Battle for Control
+- **Group 5**: Understanding Tuberculosis: Immune Factors Influencing Infection Outcomes
+- **Group 6**: COMBATing COVID-19 using Systems Immunology Approach
+
+## Weeks 7-14: From Theory to Practice: AI in Immunological Cases
+- **Lecture 1**: SIMON says: Advancing Human Immunology using AI – by Dr. Tomic
+- **Module**: Laying the Groundwork: Preparation for AI-Driven Immunology
+- **Lecture 2**: Predicting Immunological Memory to Newly Emerging Viruses: Practical Introduction – by Dr. Tomic
+
+### Hands-On Practical Sessions: Applying AI in Immunology
+- **Group 1**: Unsupervised ML approach – Presentation
+- **Group 2**: Unsupervised ML approach – Presentation
+- **Group 3**: Unsupervised ML approach – Presentation
+- **Group 4**: Supervised ML approach – Presentation
+- **Group 5**: Supervised ML approach – Presentation
+- **Group 6**: Supervised ML approach – Presentation
+
+### Final Week
+- **Discussion**: NextGen Immunology: Discussion & Wrap-up
+
+### Notes:
+- Students are expected to complete the software installation before the hands-on sessions.
+- This schedule is subject to change based on student needs and progress throughout the course.
+
+
 ## 🔗 **Resources**
 - **Course Materials**: All course materials, including lecture notes, reading materials, and assignment instructions, are available in the ["Course Materials"](./Course%20Materials) folder, organized by modules.
 - **Software Tools**: Instructions for PANDORA software installation and usage are provided within the Module 4 materials.
