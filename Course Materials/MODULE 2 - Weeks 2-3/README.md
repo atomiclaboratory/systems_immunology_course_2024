@@ -12,10 +12,10 @@
 - Understand how Systems Immunology and AI can be applied to address real-world immunological questions.
 - Gain insight into the methodologies and tools used in Systems Immunology research.
 
-#### Pre-read materials 📚:
+#### Pre-read Materials 📖:
 Bonaguro, L., Schulte-Schrepping, J., Ulas, T., Aschenbrenner, A.C., Beyer, M., & Schultze, J.L. (2022). A guide to systems-level immunomics. Nature Immunology, 23(10), 1412-1423. https://doi.org/10.1038/s41590-022-01309-9.
 
-#### Top-voted question reading materials:
+#### Top-voted Question Reading 📖:
 Fugger, L., Jensen, L.T., & Rossjohn, J. (2020). Challenges, progress, and prospects of developing therapies to treat autoimmune diseases. Cell, 181(1), 63-80. https://doi.org/10.1016/j.cell.2020.03.007.
 
 ---
