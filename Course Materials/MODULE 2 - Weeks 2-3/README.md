@@ -49,13 +49,13 @@ Fugger, L., Jensen, L.T., & Rossjohn, J. (2020). Challenges, progress, and prosp
 ## Collaborative Research Synthesis - Application of Systems Immunology Approaches in Real-world Examples 🤝
 
 #### Activities 📚:
-- **Self-Paced Group Work**:
-  - Each group will work independently to analyze their assigned publication.
-  - Groups will collaborate to prepare a presentation that effectively communicates the critical aspects of their publication.
+- **Self-Paced Team Work**:
+  - Each team will work independently to analyze their assigned publication.
+  - Teams will prepare a presentation about their publication.
 
-  - **Guidelines for Group Work**:
+- **Guidelines for Team Work**:
   - Students will be provided guidelines on analyzing the assigned publications.
   - The guidelines will include instructions on preparing a presentation that summarizes the publication’s key findings, methodology, and relevance to the broader field of Systems Immunology.
 
 - **Instructor Support**:
-  - Dr. Tomic will be available for consultations if groups need clarification or guidance on their work.
+  - Dr. Tomic will be available for consultations if teams need clarification or guidance on their work.
