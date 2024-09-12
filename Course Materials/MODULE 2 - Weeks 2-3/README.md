@@ -33,7 +33,7 @@ Fugger, L., Jensen, L.T., & Rossjohn, J. (2020). Challenges, progress, and prosp
 
 2. Nakaya, H. I., Wrammert, J., Lee, E. K., Racioppi, L., Marie-Kunze, S., Haining, W. N., Means, A. R., Kasturi, S. P., Khan, N., Li, G. M., McCausland, M., Kanchan, V., Kokko, K. E., Li, S., Elbein, R., Mehta, A. K., Aderem, A., Subbarao, K., Ahmed, R., & Pulendran, B. (2011). [**Systems biology of vaccination for seasonal influenza in humans**](https://doi.org/10.1038/ni.208). *Nature Immunology, 12(8), 786-795.* doi: 10.1038/ni.208
 
-3. Burton, D. R. (2017). [**What Are the Most Powerful Immunogen Design Vaccine Strategies? Reverse Vaccinology 2.0 Shows Great Promise**](https://doi.org/10.1101/cshperspect.a030262). *Cold Spring Harbor Perspectives in Biology, 9(11), a030262.* doi: 10.1101/cshperspect.a030262
+3. Tadepally, L., Consiglio, C., Sardh, F., Forlin, R., Wang, J., Tan, Z., Barcenilla, H., Rodriguez, L., Sugrue, J., Noori, P., Ivanchenko, M., Piñero Páez, L., Gonzalez, L., Habimana Mugabo, C., Johnsson, A., Ryberg, H., Hallgren, Å., Pou, C., Chen, Y., Mikeš, J., James, A., Dahlqvist, P., Wahlberg, J., Hagelin, A., Holmberg, M., Degerblad, M., Isaksson, M., Duffy, D., Kämpe, O., Landegren, N., & Brodin, P. (2024). [**Immune system adaptation during gender-affirming testosterone treatment**](https://doi.org/10.1038/s41586-024-07789-z). *Nature, 633(8028), 155-164.* doi: 10.1038/s41586-024-07789-z
 
 4. Freund, N. T., Wang, H., Scharf, L., Nogueira, L., Horwitz, J. A., Bar-On, Y., Golijanin, J., Sievers, S. A., Sok, D., Cai, H., Lorenzi, J. C. C., Halper-Stromberg, A., Toth, I., Piechocka-Trocha, A., Gristick, H. B., van Gils, M. J., Sanders, R. W., Wang, L. X., Seaman, M. S., … Nussenzweig, M. C. (2017). [**Coexistence of potent HIV-1 broadly neutralizing antibodies and antibody-sensitive viruses in a viremic controller**](https://doi.org/10.1126/scitranslmed.aal2144). *Science Translational Medicine, 9(373), eaal2144.* doi: 10.1126/scitranslmed.aal2144
 
@@ -43,7 +43,7 @@ Fugger, L., Jensen, L.T., & Rossjohn, J. (2020). Challenges, progress, and prosp
 
 #### Recommended Reading 📖:
 - Pulendran, B., & Davis, M. M. (2020). [**The science and medicine of human immunology**](https://doi.org/10.1126/science.aay4014). *Science, 369(6511), eaay4014.* doi: 10.1126/science.aay4014
-
+- Burton, D. R. (2017). [**What Are the Most Powerful Immunogen Design Vaccine Strategies? Reverse Vaccinology 2.0 Shows Great Promise**](https://doi.org/10.1101/cshperspect.a030262). *Cold Spring Harbor Perspectives in Biology, 9(11), a030262.* doi: 10.1101/cshperspect.a030262
 ---
 
 ## Collaborative Research Synthesis - Application of Systems Immunology Approaches in Real-world Examples 🤝
