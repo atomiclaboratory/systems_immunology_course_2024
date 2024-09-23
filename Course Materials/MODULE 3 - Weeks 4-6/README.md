@@ -16,11 +16,11 @@
 
 ---
 
-## The Future of Vaccine Design: Exploring Reverse Vaccinology 2.0 🔬🧬
+## Immune System Adaptation During Gender-Affirming Testosterone Treatment ⚧💉
 
-#### Activities 📚:
-- Exploring the concept of [Reverse Vaccinology 2.0](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5390344/), focusing on its potential in designing vaccines that elicit functional antibodies.
-- Introduction to methodology and discussion on the future implications of this approach in vaccinology.
+### Activities 📚:
+- Investigation of how gender-affirming testosterone treatment affects the immune system, with a focus on changes in immune cell populations and inflammatory markers.
+- Exploration of the broader implications of hormone therapy on immune function, providing insights into gender-specific immune adaptations during and after treatment.
 
 ---
 
