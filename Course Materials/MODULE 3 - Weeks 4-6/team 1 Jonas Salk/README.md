@@ -34,7 +34,7 @@ This study leverages a systems biology approach to prospectively predict the imm
 2. **30-Minute Group Discussion (4:00 PM - 4:30 PM)**  
    The class will engage in a detailed discussion of the findings, approaches, and implications presented by Team Salk.
 
-3. **FAIR Data Principles Activity (4:30 PM - 5:00 PM)**  
+3. **FAIR Data Principles Activity (4:30 PM - 5:15 PM)**  
    - **FAIR Principles Definition:**  
      FAIR stands for *Findability, Accessibility, Interoperability, and Reusability*. It provides guidelines to ensure that scientific data is shared in a manner that enhances its reuse and accessibility.  
    - **Question:** Did the authors share the data in a manner consistent with the FAIR principles?  
@@ -46,15 +46,13 @@ This study leverages a systems biology approach to prospectively predict the imm
    - **Interoperability:** Can the data be integrated with other datasets and systems?
    - **Reusability:** Is the data well-documented and reusable by others?
 
-4. **Post-Discussion Task:**  
-   After the discussion, we will add a list of the teams' answers to this document, along with links to relevant data repositories where applicable.
 
 ---
 
 ## Discussion Findings and Answers
 
 - **Team Responses:**  
-  (This section will be populated with answers from each team after today's discussion.)
+  After the discussion, we will add a list of the teams' answers to this document, along with links to relevant data repositories where applicable.
 
 ---
 
