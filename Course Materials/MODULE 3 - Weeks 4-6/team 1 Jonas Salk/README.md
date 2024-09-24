@@ -39,6 +39,7 @@ This study leverages a systems biology approach to prospectively predict the imm
      FAIR stands for *Findability, Accessibility, Interoperability, and Reusability*. It provides guidelines to ensure that scientific data is shared in a manner that enhances its reuse and accessibility.
    - **Question:** Did the authors share the data in a manner consistent with the FAIR principles? If not, how could these principles have been better 
      applied to ensure the data from this research is widely accessible and reusable by the scientific community? 
+     
      Each team will take 15 minutes to discuss their answer internally, then report back to the class for a 15-minute roundtable discussion. 
 
    Teams should consider:
