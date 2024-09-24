@@ -49,15 +49,20 @@ This study leverages a systems biology approach to prospectively predict the imm
 
 ---
 
-## Discussion Findings and Answers
-
-- **Team Responses:**  
-  After the discussion, we will add a list of the teams' answers to this document, along with links to relevant data repositories where applicable.
-
----
-
 ## Links to Data Repositories 🔗
 
-- [To be added after the discussion]
+Here are some suggested data repositories that follow FAIR principles for scientific data sharing:
+
+- **[GEO (Gene Expression Omnibus)](https://www.ncbi.nlm.nih.gov/geo/):**  
+  A public database providing access to high-throughput gene expression data, from various organisms, to support biomedical research.
+
+- **[ImmPort](https://www.immport.org/home):**  
+  The Immunology Database and Analysis Portal is a repository for sharing immunology data, facilitating reproducibility, reuse, and accessibility in immune-related research.
+
+- **[Human Cell Atlas](https://data.humancellatlas.org/):**  
+  A comprehensive database mapping all human cells, offering rich multi-omics data for research and collaboration in the field of human biology.
+
+- **[Zenodo](https://zenodo.org/):**  
+  An open-access repository for all types of research outputs, including datasets, papers, and software, supporting the FAIR principles through proper citation and long-term archiving.
 
 ---
