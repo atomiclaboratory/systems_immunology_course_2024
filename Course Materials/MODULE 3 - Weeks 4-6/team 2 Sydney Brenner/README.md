@@ -35,9 +35,9 @@ This study uses a systems biology approach to investigate both innate and adapti
 
 3. **Team Task: Post-Presentation Discussion (4:30 PM - 5:15 PM) 💬**
 
-   ### 3A: Is accuracy the best way to evaluate the model? Why not?
+   ## 3A: Is accuracy the best way to evaluate the model? Why not?
 
-   **Example Discussion Points:**
+   **Discussion points:**
    - Accuracy might be misleading when dealing with imbalanced data (e.g., more individuals with high responses). In such cases, metrics like precision, recall, and AUC-ROC can provide a better understanding of the model’s predictive power.
    - Precision-Recall curves and AUC-ROC are better alternatives for evaluating vaccine efficacy prediction models.
    
@@ -49,11 +49,9 @@ This study uses a systems biology approach to investigate both innate and adapti
    **Relevant Reading 📖:**
    - *A Survey of Model Evaluation Metrics for Imbalanced Data Classification*: [Paper Link](https://arxiv.org/abs/1505.01658)
 
----
+   ## 3B: Why do the authors focus only on validating one gene? How would you run the analysis to capture more systems-level understanding of vaccine responses? Which approaches?
 
-   ### 3B: Why do the authors focus only on validating one gene? How would you run the analysis to capture more systems-level understanding of vaccine responses? Which approaches?
-
-   **Example Discussion Points:**
+   **Discussion points:**
    - Authors validated CaMKIV due to its biological relevance, but this may limit the broader understanding of immune responses. A systems-level approach, integrating multi-omics and pathway analysis, provides a more comprehensive view.
    - Tools like GSEA or Random Forest can uncover more complex interactions between multiple genes and pathways.
    
