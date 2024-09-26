@@ -33,7 +33,7 @@ This study uses a systems biology approach to investigate both innate and adapti
 2. **30-Minute Group Discussion (4:00 PM - 4:30 PM)**  
    The class will engage in a detailed discussion of the findings, the significance of early molecular signatures, and the practical implications for improving influenza vaccines.
 
-3. **Team Task: Post-Presentation Discussion (4:30 PM - 5:15 PM) 💬**
+3. **Team Tasks: Post-Presentation Discussion (4:30 PM - 5:15 PM) 💬**
 
    ## 3A: Is accuracy the best way to evaluate the model? Why not?
 
@@ -56,6 +56,15 @@ This study uses a systems biology approach to investigate both innate and adapti
 
    **Confusion Matrix Example**  
    ![Confusion Matrix Example](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%203%20-%20Weeks%204-6/team%202%20Sydney%20Brenner/confusion%20matrix/confusion%20matrix%20example.jpg)
+
+   **Understanding Sensitivity, Specificity, and Accuracy - Example**  
+   To better understand how accuracy alone might not capture a model's true performance, especially with imbalanced data, here is an example using a spam detector model:
+   
+   ![Specificity and Sensitivity Example](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%203%20-%20Weeks%204-6/team%202%20Sydney%20Brenner/model%20performance%20evaluation/specificity%20and%20sensitivity%20explained.jpg)
+
+   ---
+   ***Why does this model have a high accuracy but poor performance in detecting spam?***
+   ---
 
    **Relevant Reading 📖:**
    - *A Survey of Model Evaluation Metrics for Imbalanced Data Classification*: [Paper Link](https://arxiv.org/abs/1505.01658)
