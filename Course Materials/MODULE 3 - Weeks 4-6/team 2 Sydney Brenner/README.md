@@ -34,3 +34,41 @@ This study uses a systems biology approach to investigate both innate and adapti
    The class will engage in a detailed discussion of the findings, the significance of early molecular signatures, and the practical implications for improving influenza vaccines.
 
 ---
+
+## Team Task: Post-Presentation Discussion 💬
+
+After the presentation, teams will engage in a structured discussion around the following two key questions:
+
+### 1. **Is accuracy the best way to evaluate the model? Why not?**
+
+   **Example Discussion Points:**
+   - Accuracy might be misleading when dealing with imbalanced data (e.g., more individuals with high responses). In such cases, metrics like precision, recall, and AUC-ROC can provide a better understanding of the model’s predictive power.
+   - Precision-Recall curves and AUC-ROC are better alternatives for evaluating vaccine efficacy prediction models.
+   
+   **Tools and Algorithms 🔧:**
+   - *Precision-Recall Curves* (scikit-learn): [Guide](https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html)
+   - *AUC-ROC Score* (scikit-learn): [AUC-ROC Example](https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html)
+   - *Confusion matrix* (scikit-learn): [Guide](https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html)
+
+   **Relevant Reading 📖:**
+   - *A Survey of Model Evaluation Metrics for Imbalanced Data Classification*: [Paper Link](https://arxiv.org/abs/1505.01658)
+
+---
+
+### 2. **Why do the authors focus only on validating one gene? How would you run the analysis to capture more systems-level understanding of vaccine responses? Which approaches?**
+
+   **Example Discussion Points:**
+   - Authors validated CaMKIV due to its biological relevance, but this may limit the broader understanding of immune responses. A systems-level approach, integrating multi-omics and pathway analysis, provides a more comprehensive view.
+   - Tools like GSEA or Random Forest can uncover more complex interactions between multiple genes and pathways.
+   
+   **Tools and Approaches 🔧:**
+   - *Reactome*: [Access](https://reactome.org/)
+   - *Gene Set Enrichment Analysis (GSEA)*: [GSEA Tool](https://www.gsea-msigdb.org/gsea/index.jsp)
+   - *GeneTonic* (GSEA and sGSEA): [GeneTonic R package](https://bioconductor.org/packages/release/bioc/html/GeneTonic.html)
+   - *Cytoscape* (Network analysis): [Cytoscape Tool](https://cytoscape.org/)
+   - *Clinical Knowledge Graph (CKG)* (Network analysis): [CKG Tool](https://ckg.readthedocs.io/en/latest/INTRO.html)
+
+   **Relevant Reading 📖:**
+   - *Gene Set Enrichment Analysis*: [GSEA Paper](https://www.pnas.org/content/102/43/15545)
+   - *Clinical Knowledge Graph*: [CKG Paper](https://www.nature.com/articles/s41587-021-01145-6)
+
