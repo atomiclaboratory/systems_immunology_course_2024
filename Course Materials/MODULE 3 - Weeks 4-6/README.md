@@ -16,7 +16,7 @@
 ## Decoding Influenza Vaccination: Systems Biology Insights 🌬️🦠
 
 ### Team 2 - Sydney Brenner:
-- **Ziqing Yu, Erica Anton, Argerie Guevara, Annelisa Fache**
+- **Ziqing Yu, Erica Anton, Annelisa Fache**
 - This team will analyze the systems biology approach to influenza vaccination, discussing early molecular signatures that can predict vaccine efficacy. They will compare TIV and LAIV vaccines and the role of systems biology in understanding these differences.
 
 #### Activities 📚:
