@@ -53,7 +53,7 @@ This study uses a systems biology approach to investigate both innate and adapti
 
    **Discussion points:**
    - Authors validated CaMKIV due to its biological relevance, but this may limit the broader understanding of immune responses. A systems-level approach, integrating multi-omics and pathway analysis, provides a more comprehensive view.
-   - Tools like GSEA or Random Forest can uncover more complex interactions between multiple genes and pathways.
+   - Tools like GSEA or Network analysis can uncover more complex interactions between multiple genes and pathways.
    
    **Tools and Approaches 🔧:**
    - *Reactome* (Pathway database): [Access Reactome](https://reactome.org/)
