@@ -41,11 +41,6 @@ This study uses a systems biology approach to investigate both innate and adapti
    - Accuracy might be misleading when dealing with imbalanced data (e.g., more individuals with high responses). In such cases, metrics like precision, recall, and AUC-ROC can provide a better understanding of the model’s predictive power.
    - Precision-Recall curves and AUC-ROC are better alternatives for evaluating vaccine efficacy prediction models.
    
-   **Tools and Algorithms 🔧:**
-   - *Precision-Recall Curves* (scikit-learn): [Guide](https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html)
-   - *AUC-ROC Score* (scikit-learn): [AUC-ROC Example](https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html)
-   - *Confusion Matrix* (scikit-learn): [Guide](https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html)
-
    **What is a Confusion Matrix?**  
    A confusion matrix is a tool used to evaluate the performance of a classification model. It shows the number of correct and incorrect predictions across the different classes in a dataset. The matrix consists of:
    
@@ -63,8 +58,13 @@ This study uses a systems biology approach to investigate both innate and adapti
    ![Specificity and Sensitivity Example](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%203%20-%20Weeks%204-6/team%202%20Sydney%20Brenner/model%20performance%20evaluation/specificity%20and%20sensitivity%20explained.jpg)
 
    ## **⚠️Question 1:** Why does this model have a high accuracy but poor performance in detecting spam? Which measurements would be more informative in this case?
-   
+
    ##  **🔬Question 2:** Should Biological Data Be Evaluated with Accuracy or Sensitivity/Specificity?
+
+   **Tools and Algorithms 🔧:**
+   - *Precision-Recall Curves* (scikit-learn): [Guide](https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html)
+   - *AUC-ROC Score* (scikit-learn): [AUC-ROC Example](https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html)
+   - *Confusion Matrix* (scikit-learn): [Guide](https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html)
 
    **Relevant Reading 📖:**
    - *A Survey of Model Evaluation Metrics for Imbalanced Data Classification*: [Paper Link](https://arxiv.org/abs/1505.01658)
