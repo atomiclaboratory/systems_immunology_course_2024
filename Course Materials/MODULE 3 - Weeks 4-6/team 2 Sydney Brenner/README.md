@@ -46,6 +46,17 @@ This study uses a systems biology approach to investigate both innate and adapti
    - *AUC-ROC Score* (scikit-learn): [AUC-ROC Example](https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html)
    - *Confusion Matrix* (scikit-learn): [Guide](https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html)
 
+   **What is a Confusion Matrix?**  
+   A confusion matrix is a tool used to evaluate the performance of a classification model. It shows the number of correct and incorrect predictions across the different classes in a dataset. The matrix consists of:
+   
+   - **True Positives (TP):** Correctly predicted positive cases.
+   - **True Negatives (TN):** Correctly predicted negative cases.
+   - **False Positives (FP):** Incorrectly predicted positive cases (also called Type I errors).
+   - **False Negatives (FN):** Incorrectly predicted negative cases (also called Type II errors).
+
+   **Confusion Matrix Example**  
+   ![Confusion Matrix Example](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%203%20-%20Weeks%204-6/team%202%20Sydney%20Brenner/confusion%20matrix/confusion%20matrix%20example.jpg)
+
    **Relevant Reading 📖:**
    - *A Survey of Model Evaluation Metrics for Imbalanced Data Classification*: [Paper Link](https://arxiv.org/abs/1505.01658)
 
