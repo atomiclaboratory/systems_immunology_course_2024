@@ -5,7 +5,6 @@
 **Members:**
 - Ziqing Yu  
 - Erica Anton  
-- Argerie Guevara  
 - Annelisa Fache
 
 This team will analyze the systems biology approach to influenza vaccination, discussing early molecular signatures that can predict vaccine efficacy. Their presentation will focus on the comparison between the trivalent inactivated influenza vaccine (TIV) and the live attenuated influenza vaccine (LAIV), highlighting the role of systems biology in understanding these differences.
