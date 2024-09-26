@@ -62,7 +62,8 @@ This study uses a systems biology approach to investigate both innate and adapti
    
    ![Specificity and Sensitivity Example](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%203%20-%20Weeks%204-6/team%202%20Sydney%20Brenner/model%20performance%20evaluation/specificity%20and%20sensitivity%20explained.jpg)
 
-   ### **Why does this model have a high accuracy but poor performance in detecting spam? Which measurements would be more informative in this case?**
+   > **⚠️Question 1:** Why does this model have a high accuracy but poor performance in detecting spam? Which measurements would be more informative in this case?
+   >  **🔬Question 2:** Should Biological Data Be Evaluated with Accuracy or Sensitivity/Specificity?
 
    **Relevant Reading 📖:**
    - *A Survey of Model Evaluation Metrics for Imbalanced Data Classification*: [Paper Link](https://arxiv.org/abs/1505.01658)
