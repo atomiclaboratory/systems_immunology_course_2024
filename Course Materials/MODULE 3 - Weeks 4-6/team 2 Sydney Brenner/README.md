@@ -61,6 +61,23 @@ This study uses a systems biology approach to investigate both innate and adapti
 
    ##  **🔬Question 2:** Should Biological Data Be Evaluated with Accuracy or Sensitivity/Specificity?
 
+   > **Answer:** The evaluation metric used for biological data depends on several factors, including the **type of data**, the **problem being solved**, and the **class distribution**. For most biological data, especially when the data are imbalanced or the stakes of incorrect predictions are high (e.g., disease diagnosis, vaccine response prediction), **sensitivity and specificity** are preferred over accuracy. 
+   
+   > **1. When to Use Accuracy:**
+      > > -   **Balanced Data**: If the dataset has an equal or nearly equal number of samples across different classes (e.g., immune responses are evenly distributed between “high” and “low”), accuracy might be a useful metric. It gives a general overview of how well the model performs across all classes.
+   > > -   **Low Cost of Misclassification**: If the consequences of a wrong prediction are relatively low (e.g., not detecting a mild immune response), accuracy could still be acceptable.
+   > > However, **biological datasets are often imbalanced**, making accuracy less reliable in many cases.
+
+   > **2. When to Use Sensitivity and Specificity:**
+   > > -   **Imbalanced Data**: Biological data often have imbalanced classes, where one outcome (e.g., rare diseases, certain immune responses, pathogen detection) is much rarer than others. In these cases, **accuracy can be misleading** because it may show a high value simply due to the model’s ability to predict the dominant class well.
+   > > -   **Sensitivity** (Recall) is critical when **focusing on detecting rare events** (e.g., identifying individuals who have a rare immune response or detecting a specific virus). Sensitivity evaluates how well the model captures positive cases, which can be extremely important in fields like disease detection or immune response analysis.
+   > > -   **Specificity** is important when it’s crucial to **minimize false positives** (e.g., diagnosing a disease when it’s not present). In many biological cases, especially in screening tests, you want to avoid false positives as much as false negatives.
+
+   > **3. What It Depends On:**
+   > > -   **The Nature of the Problem**: In vaccine trials, for example, if the goal is to identify individuals with a strong immune response, **sensitivity** would be more important. If you are screening for a condition (like detecting a specific pathogen or disease), balancing **sensitivity** (catching all positives) and **specificity** (minimizing false alarms) is crucial.
+   > > -   **Class Distribution**: If biological data are highly imbalanced, accuracy might paint an inaccurate picture of the model’s performance, so it’s better to focus on sensitivity and specificity.
+   > > -   **Cost of False Positives/Negatives**: In some biological applications (e.g., cancer detection, autoimmune disease diagnosis), the cost of false positives or false negatives can be significant, so **sensitivity and specificity** provide a clearer evaluation of the model’s performance than accuracy.
+
    **Tools and Algorithms 🔧:**
    - *Precision-Recall Curves* (scikit-learn): [Guide](https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html)
    - *AUC-ROC Score* (scikit-learn): [AUC-ROC Example](https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html)
