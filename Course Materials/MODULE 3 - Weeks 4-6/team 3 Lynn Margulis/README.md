@@ -97,6 +97,10 @@ In this study, the authors conducted a longitudinal analysis of 23 transgender m
      This paper outlines strategies for properly incorporating sex and gender differences in health research.  
      [Link to Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7027556/pdf/MJA2-212-57.pdf)
 
+5. **Systems analysis of sex differences reveals an immunosuppressive role for testosterone in the response to influenza vaccination**  
+   - *Furman, Hejblum, Simon, Jojic, Dekker, Thiébaut, Tibshirani, and Davis (2013)* explore how testosterone suppresses immune responses to influenza vaccination, highlighting sex-based differences in immune function.  
+   [Link to Article](https://doi.org/10.1073/pnas.1321060111)
+
 ---
 
 ## 📊 Available Tools for Controlling or Accounting for Gender in Research
