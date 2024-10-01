@@ -47,8 +47,8 @@ In this study, the authors conducted a longitudinal analysis of 23 transgender m
 ## Do you control for gender, and how should you account for gender variability in a vaccine efficacy study?
 
 > In your study on influenza vaccine efficacy, would you treat gender as a confounding variable that needs to be controlled, or as a primary variable of interest to account for in your analysis?
-        Controlling: What are the advantages and limitations of this approach in understanding the vaccine’s overall efficacy?
-        Accounting: What are the benefits of this approach in terms of understanding gender-specific immune responses? How might this lead to more personalized recommendations?
+> > Controlling: What are the advantages and limitations of this approach in understanding the vaccine’s overall efficacy?
+> > Accounting: What are the benefits of this approach in terms of understanding gender-specific immune responses?
 
 ## How can accounting for gender variability improve the understanding of vaccine efficacy and health outcomes?
 
@@ -56,9 +56,14 @@ In this study, the authors conducted a longitudinal analysis of 23 transgender m
 
 ## What are the potential dangers of controlling for gender without fully acknowledging its importance in vaccine efficacy?
 
-> Can you think of scenarios where simply controlling for gender—without examining its biological and immunological significance—could lead to misleading conclusions? For instance, what might happen if the study ignored the fact that females generally have a stronger immune response to vaccines?
+> Can you think of scenarios where simply controlling for gender—without examining its biological and immunological significance—could lead to misleading conclusions?
 
 ---
+
+### Definition of cofounding variable (ref. Shapiro, Klein and Morgan, 2021)
+> A confounding variable is a risk factor for the outcome that is also associated with the predictor, such that the observed relationship between predictor and outcome is confused by the presence of the confounder.
+
+
 
 ### 📖 **Relevant Reading Materials on Confounding Variables and Gender in Research:**
 
