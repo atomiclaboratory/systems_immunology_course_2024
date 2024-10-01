@@ -34,17 +34,15 @@ In this study, the authors conducted a longitudinal analysis of 23 transgender m
 2. **30-Minute Group Discussion (4:00 PM - 4:30 PM)**  
    The class will engage in a detailed discussion of the broader implications of hormone therapy on immune function. This will include a review of gender-specific immune adaptations during and after treatment, with consideration of how these changes may impact health outcomes in gender-diverse populations.
 
-3. **Team Task: Confounding Variables and Gender in Immune Responses (4:30 PM - 5:15 PM) 💬**
+3. **Team Tasks: Confounding Variables and Gender in Immune Responses (4:30 PM - 5:15 PM) 💬**
 
-### Hypothetical Study: Vaccine Efficacy in an Influenza Vaccine Trial
+### 3A: Do you control for gender, and how should you account for gender variability in a vaccine efficacy study?
+
+## Hypothetical Study: Vaccine Efficacy in an Influenza Vaccine Trial
 > **Study Design:**
 > Researchers are conducting a clinical trial to assess the efficacy of a new influenza vaccine in preventing flu infections among adults aged 18–65. The trial includes 1,000 participants, randomly divided into two groups:
       Group 1 receives the new influenza vaccine.
       Group 2 receives a placebo. The primary outcome of interest is the vaccine efficacy, measured by the reduction in flu infections among vaccinated individuals compared to the placebo group.
-
-## Questions:
-
-## Do you control for gender, and how should you account for gender variability in a vaccine efficacy study?
 
 > In your study on influenza vaccine efficacy, would you treat gender as a confounding variable that needs to be controlled, or as a primary variable of interest to account for in your analysis?
 > > Controlling: What are the advantages and limitations of this approach in understanding the vaccine’s overall efficacy?
@@ -57,6 +55,17 @@ In this study, the authors conducted a longitudinal analysis of 23 transgender m
 ## What are the potential dangers of controlling for gender without fully acknowledging its importance in vaccine efficacy?
 
 > Can you think of scenarios where simply controlling for gender—without examining its biological and immunological significance—could lead to misleading conclusions?
+
+---
+
+### 3B: How does gender impact the performance of the COMBAT ML model in predicting patient outcomes?
+
+> Discuss whether gender should be treated as a confounding variable or as a primary variable of interest in this model.
+
+![COMBAT ML Model - Gender](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%203%20-%20Weeks%204-6/team%203%20Lynn%20Margulis/reading%20materials/COMBAT%20ML%20model_gender.jpg)
+
+*Image from the COvid-19 Multi-omics Blood ATlas (COMBAT) Consortium, which Team Nobel will present.*  
+*Cite as: COMBAT Consortium. A blood atlas of COVID-19 defines hallmarks of disease severity and specificity. Resource Volume 185, Issue 5, p916-938.e58, March 03, 2022. DOI: [10.1016/j.cell.2022.01.012](https://doi.org/10.1016/j.cell.2022.01.012).*
 
 ---
 
