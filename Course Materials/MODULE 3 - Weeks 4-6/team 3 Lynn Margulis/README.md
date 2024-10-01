@@ -63,7 +63,11 @@ In this study, the authors conducted a longitudinal analysis of 23 transgender m
 ### Definition of cofounding variable (ref. Shapiro, Klein and Morgan, 2021)
 > A confounding variable is a risk factor for the outcome that is also associated with the predictor, such that the observed relationship between predictor and outcome is confused by the presence of the confounder.
 
+![Gender and Sex Variables](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%203%20-%20Weeks%204-6/team%203%20Lynn%20Margulis/reading%20materials/Gender%20and%20sex%20variables.png)
 
+*Figure adapted from: Shapiro JR, Klein SL, Morgan R. Stop ‘controlling’ for sex and gender in global health research. BMJ Global Health 2021;6:e005714. doi:10.1136/bmjgh-2021-005714*
+
+---
 
 ### 📖 **Relevant Reading Materials on Confounding Variables and Gender in Research:**
 
