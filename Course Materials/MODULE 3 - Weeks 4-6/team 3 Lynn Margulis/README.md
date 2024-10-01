@@ -36,7 +36,7 @@ In this study, the authors conducted a longitudinal analysis of 23 transgender m
 
 3. **Team Tasks: Confounding Variables and Gender in Immune Responses (4:30 PM - 5:15 PM) 💬**
 
-### 3A: Do you control for gender, and how should you account for gender variability in a vaccine efficacy study?
+### 3A: How should you account for gender variability in a vaccine efficacy study?
 
 ## Hypothetical Study: Vaccine Efficacy in an Influenza Vaccine Trial
 > **Study Design:**
