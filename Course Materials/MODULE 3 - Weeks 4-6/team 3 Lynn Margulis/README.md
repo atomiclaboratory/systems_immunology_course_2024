@@ -41,27 +41,24 @@ In this study, the authors conducted a longitudinal analysis of 23 transgender m
       Study Design:
 
       Researchers are conducting a clinical trial to assess the efficacy of a new influenza vaccine in preventing flu infections among adults aged 18–65. The trial includes 1,000 participants, randomly divided into two groups:
-
-          Group 1 receives the new influenza vaccine.
-          Group 2 receives a placebo.
+      Group 1 receives the new influenza vaccine.
+      Group 2 receives a placebo.
 
       The primary outcome of interest is the vaccine efficacy, measured by the reduction in flu infections among vaccinated individuals compared to the placebo group.
 
    ### Question: **Should Gender Be Considered When Analyzing Vaccine Efficacy?** How?
-
 
    **Example Discussion Points:**
 
 # Do you control for gender, and how should you account for gender variability in a vaccine efficacy study?
 
     In your study on influenza vaccine efficacy, would you treat gender as a confounding variable that needs to be controlled, or as a primary variable of interest to account for in your analysis?
-        Controlling: If you control for gender, you assume that the vaccine’s efficacy is generally the same across genders. What are the advantages and limitations of this approach in understanding the vaccine’s overall efficacy?
-        Accounting: If you account for gender as a variable of interest, you are exploring how vaccine efficacy differs between males and females. What are the benefits of this approach in terms of understanding gender-specific immune responses? How might this lead to more personalized recommendations?
+        Controlling: What are the advantages and limitations of this approach in understanding the vaccine’s overall efficacy?
+        Accounting: What are the benefits of this approach in terms of understanding gender-specific immune responses? How might this lead to more personalized recommendations?
 
 # How can accounting for gender variability improve the understanding of vaccine efficacy and health outcomes?
 
     In the context of your vaccine efficacy study, how would disaggregating data by gender help reveal important differences in how males and females respond to the vaccine?
-    How might these insights lead to improved health outcomes, such as more tailored vaccine dosing or booster recommendations for men and women? How could this ensure more equitable vaccine efficacy across genders?
 
 # What are the potential dangers of controlling for gender without fully acknowledging its importance in vaccine efficacy?
 
