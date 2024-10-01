@@ -36,20 +36,37 @@ In this study, the authors conducted a longitudinal analysis of 23 transgender m
 
 3. **Team Task: Confounding Variables and Gender in Immune Responses (4:30 PM - 5:15 PM) 💬**
 
-   ### Question: **What Are Confounding Variables and Why Should Gender Be Considered When Analyzing Immune Responses?**
+   ### Hypothetical Study: Vaccine Efficacy in an Influenza Vaccine Trial
+      
+      Study Design:
 
-   **Student Question:**  
-   Should you control for gender in your study, and how should you account for gender variability when examining health outcomes?
+      Researchers are conducting a clinical trial to assess the efficacy of a new influenza vaccine in preventing flu infections among adults aged 18–65. The trial includes 1,000 participants, randomly divided into two groups:
+
+          Group 1 receives the new influenza vaccine.
+          Group 2 receives a placebo.
+
+      The primary outcome of interest is the vaccine efficacy, measured by the reduction in flu infections among vaccinated individuals compared to the placebo group.
+
+   ### Question: **Should Gender Be Considered When Analyzing Vaccine Efficacy?** How?
+
 
    **Example Discussion Points:**
-   - **Do you control for gender, and how should you account for gender variability?**
-     - In your research, would you treat gender as a confounding variable to control for, or would you treat it as a variable of primary interest? What are the advantages and potential pitfalls of each approach, particularly when considering immune responses, treatment outcomes, or vaccine efficacy?
-   
-   - **How can accounting for gender variability improve health outcomes?**
-     - In global health research, how can disaggregating data by sex and gender improve the understanding of health outcomes (e.g., immune response, disease treatment, vaccine efficacy)? How might this approach impact the development of more effective and equitable health interventions?
 
-   - **What are the potential dangers of controlling for sex and gender without acknowledging their importance?**
-     - Can you think of examples where controlling for sex or gender without considering their biological or social importance could lead to harmful or inaccurate conclusions? Discuss the potential risks of ignoring gender as a variable that contributes to different health outcomes.
+# Do you control for gender, and how should you account for gender variability in a vaccine efficacy study?
+
+    In your study on influenza vaccine efficacy, would you treat gender as a confounding variable that needs to be controlled, or as a primary variable of interest to account for in your analysis?
+        Controlling: If you control for gender, you assume that the vaccine’s efficacy is generally the same across genders. What are the advantages and limitations of this approach in understanding the vaccine’s overall efficacy?
+        Accounting: If you account for gender as a variable of interest, you are exploring how vaccine efficacy differs between males and females. What are the benefits of this approach in terms of understanding gender-specific immune responses? How might this lead to more personalized recommendations?
+
+# How can accounting for gender variability improve the understanding of vaccine efficacy and health outcomes?
+
+    In the context of your vaccine efficacy study, how would disaggregating data by gender help reveal important differences in how males and females respond to the vaccine?
+    How might these insights lead to improved health outcomes, such as more tailored vaccine dosing or booster recommendations for men and women? How could this ensure more equitable vaccine efficacy across genders?
+
+# What are the potential dangers of controlling for gender without fully acknowledging its importance in vaccine efficacy?
+
+    Can you think of scenarios where simply controlling for gender—without examining its biological and immunological significance—could lead to misleading conclusions? For instance, what might happen if the study ignored the fact that females generally have a stronger immune response to vaccines?
+    Discuss the risks of underestimating vaccine efficacy for females or overestimating it for males if the gender-specific effects on immune response are not appropriately analyzed. What are the potential public health implications, such as incorrect vaccine recommendations or misallocation of resources?
 
 ---
 
@@ -78,4 +95,3 @@ In this study, the authors conducted a longitudinal analysis of 23 transgender m
 
 - **Group Discussion:** In small groups, students will choose a hypothetical study on a health outcome (e.g., vaccine efficacy, autoimmune disease prevalence, or drug treatment effectiveness). They will decide whether to treat **gender as a confounding variable** or as a **primary variable of interest**, justifying their decision. 
 - **Case Study Analysis:** Analyze a case where **controlling for gender** led to misleading results, and propose an alternative approach that takes gender differences into account to improve study outcomes.
-- **Application:** Students will create a study design that incorporates **gender-responsive research** to ensure that differences between genders are fully understood and acknowledged in the analysis, instead of simply being controlled.
