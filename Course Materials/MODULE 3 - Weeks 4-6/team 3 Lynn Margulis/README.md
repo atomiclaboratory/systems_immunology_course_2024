@@ -44,9 +44,9 @@ In this study, the authors conducted a longitudinal analysis of 23 transgender m
       Group 1 receives the new influenza vaccine.
       Group 2 receives a placebo. The primary outcome of interest is the vaccine efficacy, measured by the reduction in flu infections among vaccinated individuals compared to the placebo group.
 
-> In your study on influenza vaccine efficacy, would you treat gender as a confounding variable that needs to be controlled, or as a primary variable of interest to account for in your analysis?
-> > Controlling: What are the advantages and limitations of this approach in understanding the vaccine’s overall efficacy?
-> > Accounting: What are the benefits of this approach in terms of understanding gender-specific immune responses?
+## In your study on influenza vaccine efficacy, would you treat gender as a confounding variable that needs to be controlled, or as a primary variable of interest to account for in your analysis?
+> Controlling: What are the advantages and limitations of this approach in understanding the vaccine’s overall efficacy?
+> Accounting: What are the benefits of this approach in terms of understanding gender-specific immune responses?
 
 ## How can accounting for gender variability improve the understanding of vaccine efficacy and health outcomes?
 
