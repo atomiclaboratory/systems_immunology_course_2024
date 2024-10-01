@@ -94,23 +94,23 @@ In this study, the authors conducted a longitudinal analysis of 23 transgender m
 
 ### **Controlling for Gender as a Confounding Variable:**
 
-1. **Multiple Linear or Logistic Regression**  
-   Include gender as a covariate in the regression model to control for its influence on the outcome. This isolates the relationship between the main predictor and the outcome.
+1. **[Multiple Linear or Logistic Regression](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)**  
+   Include gender as a covariate in the regression model to control for its influence on the outcome. This isolates the relationship between the main predictor and the outcome. Learn more about how to implement logistic regression with scikit-learn in Python.
 
-2. **ANCOVA (Analysis of Covariance)**  
-   ANCOVA can adjust for gender by treating it as a covariate, allowing the comparison of group outcomes while controlling for gender differences.
+2. **[ANCOVA (Analysis of Covariance)](https://www.statisticshowto.com/ancova/)**  
+   ANCOVA can adjust for gender by treating it as a covariate, allowing the comparison of group outcomes while controlling for gender differences. This link provides an introduction and examples on how to perform ANCOVA.
 
 ---
 
 ### **Accounting for Gender as a Variable of Interest:**
 
-1. **Disaggregated Analysis**  
-   Run separate analyses for different gender groups to examine how outcomes differ by gender, providing a clearer understanding of gender-specific effects.
+1. **[Disaggregated Analysis]**  
+   Run separate analyses for different gender groups to examine how outcomes differ by gender, providing a clearer understanding of gender-specific effects. This source gives a detailed explanation of disaggregated analysis and its importance in research.
 
-2. **Mixed-Effects Models**  
-   Include gender as both a fixed effect and a random effect to account for gender differences while also modeling individual variations in longitudinal or hierarchical data.
+2. **[Mixed-Effects Models](https://journals.sagepub.com/doi/full/10.1177/2515245920960351)**  
+   Include gender as both a fixed effect and a random effect to account for gender differences while also modeling individual variations in longitudinal or hierarchical data. This document provides an overview of mixed-effects models and how they can be used in research.
 
-3. **Supervised Classification Models**  
-   When using any supervised classification model (e.g., Random Forest, Support Vector Machines, Naive Bayes) with gender as a predictor, you account for gender by including it in the model. If gender does not show up as an important predictor (i.e., it has a low variable importance score or coefficient), this means the model does not find gender to significantly impact the outcome. In this case, you have **accounted** for gender but not explicitly **controlled** for it. Including gender allows the model to evaluate its potential role in influencing the outcome (e.g., vaccine efficacy), but if its importance is low, the data suggests that gender may not be a critical factor in this specific instance.
+3. **[Supervised Classification Models](https://scikit-learn.org/stable/supervised_learning.html)**  
+   When using any supervised classification model (e.g., Random Forest, Support Vector Machines, Naive Bayes) with gender as a predictor, you account for gender by including it in the model. If gender does not show up as an important predictor (i.e., it has a low variable importance score or coefficient), this means the model does not find gender to significantly impact the outcome. In this case, you have **accounted** for gender but not explicitly **controlled** for it.
 
 ---
