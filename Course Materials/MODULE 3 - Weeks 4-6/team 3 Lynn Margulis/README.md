@@ -113,7 +113,7 @@ In this study, the authors conducted a longitudinal analysis of 23 transgender m
 
 ### **Accounting for Gender as a Variable of Interest:**
 
-1. **[Disaggregated Analysis]**  
+1. **Disaggregated Analysis**  
    Run separate analyses for different gender groups to examine how outcomes differ by gender, providing a clearer understanding of gender-specific effects. This source gives a detailed explanation of disaggregated analysis and its importance in research.
 
 2. **[Mixed-Effects Models](https://journals.sagepub.com/doi/full/10.1177/2515245920960351)**  
