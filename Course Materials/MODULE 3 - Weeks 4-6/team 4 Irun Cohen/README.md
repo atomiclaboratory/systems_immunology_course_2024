@@ -41,6 +41,20 @@ The study describes an HIV-1 controller with the HLA-B57*01 and HLA-B27*05 allel
 
 ### 3A: How do broadly neutralizing antibodies (bNAbs) affect HIV vaccine design?
 
+![Strategies to Design bNAb HIV Vaccines](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%203%20-%20Weeks%204-6/team%204%20Irun%20Cohen/reading%20materials/Strategies%20design%20bnAb%20HIV.png)
+
+*Adopted from: Haynes, B.F., Wiehe, K., Borrow, P. et al. Strategies for HIV-1 vaccines that induce broadly neutralizing antibodies. Nat Rev Immunol 23, 142–158 (2023). [DOI: 10.1038/s41577-022-00753-w](https://doi.org/10.1038/s41577-022-00753-w)*
+
+The image summarizes strategies for designing vaccines that induce HIV-1 broadly neutralizing antibodies (bNAbs). The process starts by studying the B cells of an HIV-1-infected person who naturally produces bNAbs. Researchers sequence the B cell receptors (BCRs) to trace how these antibodies evolve from their original form (called the unmutated common ancestor or UCA) to mature bNAbs. Using this information, vaccines are designed to guide the immune system along the same evolutionary path to produce bNAbs. 🧬
+
+Key approaches include:
+
+- **🧠 Germline-targeting:** Designing early vaccine components to bind to the UCA form of B cells, using specially selected or modified HIV envelope proteins (Env).
+- **🔬 Mutation-guided design:** Identifying critical mutations needed for bNAbs and designing vaccines that encourage B cells to evolve in that direction.
+- **📐 Structure-based design:** Using detailed models of how bNAbs bind to HIV to improve vaccine components.
+
+The goal is to create a sequence of vaccines that help B cells evolve into bNAb producers, providing protection against a wide range of HIV strains. 💉🦠
+
 **Hypothetical Study: HIV Vaccine Development Based on bNAb Responses**
 
 - **Study Design:**  
