@@ -88,13 +88,30 @@ bNAbs target conserved regions of the HIV-1 envelope, which are often shielded b
 
 ---
 
-### Citations for AlphaFold
+## Tools and Approaches 🔧
+
+- **AlphaFold (Protein structure prediction):**  
+  [AlphaFold website](https://alphafold.com/) | [AlphaFold Documentation](https://www.ebi.ac.uk/training/online/courses/alphafold/)
+
+- **OpenFold (Retraining AlphaFold for new insights):**  
+  - [OpenFold Documentation](https://openfold.readthedocs.io/en/latest/Inference.html)
+  - [OpenFold GitHub Repository](https://github.com/aqlaboratory/openfold)
+  - Citation: Ahdritz, G., Bouatta, N., Floristean, C. et al. *OpenFold: retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization.* Nat Methods 21, 1514–1524 (2024).  
+    [DOI: 10.1038/s41592-024-02272-z](https://doi.org/10.1038/s41592-024-02272-z)
+
+---
+
+## Relevant Reading 📖
 
 1. **AlphaFold's breakthrough paper:**  
-   Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., et al. (2021). Highly accurate protein structure prediction with AlphaFold. *Nature*, 596(7873), 583-589.  
+   Jumper, J., Evans, R., Pritzel, A., et al. *Highly accurate protein structure prediction with AlphaFold.* Nature 596, 583–589 (2021).  
    [DOI: 10.1038/s41586-021-03819-2](https://doi.org/10.1038/s41586-021-03819-2)
 
-2. **AlphaFold Protein Structure Database 2024 Update:**  
+2. **OpenFold's development and retraining insights:**  
+   Ahdritz, G., Bouatta, N., Floristean, C. et al. *OpenFold: retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization.* Nat Methods 21, 1514–1524 (2024).  
+   [DOI: 10.1038/s41592-024-02272-z](https://doi.org/10.1038/s41592-024-02272-z)
+
+3. **AlphaFold Protein Structure Database (2024 Update):**  
    Providing structure coverage for over 214 million protein sequences.  
    *Nucleic Acids Research*, Volume 52, Issue D1, 5 January 2024, Pages D368–D375.  
    [DOI: 10.1093/nar/gkad1011](https://doi.org/10.1093/nar/gkad1011)
