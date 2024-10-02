@@ -72,7 +72,7 @@ The study describes an HIV-1 controller with the HLA-B57*01 and HLA-B27*05 allel
 
 ---
 
-### 3C: Using AlphaFold to Improve HIV Vaccine Design
+### 3B: Using AlphaFold to Improve HIV Vaccine Design
 
 1. **What is AlphaFold?**  
    AlphaFold is an AI-based tool developed by DeepMind that predicts the three-dimensional structure of proteins with high accuracy based on their amino acid sequences. Understanding these structures is crucial for designing vaccines, as protein shape dictates how the immune system recognizes and neutralizes pathogens.
