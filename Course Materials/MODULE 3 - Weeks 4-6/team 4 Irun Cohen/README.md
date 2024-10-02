@@ -78,6 +78,8 @@ The study describes an HIV-1 controller with the HLA-B57*01 and HLA-B27*05 allel
    AlphaFold is an AI-based tool developed by DeepMind that predicts the three-dimensional structure of proteins with high accuracy based on their amino acid sequences. Understanding these structures is crucial for designing vaccines, as protein shape dictates how the immune system recognizes and neutralizes pathogens.
 
    - Learn more about AlphaFold: [AlphaFold website](https://alphafold.com/)
+   - Google DeepMind video: [AlphaFold: The making of a scientific breakthrough] (https://www.youtube.com/watch?v=gg7WjuFs8F4)
+   - Video from NEJM: [What is AlphaFold? Youtube video] (https://www.youtube.com/watch?v=7q8Uw3rmXyE) 
 
 2. **How to Use AlphaFold:**  
    Learn how to input protein sequences into AlphaFold to obtain structural predictions. Explore how these predictions can be applied to research in immunology, particularly in understanding the structure of HIV envelope proteins and bNAbs like BG18.
