@@ -91,7 +91,7 @@ bNAbs target conserved regions of the HIV-1 envelope, which are often shielded b
 ## Tools and Approaches 🔧
 
 - **AlphaFold (Protein structure prediction):**  
-  [AlphaFold website](https://alphafold.com/) | [AlphaFold Documentation](https://www.ebi.ac.uk/training/online/courses/alphafold/)
+  [AlphaFold website](https://alphafold.com/) | [AlphaFold Tutorial](https://www.ebi.ac.uk/training/online/courses/alphafold/)
 
 - **OpenFold (Retraining AlphaFold for new insights):**  
   - [OpenFold Documentation](https://openfold.readthedocs.io/en/latest/Inference.html)
