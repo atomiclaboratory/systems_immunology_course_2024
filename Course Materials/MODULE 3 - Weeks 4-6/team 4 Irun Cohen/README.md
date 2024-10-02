@@ -1,4 +1,4 @@
-# 🧬🦠 Coexistence of Potent HIV-1 Broadly Neutralizing Antibodies and Antibody-Sensitive Viruses in a Viremic Controller
+# 🧬🦠 HIV-1 and Neutralizing Antibodies: A Battle for Control
 
 ## Team 4 - Irun Cohen
 
@@ -65,3 +65,36 @@ Researchers have found that inducing bNAbs through vaccination is difficult due 
 
 **Answer:**  
 bNAbs target conserved regions of the HIV-1 envelope, which are often shielded by glycan structures or undergo rapid mutation. The immune system's tendency to focus on variable regions, which change frequently, makes it difficult to produce bNAbs that can neutralize a wide variety of viral strains. Vaccine strategies must therefore aim to focus immune responses on these conserved regions, potentially through sequential immunization or the use of stabilized envelope proteins.
+
+---
+
+### 3C: Using AlphaFold to Improve HIV Vaccine Design
+
+1. **What is AlphaFold?**  
+   AlphaFold is an AI-based tool developed by DeepMind that predicts the three-dimensional structure of proteins with high accuracy based on their amino acid sequences. Understanding these structures is crucial for designing vaccines, as protein shape dictates how the immune system recognizes and neutralizes pathogens.
+
+   - Learn more about AlphaFold: [AlphaFold website](https://alphafold.com/)
+
+2. **How to Use AlphaFold:**  
+   Learn how to input protein sequences into AlphaFold to obtain structural predictions. Explore how these predictions can be applied to research in immunology, particularly in understanding the structure of HIV envelope proteins and bNAbs like BG18.
+
+   - Tutorial on using AlphaFold: [Online AlphaFold tutorial](https://www.ebi.ac.uk/training/online/courses/alphafold/)
+
+3. **Using AlphaFold in the Context of This Study:**  
+   Discuss how AlphaFold can model the structure of HIV envelope proteins or bNAbs to predict which viral regions are most vulnerable to immune attack. Explore how this information could be used to design vaccine candidates that target these conserved regions more effectively.
+
+4. **Improving HIV Vaccines with AlphaFold:**  
+   Using AlphaFold’s structural predictions, researchers can refine the design of HIV vaccines by focusing on conserved regions of the virus that bNAbs can target. This approach can enhance vaccine effectiveness by ensuring the vaccine induces antibodies that neutralize a wide variety of HIV-1 strains.
+
+---
+
+### Citations for AlphaFold
+
+1. **AlphaFold's breakthrough paper:**  
+   Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., et al. (2021). Highly accurate protein structure prediction with AlphaFold. *Nature*, 596(7873), 583-589.  
+   [DOI: 10.1038/s41586-021-03819-2](https://doi.org/10.1038/s41586-021-03819-2)
+
+2. **AlphaFold Protein Structure Database 2024 Update:**  
+   Providing structure coverage for over 214 million protein sequences.  
+   *Nucleic Acids Research*, Volume 52, Issue D1, 5 January 2024, Pages D368–D375.  
+   [DOI: 10.1093/nar/gkad1011](https://doi.org/10.1093/nar/gkad1011)
