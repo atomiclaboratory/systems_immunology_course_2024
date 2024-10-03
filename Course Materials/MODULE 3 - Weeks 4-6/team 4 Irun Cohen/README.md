@@ -57,9 +57,6 @@ The goal is to create a sequence of vaccines that help B cells evolve into bNAb 
 
 **Discussion points & Questions:**
 
-- **Immunogenicity of Envelope Glycoproteins:**  
-  How do different glycoproteins influence the generation of bNAbs, and what factors should be considered when choosing these antigens?
-
 - **Autologous vs. Heterologous Strains:**  
   Should the vaccine target the individual's own viral strains (autologous) or a wide range of strains (heterologous)? How does this choice impact vaccine efficacy?
 
