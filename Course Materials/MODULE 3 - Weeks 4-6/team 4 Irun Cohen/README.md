@@ -55,7 +55,7 @@ Key approaches include:
 
 The goal is to create a sequence of vaccines that help B cells evolve into bNAb producers, providing protection against a wide range of HIV strains. 💉🦠
 
-**Key Considerations:**
+**Discussion points & Questions:**
 
 - **Immunogenicity of Envelope Glycoproteins:**  
   How do different glycoproteins influence the generation of bNAbs, and what factors should be considered when choosing these antigens?
