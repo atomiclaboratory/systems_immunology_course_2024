@@ -109,30 +109,35 @@ The study describes an HIV-1 controller with the HLA-B57*01 and HLA-B27*05 allel
 
 ## Relevant Reading 📖
 
-1. **AlphaFold's breakthrough paper:**  
-   Jumper, J., Evans, R., Pritzel, A., et al. *Highly accurate protein structure prediction with AlphaFold.* Nature 596, 583–589 (2021).  
-   [DOI: 10.1038/s41586-021-03819-2](https://doi.org/10.1038/s41586-021-03819-2)
+1. **Strategies for HIV-1 vaccines that induce broadly neutralizing antibodies:**  
+   Haynes, B.F., Wiehe, K., Borrow, P., et al. *Strategies for HIV-1 vaccines that induce broadly neutralizing antibodies.* Nat Rev Immunol 23, 142–158 (2023).  
+   *This review discusses challenges in HIV-1 vaccine development and strategies for inducing potent broadly neutralizing antibodies (bnAbs) by activating and expanding rare bnAb-producing B cells.*  
+   [DOI: 10.1038/s41577-022-00753-w](https://doi.org/10.1038/s41577-022-00753-w)
 
-2. **OpenFold's development and retraining insights:**  
-   Ahdritz, G., Bouatta, N., Floristean, C. et al. *OpenFold: retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization.* Nat Methods 21, 1514–1524 (2024).  
-   [DOI: 10.1038/s41592-024-02272-z](https://doi.org/10.1038/s41592-024-02272-z)
-
-3. **AlphaFold Protein Structure Database (2024 Update):**  
-   Providing structure coverage for over 214 million protein sequences.  
-   *Nucleic Acids Research*, Volume 52, Issue D1, 5 January 2024, Pages D368–D375.  
-   [DOI: 10.1093/nar/gkad1011](https://doi.org/10.1093/nar/gkad1011)
-
-4. **Vaccination induces HIV broadly neutralizing antibody precursors in humans:**  
+2. **Vaccination induces HIV broadly neutralizing antibody precursors in humans:**  
    Leggat, D.J., Cohen, K.W., Willis, J.R., et al. *Vaccination induces HIV broadly neutralizing antibody precursors in humans.* Science 378, eadd6502 (2022).  
    *This study demonstrates that a vaccine priming strategy successfully induced precursors to broadly neutralizing antibodies (bnAbs) against HIV in human participants.*  
    [DOI: 10.1126/science.add6502](https://doi.org/10.1126/science.add6502)
 
-5. **Vaccination induces broadly neutralizing antibody precursors to HIV gp41:**  
+3. **mRNA-LNP HIV-1 trimer boosters elicit precursors to broad neutralizing antibodies:**  
+   Xie, Z., Lin, Y.C., Steichen, J.M., et al. *mRNA-LNP HIV-1 trimer boosters elicit precursors to broad neutralizing antibodies.* Science 384, 6697 (2024).  
+   *This study shows that mRNA-lipid nanoparticle vaccine technology can effectively boost precursor antibodies for HIV, facilitating the development of broadly neutralizing antibodies.*  
+   [DOI: 10.1126/science.adk0582](https://doi.org/10.1126/science.adk0582)
+
+4. **Vaccination induces broadly neutralizing antibody precursors to HIV gp41:**  
    Schiffner, T., Phung, I., Ray, R., et al. *Vaccination induces broadly neutralizing antibody precursors to HIV gp41.* Nat Immunol 25, 1073–1082 (2024).  
    *This research highlights the use of engineered nanoparticles to trigger precursor B cells for broadly neutralizing antibodies against HIV in mice and rhesus macaques.*  
    [DOI: 10.1038/s41590-024-01458-w](https://www.nature.com/articles/s41590-024-01458-w)
 
-6. **mRNA-LNP HIV-1 trimer boosters elicit precursors to broad neutralizing antibodies:**  
-   Xie, Z., Lin, Y.C., Steichen, J.M., et al. *mRNA-LNP HIV-1 trimer boosters elicit precursors to broad neutralizing antibodies.* Science 384, 6697 (2024).  
-   *This study shows that mRNA-lipid nanoparticle vaccine technology can effectively boost precursor antibodies for HIV, facilitating the development of broadly neutralizing antibodies.*  
-   [DOI: 10.1126/science.adk0582](https://doi.org/10.1126/science.adk0582)
+5. **AlphaFold's breakthrough paper:**  
+   Jumper, J., Evans, R., Pritzel, A., et al. *Highly accurate protein structure prediction with AlphaFold.* Nature 596, 583–589 (2021).  
+   [DOI: 10.1038/s41586-021-03819-2](https://doi.org/10.1038/s41586-021-03819-2)
+
+6. **AlphaFold Protein Structure Database (2024 Update):**  
+   Providing structure coverage for over 214 million protein sequences.  
+   *Nucleic Acids Research*, Volume 52, Issue D1, 5 January 2024, Pages D368–D375.  
+   [DOI: 10.1093/nar/gkad1011](https://doi.org/10.1093/nar/gkad1011)
+
+7. **OpenFold's development and retraining insights:**  
+   Ahdritz, G., Bouatta, N., Floristean, C. et al. *OpenFold: retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization.* Nat Methods 21, 1514–1524 (2024).  
+   [DOI: 10.1038/s41592-024-02272-z](https://doi.org/10.1038/s41592-024-02272-z)
