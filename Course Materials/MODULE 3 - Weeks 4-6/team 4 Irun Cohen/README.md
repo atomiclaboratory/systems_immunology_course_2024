@@ -121,3 +121,18 @@ The study describes an HIV-1 controller with the HLA-B57*01 and HLA-B27*05 allel
    Providing structure coverage for over 214 million protein sequences.  
    *Nucleic Acids Research*, Volume 52, Issue D1, 5 January 2024, Pages D368–D375.  
    [DOI: 10.1093/nar/gkad1011](https://doi.org/10.1093/nar/gkad1011)
+
+4. **Vaccination induces HIV broadly neutralizing antibody precursors in humans:**  
+   Leggat, D.J., Cohen, K.W., Willis, J.R., et al. *Vaccination induces HIV broadly neutralizing antibody precursors in humans.* Science 378, eadd6502 (2022).  
+   *This study demonstrates that a vaccine priming strategy successfully induced precursors to broadly neutralizing antibodies (bnAbs) against HIV in human participants.*  
+   [DOI: 10.1126/science.add6502](https://doi.org/10.1126/science.add6502)
+
+5. **Vaccination induces broadly neutralizing antibody precursors to HIV gp41:**  
+   Schiffner, T., Phung, I., Ray, R., et al. *Vaccination induces broadly neutralizing antibody precursors to HIV gp41.* Nat Immunol 25, 1073–1082 (2024).  
+   *This research highlights the use of engineered nanoparticles to trigger precursor B cells for broadly neutralizing antibodies against HIV in mice and rhesus macaques.*  
+   [DOI: 10.1038/s41590-024-01458-w](https://www.nature.com/articles/s41590-024-01458-w)
+
+6. **mRNA-LNP HIV-1 trimer boosters elicit precursors to broad neutralizing antibodies:**  
+   Xie, Z., Lin, Y.C., Steichen, J.M., et al. *mRNA-LNP HIV-1 trimer boosters elicit precursors to broad neutralizing antibodies.* Science 384, 6697 (2024).  
+   *This study shows that mRNA-lipid nanoparticle vaccine technology can effectively boost precursor antibodies for HIV, facilitating the development of broadly neutralizing antibodies.*  
+   [DOI: 10.1126/science.adk0582](https://doi.org/10.1126/science.adk0582)
