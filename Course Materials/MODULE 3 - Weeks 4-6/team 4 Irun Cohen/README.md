@@ -102,6 +102,14 @@ The goal is to create a sequence of vaccines that help B cells evolve into bNAb 
 
 ---
 
+## Game 🎮
+
+- **Foldit (suggested by Maya Bartels, thanks!):**
+[Foldit](https://fold.it/)
+*Foldit is an online puzzle game where players help solve complex protein folding problems, contributing to scientific research in structural biology and protein design.*
+
+---
+
 ## Relevant Reading 📖
 
 1. **Strategies for HIV-1 vaccines that induce broadly neutralizing antibodies:**  
