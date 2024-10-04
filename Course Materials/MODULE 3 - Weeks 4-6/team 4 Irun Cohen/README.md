@@ -58,11 +58,16 @@ The goal is to create a sequence of vaccines that help B cells evolve into bNAb 
 **Discussion points & Questions:**
 
 - **Autologous vs. Heterologous Strains:**  
-  Should the vaccine target the individual's own viral strains (autologous) or a wide range of strains (heterologous)? How does this choice impact vaccine efficacy?
+  *Should the vaccine target the individual's own viral strains (autologous) or a wide range of strains (heterologous)? How does this choice impact vaccine efficacy?*
+> > **Answer:**
+> > Autologous strains target an individual's specific viral variants, potentially offering more personalized protection. However, heterologous strains cover a broader spectrum of HIV variants, which could increase vaccine efficacy across diverse populations and provide protection against evolving strains.
 
 - **Combinations of bNAbs:**  
-  What are the benefits and challenges of using combinations of bNAbs to control HIV, as shown in the study?
- 
+  *What are the benefits and challenges of using combinations of bNAbs to control HIV, as shown in the study?*
+> > **Answer:**
+> > - **Benefits:** Combinations of broadly neutralizing antibodies (bNAbs) can target multiple viral sites, reducing the chance of escape mutations and offering more robust control of HIV.
+> > - **Challenges:** Producing and administering multiple bNAbs can be complex and costly, and there may be issues with varying half-lives and immune system reactions.
+
 - **Rearchers have found that inducing bNAbs through vaccination is difficult due to the immune system's tendency to favor antibody responses to variable regions of the virus. Why are bNAbs rare? How to improve vaccination strategies and vaccine design?**
 > > **Answer:**  
 > > bNAbs target conserved regions of the HIV-1 envelope, which are often shielded by glycan structures or undergo rapid mutation. The immune system's tendency to focus on variable regions, which change frequently, makes it difficult to produce bNAbs that can neutralize a wide variety of viral strains. Vaccine strategies must therefore aim to focus immune responses on these conserved regions, potentially through sequential immunization or the use of stabilized envelope proteins.
