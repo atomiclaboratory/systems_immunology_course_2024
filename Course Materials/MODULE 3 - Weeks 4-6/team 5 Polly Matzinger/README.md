@@ -38,6 +38,7 @@ This study investigates the immune factors that influence outcomes in Mycobacter
    The class will engage in a discussion on how immune factors contribute to the variability in tuberculosis infection outcomes. This will include examining the immune signatures associated with disease progression and potential therapeutic targets.
 
 3. **Team-task: Danger Theory and Tuberculosis (4:30 PM - 5:15 PM) 💣🦠🧬**
+Each team will take 15 minutes to discuss their answer internally, then report back to the class for a roundtable discussion of how **Danger Theory** can explain the immune system's response in the context of tuberculosis infection.
 
 ## 💣🔬 What is Danger Theory?
 
@@ -51,18 +52,20 @@ For more detailed insight, refer to Matzinger’s original work:
 ### Question: 
 How do the immune signatures described in the tuberculosis study reflect the principles of Danger Theory? Can the deviations in immune cell populations (e.g., NK cells, T and B cells) be understood as responses to host tissue damage or distress rather than to the presence of the pathogen itself?
 
-### Each team will take 15 minutes to discuss their answer internally, then report back to the class for a 15-minute roundtable discussion.
-
 Teams should consider:
 
 - 💣 **Damage Detection**: Are the immune responses, such as the increase in NK cells or inflammation, triggered by damage to host tissues rather than the bacteria itself?
 - 🦠 **Latent vs Active TB**: How does the immune system's response to distress signals differ between latent and active tuberculosis?
 - 🔬 **Immune Deviations**: Do the changes in T and B cell compartments during TB latency suggest that the immune system is reacting to ongoing tissue stress or low-level damage?
 
-After the internal discussion, teams will present their understanding of how **Danger Theory** can explain the immune system's response in the context of tuberculosis infection.
-
-### Roundtable Discussion (15 minutes) 🗣️
-
-The class will engage in a broader discussion about how Danger Theory could inform future research on tuberculosis and whether the immune signatures identified in the study align with this model of immune activation.
-
 ---
+
+## Additional Reading Materials 📚
+
+For more insight into Danger Theory and its applications, students are encouraged to explore the following materials:
+
+1. **Matzinger, P.** (2002). *The danger model: a renewed sense of self*. *Science*, 296(5566), 301-305.  
+   DOI: [10.1126/science.1071059](https://doi.org/10.1126/science.1071059)
+
+2. **Matzinger, P., & Kamala, T.** (2011). *Tissue-based class control: the other side of tolerance*. *Nature Reviews Immunology*, 11, 221–230.  
+   DOI: [10.1038/nri2940](https://doi.org/10.1038/nri2940)
