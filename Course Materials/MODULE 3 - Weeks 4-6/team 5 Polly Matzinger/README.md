@@ -40,7 +40,7 @@ This study investigates the immune factors that influence outcomes in Mycobacter
 3. **Team-task: Danger Theory and Tuberculosis (4:30 PM - 5:15 PM) 💣🦠🧬**
 Each team will take 15 minutes to discuss their answer internally, then report back to the class for a roundtable discussion of how **Danger Theory** can explain the immune system's response in the context of tuberculosis infection.
 
-## 💣🔬 What is Danger Theory?
+## 💣 What is Danger Theory?
 
 **Danger Theory**, proposed by Polly Matzinger in 1994, challenges the traditional self-nonself paradigm of the immune system. According to the self-nonself model, the immune system distinguishes between self (the body’s own tissues) and nonself (foreign entities like pathogens), attacking anything perceived as nonself. However, Matzinger’s **Danger Theory** suggests that the immune system is more concerned with detecting **damage** than with recognizing foreign. The immune response is triggered by danger signals from injured or stressed cells 🆘, rather than by the mere presence of foreign substances.
 
@@ -48,6 +48,11 @@ In the context of tuberculosis 🦠, **Danger Theory** helps us understand how t
 
 For more detailed insight, refer to Matzinger’s original work:
 **Matzinger, P.** (1994). *Tolerance, danger, and the extended family*. *Annual Review of Immunology*, 12, 991-1045. doi: [10.1146/annurev.iy.12.040194.005015](https://doi.org/10.1146/annurev.iy.12.040194.005015)
+
+## 💣 Danger Theory Explained by Polly Matzinger
+For a simplistic explanation of Polly Matzinger’s **Danger Model**, watch this video where she breaks down the theory in a clear and approachable way:
+[**Watch Polly Matzinger explain the Danger Model**](https://www.youtube.com/watch?v=5d9f-K_qHxA)
+
 
 ### Question: 
 How do the immune signatures described in the tuberculosis study reflect the principles of Danger Theory? Can the deviations in immune cell populations (e.g., NK cells, T and B cells) be understood as responses to host tissue damage or distress rather than to the presence of the pathogen itself?
