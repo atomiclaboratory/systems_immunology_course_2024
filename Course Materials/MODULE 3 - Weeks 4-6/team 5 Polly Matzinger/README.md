@@ -100,6 +100,8 @@ Imagine a patient named **Neo**, who has been diagnosed with latent tuberculosis
    C) NK cell levels are most predictive 0–60 days before diagnosis.
    D) NK cell levels are least predictive in the 0–60 day window before diagnosis.
 
+![ROC Plot](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%203%20-%20Weeks%204-6/team%205%20Polly%20Matzinger/reading%20materials/fig4c%20roc%20plot.png)
+
 ---
 
 ## Additional Reading Materials 📚
