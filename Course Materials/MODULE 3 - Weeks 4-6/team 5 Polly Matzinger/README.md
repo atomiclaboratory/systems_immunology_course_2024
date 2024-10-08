@@ -42,14 +42,11 @@ Each team will take 15 minutes to discuss their answer internally, then report b
 
 ## 💣 What is Danger Theory?
 
-**Danger Theory**, proposed by Polly Matzinger in 1994, challenges the traditional self-nonself paradigm of the immune system. According to the self-nonself model, the immune system distinguishes between self (the body’s own tissues) and nonself (foreign entities like pathogens), attacking anything perceived as nonself. However, Matzinger’s **Danger Theory** suggests that the immune system is more concerned with detecting **damage** than with recognizing foreign. The immune response is triggered by danger signals from injured or stressed cells 🆘, rather than by the mere presence of foreign substances.
-
-In the context of tuberculosis 🦠, **Danger Theory** helps us understand how the immune system may respond to the *Mycobacterium tuberculosis* infection, focusing on damage or distress signals from host tissues rather than the bacteria itself.
-
-For more detailed insight, refer to Matzinger’s original work:
+> **Danger Theory**, proposed by Polly Matzinger in 1994, challenges the traditional self-nonself paradigm of the immune system. According to the self-nonself model, the immune system distinguishes between self (the body’s own tissues) and nonself (foreign entities like pathogens), attacking anything perceived as nonself. However, Matzinger’s **Danger Theory** suggests that the immune system is more concerned with detecting **damage** than with recognizing foreign. The immune response is triggered by danger signals from injured or stressed cells 🆘, rather than by the mere presence of foreign substances.
+> In the context of tuberculosis 🦠, **Danger Theory** helps us understand how the immune system may respond to the *Mycobacterium tuberculosis* infection, focusing on damage or distress signals from host tissues rather than the bacteria itself.
+> For more detailed insight, refer to Matzinger’s original work:
 **Matzinger, P.** (1994). *Tolerance, danger, and the extended family*. *Annual Review of Immunology*, 12, 991-1045. doi: [10.1146/annurev.iy.12.040194.005015](https://doi.org/10.1146/annurev.iy.12.040194.005015)
-
-### 💣 Danger Theory Explained by Polly Matzinger
+> ### 💣 Danger Theory Explained by Polly Matzinger
 For a simplistic explanation of Polly Matzinger’s **Danger Model**, watch this video where she breaks down the theory in a clear and approachable way:
 [**Watch Polly Matzinger explain the Danger Model**](https://www.youtube.com/watch?v=5d9f-K_qHxA)
 
@@ -96,7 +93,7 @@ Imagine a patient named **Neo**, who has been diagnosed with latent tuberculosis
    B) In both latent and active TB, the immune response is the same.  
    C) The immune system only responds to distress signals during active TB.  
    D) In latent TB, the immune system shuts down, while in active TB it becomes fully activated.
-   
+
 ---
 
 ## Additional Reading Materials 📚
