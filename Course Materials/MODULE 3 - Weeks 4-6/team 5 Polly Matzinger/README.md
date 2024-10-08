@@ -62,6 +62,23 @@ Imagine a patient named **Neo**, who has been diagnosed with latent tuberculosis
 
 ---
 
+### Quiz Time! 🎉
+
+## Join the Interactive Quiz on Slido
+
+🔗 **[Join the quiz on Slido](https://wall.sli.do/event/fTfUXbUjmmwrRH3K8eXAud?section=3500d41e-9d59-47f0-8c46-5a22293db9b3)**
+
+There are **6 questions**, each with multiple-choice answers (A, B, C, D). You have **2 minutes** per question.  
+Please **join as a team**, using your **team name** (for example, **Team Salk**). Let's see which team comes out on top—with a clear advantage for **Team Matzinger**! 😉
+
+### Quiz Overview:
+
+- **6 questions** total.
+- **2 minutes** per question.
+- **Submit your answers as a team**.
+
+Best of luck! 🧬💡
+
 ### Quiz Questions:
 
 1. **🦠 Why have Neo’s NK cell levels increased during latent TB?**  
@@ -88,11 +105,11 @@ Imagine a patient named **Neo**, who has been diagnosed with latent tuberculosis
    C) The immune system is overreacting to the presence of *Mycobacterium tuberculosis*.  
    D) These deviations are a sign that the infection is being cleared.
 
-5. **⚖️ How does the immune system's response to distress signals differ between latent and active tuberculosis?**  
-   A) In latent TB, the immune system controls the infection with a low-level, ongoing response, while in active TB, the response becomes more aggressive due to increased tissue damage.  
-   B) In both latent and active TB, the immune response is the same.  
-   C) The immune system only responds to distress signals during active TB.  
-   D) In latent TB, the immune system shuts down, while in active TB it becomes fully activated.
+5. ⚖️ **What is the difference in the immune system's response to latent tuberculosis compared to active tuberculosis?**  
+   A) In latent TB, the immune system maintains a low-level response to tissue damage, while in active TB, it intensifies due to increased damaged tissues.
+   B) In latent TB, the immune system ignores the infection until it becomes active, while in active TB, it launches a full response to clear the bacteria.  
+   C) In latent TB, the immune system keeps the infection under control with a low-level, persistent response, while in active TB, the response intensifies due to increased tissue damage and bacterial activity. 
+   D) In latent TB, the immune system actively suppresses the infection but doesn’t cause tissue damage, while in active TB, the immune response causes both tissue damage and bacterial clearance. 
 
 6. **📈 Based on the ROC curve (Fig. 4C), how accurate are NK cell levels at predicting progression to active TB within different time windows before diagnosis?**  
    A) NK cell levels are most predictive 0–200 days before diagnosis.  
