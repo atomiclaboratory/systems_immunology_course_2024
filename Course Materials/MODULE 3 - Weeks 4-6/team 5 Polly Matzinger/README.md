@@ -94,6 +94,12 @@ Imagine a patient named **Neo**, who has been diagnosed with latent tuberculosis
    C) The immune system only responds to distress signals during active TB.  
    D) In latent TB, the immune system shuts down, while in active TB it becomes fully activated.
 
+6. **📈 Based on the ROC curve (Fig. 4C), how accurate are NK cell levels at predicting progression to active TB within different time windows before diagnosis?**  
+   A) NK cell levels are most predictive 0–200 days before diagnosis.  
+   B) NK cell levels are equally predictive across all time windows.
+   C) NK cell levels are most predictive 0–60 days before diagnosis.
+   D) NK cell levels are least predictive in the 0–60 day window before diagnosis.
+
 ---
 
 ## Additional Reading Materials 📚
