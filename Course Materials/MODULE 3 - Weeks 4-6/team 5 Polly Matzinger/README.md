@@ -47,7 +47,7 @@ Each team will take 15 minutes to discuss their answer internally, then report b
 > For more detailed insight, refer to Matzinger’s original work:
 **Matzinger, P.** (1994). *Tolerance, danger, and the extended family*. *Annual Review of Immunology*, 12, 991-1045. doi: [10.1146/annurev.iy.12.040194.005015](https://doi.org/10.1146/annurev.iy.12.040194.005015)
 > ### 💣 Danger Theory Explained by Polly Matzinger
-For a simplistic explanation of Polly Matzinger’s **Danger Model**, watch this video where she breaks down the theory in a clear and approachable way:
+> For a simplistic explanation of Polly Matzinger’s **Danger Model**, watch this video where she breaks down the theory in a clear and approachable way:
 [**Watch Polly Matzinger explain the Danger Model**](https://www.youtube.com/watch?v=5d9f-K_qHxA)
 
 ## Team-task - 🦠 Latent TB: Neo's Case Study
