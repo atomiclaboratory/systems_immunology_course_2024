@@ -37,5 +37,32 @@ This study investigates the immune factors that influence outcomes in Mycobacter
 2. **30-Minute Group Discussion (4:00 PM - 4:30 PM)**  
    The class will engage in a discussion on how immune factors contribute to the variability in tuberculosis infection outcomes. This will include examining the immune signatures associated with disease progression and potential therapeutic targets.
 
-3. **Team Tasks: (4:30 PM - 5:15 PM) 💬**  
-   Groups will collaborate to analyze case studies and apply systems immunology concepts to identify key immune mechanisms influencing tuberculosis outcomes.
+3. **Team-task: Danger Theory and Tuberculosis (4:30 PM - 5:15 PM) 💣🦠🧬**
+
+## 💣🔬 What is Danger Theory?
+
+**Danger Theory**, proposed by Polly Matzinger in 1994, challenges the traditional self-nonself paradigm of the immune system. According to the self-nonself model, the immune system distinguishes between self (the body’s own tissues) and nonself (foreign entities like pathogens), attacking anything perceived as nonself. However, Matzinger’s **Danger Theory** suggests that the immune system is more concerned with detecting **damage** than with recognizing foreign. The immune response is triggered by danger signals from injured or stressed cells 🆘, rather than by the mere presence of foreign substances.
+
+In the context of tuberculosis 🦠, **Danger Theory** helps us understand how the immune system may respond to the *Mycobacterium tuberculosis* infection, focusing on damage or distress signals from host tissues rather than the bacteria itself.
+
+For more detailed insight, refer to Matzinger’s original work:
+**Matzinger, P.** (1994). *Tolerance, danger, and the extended family*. *Annual Review of Immunology*, 12, 991-1045. doi: [10.1146/annurev.iy.12.040194.005015](https://doi.org/10.1146/annurev.iy.12.040194.005015)
+
+### Question: 
+How do the immune signatures described in the tuberculosis study reflect the principles of Danger Theory? Can the deviations in immune cell populations (e.g., NK cells, T and B cells) be understood as responses to host tissue damage or distress rather than to the presence of the pathogen itself?
+
+### Each team will take 15 minutes to discuss their answer internally, then report back to the class for a 15-minute roundtable discussion.
+
+Teams should consider:
+
+- 💣 **Damage Detection**: Are the immune responses, such as the increase in NK cells or inflammation, triggered by damage to host tissues rather than the bacteria itself?
+- 🦠 **Latent vs Active TB**: How does the immune system's response to distress signals differ between latent and active tuberculosis?
+- 🔬 **Immune Deviations**: Do the changes in T and B cell compartments during TB latency suggest that the immune system is reacting to ongoing tissue stress or low-level damage?
+
+After the internal discussion, teams will present their understanding of how **Danger Theory** can explain the immune system's response in the context of tuberculosis infection.
+
+### Roundtable Discussion (15 minutes) 🗣️
+
+The class will engage in a broader discussion about how Danger Theory could inform future research on tuberculosis and whether the immune signatures identified in the study align with this model of immune activation.
+
+---
