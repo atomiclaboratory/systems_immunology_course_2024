@@ -28,9 +28,7 @@ This study investigates immune signatures in COVID-19 patients using multi-omics
 
 ### About the COMBAT Consortium 💪
 
-The COMBAT Consortium is working to understand why some patients become severely ill with COVID-19. We aim to use this knowledge to help identify more effective biomarkers and support the development of targeted therapies to improve outcomes for patients.
-
-Here we provide a web tool to visualize the results of deep immune phenotyping in peripheral blood, showing findings for patient donors with COVID-19 of varying severity and comparing them with results from patients with influenza and sepsis, as well as healthy donors.
+The COMBAT Consortium is working to understand why some patients become severely ill with COVID-19. The overarching aim of COMBAT is to use this knowledge to help identify more effective biomarkers and support the development of targeted therapies to improve outcomes for patients.
 
 ---
 
