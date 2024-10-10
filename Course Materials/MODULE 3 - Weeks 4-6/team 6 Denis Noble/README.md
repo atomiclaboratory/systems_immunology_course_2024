@@ -77,3 +77,34 @@ At the end of the task, discuss how these neutrophil markers might serve as pote
 
 - [COMBAT Project Website](https://www.combat.ox.ac.uk/)
 - [COMBAT Data Exploration Tool](https://mlv.combat.ox.ac.uk/)
+
+---
+
+## 🏅 Just Announced: Nobel Prize Winners in Chemistry and Physics!
+
+We are excited to congratulate the **2024 Nobel Prize winners** in Chemistry and Physics, with groundbreaking contributions from the fields of AI and computational biology.
+
+### Nobel Prize in Chemistry 2024 🧬💻
+
+Awarded to **David Baker, Demis Hassabis**, and **John Jumper** for their revolutionary work on **AlphaFold**, an AI tool that predicts protein structures with incredible accuracy, transforming life sciences research. The prize recognizes:
+- **David Baker** (University of Washington) for his pioneering work in computational protein design.
+- **Demis Hassabis** and **John Jumper** (DeepMind) for developing AlphaFold, a deep-learning model for predicting protein structures, which has already made a significant impact on understanding biological processes.
+
+> “I hope when we look back on AlphaFold, it will be the first proof point of AI’s incredible potential to accelerate scientific discovery.” – *Demis Hassabis*
+
+For more information, see the press release from the [Nobel Committee](https://www.nobelprize.org/prizes/chemistry/2024/press-release/).  
+Also, check out the article from [Nature](https://www.nature.com/articles/d41586-024-03214-7).
+
+During the Team Cohen's presentation, we explored the potential of AlphaFold [here](https://github.com/atomiclaboratory/systems_immunology_course_2024/tree/main/Course%20Materials/MODULE%203%20-%20Weeks%204-6/team%204%20Irun%20Cohen#3b-using-alphafold-to-improve-hiv-vaccine-design).
+
+### Nobel Prize in Physics 2024 ⚛️🧠📊
+
+Awarded to **John Hopfield** and **Geoffrey Hinton** for their groundbreaking work in the development of **neural networks**:
+- **John Hopfield** (Princeton University) for creating the **Hopfield network**, a pioneering model of associative memory in neural networks.
+- **Geoffrey Hinton** (University of Toronto), often called the “godfather of AI,” for his key contributions to **deep learning** and the development of artificial neural networks that have become foundational in modern AI research.
+
+These monumental advancements in AI are transforming not just computing but also fields like biology, neuroscience, and medicine, bringing new capabilities for scientific discovery.  
+
+It’s exciting to see the impact of **AI** being recognized by a wider audience, and we look forward to the future innovations this recognition will inspire.
+
+---
