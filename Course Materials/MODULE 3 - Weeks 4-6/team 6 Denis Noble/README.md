@@ -103,6 +103,8 @@ Awarded to **John Hopfield** and **Geoffrey Hinton** for their groundbreaking wo
 - **John Hopfield** (Princeton University) for creating the **Hopfield network**, a pioneering model of associative memory in neural networks.
 - **Geoffrey Hinton** (University of Toronto), often called the “godfather of AI,” for his key contributions to **deep learning** and the development of artificial neural networks that have become foundational in modern AI research.
 
+For more details, see the [Nobel Committee's official announcement for Physics](https://www.nobelprize.org/prizes/physics/2024/summary/).
+
 These monumental advancements in AI are transforming not just computing but also fields like biology, neuroscience, and medicine, bringing new capabilities for scientific discovery.  
 
 It’s exciting to see the impact of **AI** being recognized by a wider audience, and we look forward to the future innovations this recognition will inspire.
