@@ -1,160 +1,81 @@
-# 🦠🔍 Understanding Tuberculosis: Immune Factors Influencing Infection Outcomes
+# 💪🧬 COMBATing COVID-19 using Systems Immunology Approach
 
-## Team 5 - Polly Matzinger
+## Team 6 - Dennis Nobel
 
 **Members:**
-- Selena Halabi
-- Kewei Ye
-- Jordan Smiley
-- Lexi Wittstadt
-- Alex Norman  
-(and their pets 😉)
+- Amanda Adams
+- Grace Tugado
+- Elizabeth Esquivel
+- Jack Rodrigue
+- Wai Yuen (Wylliam) Zheng
 
-This team will analyze the immune factors associated with different outcomes in tuberculosis infection. They will utilize systems biology approaches to identify immune signatures that influence the progression from latent to active tuberculosis.
+This team will analyze the multi-omics blood atlas study that identified immune signatures linked with COVID-19 severity and specificity. They will discuss the methodology and key findings, highlighting the role of systems immunology in understanding and combating COVID-19.
 
 ---
 
 ## Presentation Overview
 
-**Topic:** *Understanding Tuberculosis: Immune Factors Influencing Infection Outcomes*  
+**Topic:** *COMBATing COVID-19 using Systems Immunology Approach*  
 **Paper Reference:**  
-- Roy Chowdhury, R., Vallania, F., Yang, Q. et al.  
-- *A multi-cohort study of the immune factors associated with M. tuberculosis infection outcomes*.  
-- *Nature* 560, 644–648 (2018).  
-- DOI: [10.1038/s41586-018-0439-x](https://doi.org/10.1038/s41586-018-0439-x)
+- COvid-19 Multi-omics Blood ATlas (COMBAT) Consortium.  
+- *A blood atlas of COVID-19 defines hallmarks of disease severity and specificity*.  
+- *Cell*. 2022 Mar 3;185(5):916-938.e58.  
+- DOI: [10.1016/j.cell.2022.01.012](https://doi.org/10.1016/j.cell.2022.01.012)
 
 ### Abstract Summary 📄
 
-This study investigates the immune factors that influence outcomes in Mycobacterium tuberculosis infection. Through the analysis of multiple cohorts, it identifies immune signatures that can predict the progression from latent to active tuberculosis. These findings offer critical insights into tuberculosis pathogenesis and may inform the development of new strategies for diagnosis, treatment, and prevention.
+This study investigates immune signatures in COVID-19 patients using multi-omics approaches. The analysis reveals key correlates of disease severity, including acute phase proteins, metabolic processes, and tissue injury markers. Plasma proteome variation identifies sub-phenotypes with different disease severities, while supervised machine learning highlights predictive biomarkers. These findings contribute to a deeper understanding of COVID-19 pathogenesis and offer insights for treatment strategies.
+
+### About the COMBAT Consortium 💪
+
+The COMBAT Consortium is working to understand why some patients become severely ill with COVID-19. We aim to use this knowledge to help identify more effective biomarkers and support the development of targeted therapies to improve outcomes for patients.
+
+Here we provide a web tool to visualize the results of deep immune phenotyping in peripheral blood, showing findings for patient donors with COVID-19 of varying severity and comparing them with results from patients with influenza and sepsis, as well as healthy donors.
+
+---
+
+## Chapters and Figures Covered by Team Nobel
+
+- **Figures:**  
+  - *Figure 6*: Plasma protein COVID-19 signatures and sub-phenotypes  
+  - *Figure 7*: Integrative approaches define hallmarks of COVID-19 response
+
+- **Chapters:**  
+  - Correlates of severity and disease specificity in the COVID-19 plasma proteome involve acute phase proteins, metabolic processes, and markers of tissue injury  
+  - Plasma cytokine and chemokine profiling shows evidence for involvement of inflammatory mediators  
+  - Plasma proteome variation identifies patient sub-phenotypes of differing disease severity  
+  - Supervised machine learning identifies predictive protein biomarkers for disease severity
 
 ---
 
 ## Activities 📚
 
-1. **30-Minute Presentation by Team Matzinger (Until 4:00 PM)**  
-   Team Matzinger will present their findings on immune signatures in tuberculosis, discussing the differences between latent and active TB. The presentation will explore how systems biology can be applied to understand immune responses that lead to different infection outcomes.
+1. **30-Minute Presentation by Team Nobel (Until 4:00 PM)**  
+   Team Nobel will present their analysis of COVID-19 immune responses, focusing on plasma protein signatures and sub-phenotypes. They will explore how systems immunology methods reveal hallmarks of COVID-19 responses, emphasizing acute phase proteins, inflammatory mediators, and disease severity.
 
 2. **30-Minute Group Discussion (4:00 PM - 4:30 PM)**  
-   The class will engage in a discussion on how immune factors contribute to the variability in tuberculosis infection outcomes. This will include examining the immune signatures associated with disease progression and potential therapeutic targets.
+   The class will engage in a discussion on how the plasma proteome can be used to stratify patients with COVID-19 based on disease severity. This will include examining how machine learning models identified predictive biomarkers for outcomes and therapeutic targets.
 
-3. **Team-task: Danger Theory and Tuberculosis (4:30 PM - 5:15 PM) 💣🦠🧬**
+3. **Team-task: Interactive Data Exploration using the COMBAT Tool (4:30 PM - 5:15 PM) 💻📊**  
+   Use the [COMBAT Interactive Graphical Abstract](https://mlv.combat.ox.ac.uk/) to explore a specific research question related to COVID-19 immune responses.
 
-Each team will take 15 minutes to discuss their answer internally, then report back to the class for a roundtable discussion of how **Danger Theory** can explain the immune system's response in the context of tuberculosis infection.
+### Task: Investigating Neutrophil Signatures in Severe COVID-19 🧬
 
-## 💣 What is Danger Theory?
+**Research Question:**  
+Can neutrophil signatures help predict the severity of COVID-19 in patients, and how do these signatures compare with other hallmarks of disease severity?
 
-> **Danger Theory**, proposed by Polly Matzinger in 1994, challenges the traditional self-nonself paradigm of the immune system. According to the self-nonself model, the immune system distinguishes between self (the body’s own tissues) and nonself (foreign entities like pathogens), attacking anything 
-perceived as nonself. However, Matzinger’s **Danger Theory** suggests that the immune system is more concerned with detecting **damage** than with recognizing foreign. The immune response is triggered by danger signals from injured or stressed cells 🆘, rather than by the mere presence of foreign substances.
-> In the context of tuberculosis 🦠, **Danger Theory** helps us understand how the immune system may respond to the *Mycobacterium tuberculosis* infection, focusing on damage or distress signals from host tissues rather than the bacteria itself.
-> For more detailed insight, refer to Matzinger’s original work:
-**Matzinger, P.** (1994). *Tolerance, danger, and the extended family*. *Annual Review of Immunology*, 12, 991-1045. doi: [10.1146/annurev.iy.12.040194.005015](https://doi.org/10.1146/annurev.iy.12.040194.005015)
-> ### 💣 Danger Theory Explained by Polly Matzinger
-> For a simplistic explanation of Polly Matzinger’s **Danger Model**, watch this video where she breaks down the theory in a clear and approachable way:
-[**Watch Polly Matzinger explain the Danger Model**](https://www.youtube.com/watch?v=5d9f-K_qHxA)
+**Steps:**
+- Navigate to the [Interactive Graphical Abstract](https://mlv.combat.ox.ac.uk/).
+- Click on the hallmark “Neutrophils COVID severity” to explore this feature.
+- Clicking on individual markers (e.g., expression of single genes related to neutrophils) will display plots on the right-hand side, showing their levels in COVID-19 patients with varying severity.
+- Add additional hallmarks for comparison, such as "Monocytes COVID severity" or "Cytokine storm," by using the “Load Data” button.
+- Compare how neutrophil-related signatures correlate with other features and their predictive power for disease severity.
 
-## Team-task - 🦠 Latent TB: Neo's Case Study
-
-### Scenario:
-Imagine a patient named **Neo**, who has been diagnosed with latent tuberculosis (*Mycobacterium tuberculosis* infection) but remains asymptomatic. Neo's 
-immune system is controlling the infection, preventing it from progressing to active disease. Lab results reveal the following:
-
-- NK cell levels have **increased** over the past year.
-- Inflammation-related proteins, such as CXCL8 and ADA, are slightly elevated but still within normal ranges.
-- T and B cell compartments show mild deviations.
-- A recent PET-CT scan of the lungs shows no significant inflammation or damage.
+At the end of the task, discuss how these neutrophil markers might serve as potential biomarkers for predicting severe COVID-19 and the implications for personalized treatment approaches.
 
 ---
 
-### Quiz Time! 🎉
+## TOOLS 🛠️
 
-## Join the Interactive Quiz on Slido
-
-🔗 **[Join the quiz on Slido](https://wall.sli.do/event/fTfUXbUjmmwrRH3K8eXAud?section=3500d41e-9d59-47f0-8c46-5a22293db9b3)**
-
-There are **6 questions**, each with multiple-choice answers (A, B, C, D). You have **2 minutes** per question.  
-Please **join as a team**, using your **team name** (for example, **Team Salk**). Let's see which team comes out on top—with a clear advantage for **Team Matzinger**! 😉
-
-### Quiz Overview:
-
-- **6 questions** total.
-- **2 minutes** per question.
-- **Submit your answers as a team**.
-
-Best of luck! 🧬💡
-
-### Quiz Questions:
-
-1. **🦠 Why have Neo’s NK cell levels increased during latent TB?**  
-   A) NK cells are actively attacking the bacteria.  
-
-   B) NK cells are responding to tissue damage, helping to maintain immune control.  
-
-   C) NK cells are increasing due to the infection becoming active.  
-
-   D) NK cells are irrelevant to TB infection.
-
-
-2. **💡 What might the mild elevation in inflammation-related proteins (e.g., CXCL8, ADA) in Neo’s case suggest according to Danger Theory?**  
-   A) The immune system is detecting subtle tissue stress or damage, even in the latent state.  
-
-   B) The proteins are elevated because Neo is progressing to active TB.  
-
-   C) These proteins are irrelevant to the infection.  
-
-   D) The immune system is attacking the bacteria directly.
-
-
-3. **📉 If Neo’s NK cell levels suddenly dropped, what would this indicate based on the findings from the TB study?**  
-   A) Neo’s immune system is winning the battle against the infection.  
-
-   B) Neo is likely transitioning from latent to active TB.  
-
-   C) Neo is immune to the effects of the bacteria.  
-
-   D) NK cells are no longer needed as the infection is resolved.
-
-
-4. **🔬 Why might deviations in Neo’s T and B cell compartments occur during latent TB?**  
-   A) These cells are reacting to ongoing low-level tissue stress or damage.  
-
-   B) T and B cells are not affected in latent TB.  
-
-   C) The immune system is overreacting to the presence of *Mycobacterium tuberculosis*.  
-
-   D) These deviations are a sign that the infection is being cleared.
-
-
-5. ⚖️ **What is the difference in the immune system's response to latent tuberculosis compared to active tuberculosis?**  
-   A) In latent TB, the immune system maintains a low-level response to tissue damage, while in active TB, it intensifies due to increased damaged tissues.
-
-   B) In latent TB, the immune system ignores the infection until it becomes active, while in active TB, it launches a full response to clear the bacteria.  
-
-   C) In latent TB, the immune system keeps the infection under control with a low-level, persistent response, while in active TB, the response intensifies 
-   due to increased tissue damage and bacterial activity. 
-
-   D) In latent TB, the immune system actively suppresses the infection but doesn’t cause tissue damage, while in active TB, the immune response causes both 
-   tissue damage and bacterial clearance. 
-
-6. **📈 Based on the ROC curve (Fig. 4C), how accurate are NK cell levels at predicting progression to active TB within different time windows before diagnosis?**  
-   A) NK cell levels are most predictive 0–200 days before diagnosis.  
-
-   B) NK cell levels are equally predictive across all time windows.
-
-   C) NK cell levels are most predictive 0–60 days before diagnosis.
-
-   D) NK cell levels are least predictive in the 0–60 day window before diagnosis.
-
-
-![ROC Plot](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%203%20-%20Weeks%204-6/team%205%20Polly%20Matzinger/reading%20materials/fig4c%20roc%20plot.png)
-
----
-
-## Additional Reading Materials 📚
-
-For more insight into Danger Theory and its applications, students are encouraged to explore the following materials:
-
-1. **Matzinger, P.** (2002). *The danger model: a renewed sense of self*. *Science*, 296(5566), 301-305.  
-   DOI: [10.1126/science.1071059](https://doi.org/10.1126/science.1071059)
-
-2. **Matzinger, P., & Kamala, T.** (2011). *Tissue-based class control: the other side of tolerance*. *Nature Reviews Immunology*, 11, 221–230.  
-   DOI: [10.1038/nri2940](https://doi.org/10.1038/nri2940)
+- [COMBAT Project Website](https://www.combat.ox.ac.uk/)
+- [COMBAT Data Exploration Tool](https://mlv.combat.ox.ac.uk/)
