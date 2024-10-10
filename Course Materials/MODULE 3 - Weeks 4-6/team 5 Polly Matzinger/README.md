@@ -149,6 +149,34 @@ Best of luck! 🧬💡
 
 ---
 
+# 🏆🎉 Quiz Winners Announcement
+
+## 📝 Correct Answers:
+1. B  
+2. A  
+3. B  
+4. A  
+5. C  
+6. C  
+
+---
+
+## 🥇 Congratulations to the Winners!
+
+![Team 5 Quiz Winners](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Images/Module3_Team5_Quiz_winners.png)
+
+🎉 **1st Place:** Team Matzinger  
+🎉 **2nd Place:** Team Brenner  
+🎉 **3rd Place:** Team Salk
+🎉 **4th Place:** Team Cohen
+
+Thank you to all the teams for your participation and effort! It was an exciting competition, and your enthusiasm for systems immunology was impressive.
+
+Since **Team Matzinger** had an obvious advantage presenting the material, we also want to give a special shoutout to **Team Cohen** for their impressive results and dedication! Well done!
+
+---
+
+
 ## Additional Reading Materials 📚
 
 For more insight into Danger Theory and its applications, students are encouraged to explore the following materials:
