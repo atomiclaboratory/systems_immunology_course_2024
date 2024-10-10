@@ -76,3 +76,13 @@
 ## Learning Objectives 🎯:
 - Students will demonstrate their ability to critically analyze and present complex scientific research in systems immunology.
 - Students will learn how systems biology approaches are applied to real-world problems in infections and vaccinology.
+
+---
+
+## MODULE 3 Wrap-Up: Team Discussions 🔄💬
+
+At the end of Module 3, each team will participate in a discussion to reflect on the presentations. Teams will answer the following question:
+
+**What was the most interesting and informative presentation for you, except the one you presented?**
+
+This wrap-up discussion will give teams a chance to reflect on the insights gained from other groups and share their thoughts on the various topics covered in the module.
