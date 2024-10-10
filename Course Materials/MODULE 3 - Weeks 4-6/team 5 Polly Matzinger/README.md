@@ -167,12 +167,12 @@ Best of luck! 🧬💡
 
 🎉 **1st Place:** Team Matzinger  
 🎉 **2nd Place:** Team Brenner  
-🎉 **3rd Place:** Team Salk
-🎉 **4th Place:** Team Cohen
+🎉 **3rd Place:** Team Salk  
+🎉 **4th Place:** Team Cohen  
 
 Thank you to all the teams for your participation and effort! It was an exciting competition, and your enthusiasm for systems immunology was impressive.
 
-Since **Team Matzinger** had an obvious advantage presenting the material, we also want to give a special shoutout to **Team Cohen** for their impressive results and dedication! Well done!
+Since **Team Matzinger** had an obvious advantage presenting the material, we also want to give a special shoutout to **Teams Brenner, Salk, and Cohen** for their great work and dedication. Well done!
 
 ---
 
