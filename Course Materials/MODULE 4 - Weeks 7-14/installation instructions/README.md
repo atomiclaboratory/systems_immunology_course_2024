@@ -1,6 +1,12 @@
-# PANDORA Installation Guide 🧬🐳
+# PANDORA Installation Guide 🧬🔮🐳
 
-Welcome to the PANDORA installation guide! Follow these simple steps to get PANDORA up and running on your machine.
+## 🔮Introduction to PANDORA
+
+**PANDORA** is a powerful software designed for performing machine learning (ML) analysis, including both unsupervised and supervised techniques, as well as automated ML approaches. In **Module 4**, we will use PANDORA as our primary software to explore ML methods and apply them to real-world datasets. This will help you gain hands-on experience with ML techniques, from clustering and dimensionality reduction to predictive modeling. By the end of the module, you'll be familiar with a range of ML tools and workflows used in modern research.
+
+You can learn more about **PANDORA** on its official GitHub page: [PANDORA GitHub Repository](https://github.com/genular/pandora).
+
+To start using PANDORA, follow the steps below to install it using **Docker**.
 
 ---
 
@@ -16,7 +22,7 @@ Before installing PANDORA, you need to install **Docker** on your system. Make s
 
 ---
 
-## 🛠️ Docker Installation
+## 🛠️🐳 Docker Installation
 
 ### Windows 🪟
 
@@ -24,12 +30,16 @@ Before installing PANDORA, you need to install **Docker** on your system. Make s
    👉 [Download Docker for Windows](https://desktop.docker.com/win/stable/Docker%20Desktop%20Installer.exe)
 
 2. **Install Docker**:  
-   Double-click the downloaded `Docker Desktop Installer.exe` and follow the instructions.  
-   - When prompted, select **WSL 2** as the backend.  
-   - Launch Docker after installation is complete.
+   - Double-click the downloaded `Docker Desktop Installer.exe` to launch the installer.
+   - On the installation screen, **select the option to use WSL 2** instead of Hyper-V. This ensures compatibility with Linux containers (recommended for our setup).
+   - Follow the prompts to complete the installation. Docker may ask you to restart your computer if necessary.
 
 3. **Start Docker**:  
-   Open Docker Desktop and accept the **Subscription Agreement** to continue.
+   - After the installation is complete, open **Docker Desktop** from the Windows search bar.
+   - When Docker starts for the first time, accept the **Subscription Agreement** to continue.
+
+4. **Enable WSL 2 Feature**:  
+   If you didn’t enable WSL 2 during installation, Docker will prompt you to enable it. Follow the on-screen instructions to install and enable **WSL 2**.
 
 ### macOS 🍏
 
@@ -38,13 +48,13 @@ Before installing PANDORA, you need to install **Docker** on your system. Make s
    - **Intel chip**: [Download Docker for Intel Chip](https://desktop.docker.com/mac/stable/Docker.dmg)
 
 2. **Install Docker**:  
-   Double-click the `Docker.dmg` file, then drag the Docker icon to the **Applications** folder.  
-   Launch Docker from your **Applications** folder.
+   - Double-click the `Docker.dmg` file, then drag the Docker icon to the **Applications** folder.
+   - Launch Docker from your **Applications** folder.
 
 3. **Start Docker**:  
-   Accept the **Subscription Agreement** when Docker starts for the first time.
+   - Accept the **Subscription Agreement** when Docker starts for the first time.
 
-For detailed instructions on Docker installation, visit the official guide 👉 [Docker Installation Guide](https://docs.docker.com/engine/install/).
+For more detailed instructions on Docker installation and installation instructions on Linux, visit the official guide 👉 [Docker Installation Guide](https://docs.docker.com/engine/install/).
 
 ---
 
@@ -61,6 +71,7 @@ After Docker is installed, you can pull and run the PANDORA Docker image.
 
    ```bash
    docker run --rm --detach --name pandora --tty --interactive --env IS_DOCKER='true' --env TZ=Europe/London --volume pandora_data_master:/mnt/usrdata --publish 3010:3010 --publish 3011:3011 --publish 3012:3012 --publish 3013:3013 genular/pandora:latest
+
 ---
 This command will:
 
@@ -81,6 +92,6 @@ Once PANDORA is running, follow these steps to access it:
 
 ## 📚 Further Assistance
 
-If you encounter any issues or need more details, check the official [Docker installation guide](https://docs.docker.com/engine/install/) or contact us for support.
+If you encounter any issues or need more details, check the official [Docker installation guide](https://docs.docker.com/engine/install/) or contact Adriana Tomic for support.
 
 Happy analyzing with PANDORA! 🎉
