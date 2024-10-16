@@ -70,7 +70,7 @@ After Docker is installed, you can pull and run the PANDORA Docker image.
    Run the following command in the terminal to download and start PANDORA:
 
    ```bash
-   docker run --rm --detach --name pandora --tty --interactive --env IS_DOCKER='true' --env TZ=Europe/London --volume pandora_data_master:/mnt/usrdata --publish 3010:3010 --publish 3011:3011 --publish 3012:3012 --publish 3013:3013 genular/pandora:latest
+   docker run --rm --detach --name pandora --tty --interactive --env IS_DOCKER='true' --env TZ=America/New_York --volume pandora_data_master:/mnt/usrdata --publish 3010:3010 --publish 3011:3011 --publish 3012:3012 --publish 3013:3013 genular/pandora:latest
 
 ---
 This command will:
