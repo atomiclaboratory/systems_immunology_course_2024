@@ -1,4 +1,5 @@
 # MODULE 4: From Theory to Practice: AI in Immunological Cases 🤖🧬
+
 ## Overview 📚
 In this module, we will transition from theoretical knowledge to hands-on application of AI and machine learning (ML) techniques in immunology. Using the [PITCH study](https://www.pitch-study.org/), students will explore how AI can be used to predict immunological memory to emerging viruses. Each group will be assigned specific tasks involving different machine learning approaches, and they will work collaboratively to analyze the data, interpret the results, and present their findings.
 
@@ -7,7 +8,7 @@ In this module, we will transition from theoretical knowledge to hands-on applic
 
 #### Activities 📅:
 - Installation of [PANDORA software](https://github.com/genular/pandora).
-- Reading: [SIMON publication](https://www.cell.com/patterns/fulltext/S2666-3899(20)30242-7)
+
 
 ---
 ## SIMON says: Advancing Human Immunology using AI 🧠💻
@@ -15,6 +16,7 @@ In this module, we will transition from theoretical knowledge to hands-on applic
 #### Activities 📅:
 - Lecture on machine learning and applications to immunology
 - Overview of the [SIMON](https://www.cell.com/patterns/fulltext/S2666-3899(20)30242-7) used in the practical course.
+- Reading: [SIMON publication](https://www.cell.com/patterns/fulltext/S2666-3899(20)30242-7)
 
 ---
 ## Predicting Immunological Memory to Newly Emerging Viruses: Practical Introduction 🦠🔮
