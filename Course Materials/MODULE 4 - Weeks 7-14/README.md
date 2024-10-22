@@ -13,8 +13,7 @@ In this module, we will transition from theoretical knowledge to hands-on applic
 ## SIMON says: Advancing Human Immunology using AI 🧠💻
 
 #### Activities 📅:
-- Introduction to AI applications in immunology.
-- What is SIMON?
+- Lecture on machine learning and applications to immunology
 - Overview of the [SIMON](https://www.cell.com/patterns/fulltext/S2666-3899(20)30242-7) used in the practical course.
 
 ---
