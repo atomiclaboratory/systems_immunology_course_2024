@@ -7,7 +7,7 @@ In this module, we will transition from theoretical knowledge to hands-on applic
 
 #### Activities 📅:
 - Introduction to AI applications in immunology.
-- Overview of the tools ([SIMON](https://www.cell.com/patterns/fulltext/S2666-3899(20)30242-7) and [PANDORA](https://github.com/genular/pandora)) used in the practical course.
+- Overview of the [SIMON](https://www.cell.com/patterns/fulltext/S2666-3899(20)30242-7) used in the practical course.
 
 ---
 ## Laying the Groundwork: Preparation for AI-Driven Immunology 🔧
@@ -21,6 +21,7 @@ In this module, we will transition from theoretical knowledge to hands-on applic
 
 #### Activities 📅:
 - Lecture on the [PITCH study](https://www.pitch-study.org/) and its significance in immunology research.
+- Overview of the [PANDORA](https://github.com/genular/pandora)) used in the practical course.
 - Overview of the practical tasks assigned to each group.
 - Detailed instructions for the upcoming hands-on sessions.
 
