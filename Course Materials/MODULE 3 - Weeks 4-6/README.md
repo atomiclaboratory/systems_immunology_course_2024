@@ -87,24 +87,24 @@ At the end of Module 3, each team will participate in a discussion to reflect on
 
 This wrap-up discussion will give teams a chance to reflect on the insights gained from other groups and share their thoughts on the various topics covered in the module.
 
-**Votes for Most Interesting Presentations:**
+### Voting Results:
 
-**Team Cohen: 4 votes**
+- **Team Cohen** 🧫🔬:  
+  *HIV-1 and Neutralizing Antibodies: A Battle for Control*  
+  **Votes**: 🟩🟩🟩🟩 (4 votes)
 
-*Presentation: HIV-1 and Neutralizing Antibodies: A Battle for Control 🧫🔬*
+- **Team Salk** 🟡:  
+  *Predicting Vaccine Success: Systems Biology and the Yellow Fever Vaccine*  
+  **Votes**: 🟩🟩 (2 votes)
 
-**Team Salk: 2 votes**
+- **Team Margulis** ⚧💉:  
+  *Immune System Adaptation During Gender-Affirming Testosterone Treatment*  
+  **Votes**: 🟩🟩 (2 votes)
 
-*Presentation: Predicting Vaccine Success: Systems Biology and the Yellow Fever Vaccine 🟡*
+- **Team Brenner** 🌬️🦠:  
+  *Decoding Influenza Vaccination: Systems Biology Insights*  
+  **Votes**: 🟩 (1 vote)
 
-**Team Margulis: 2 votes**
-
-*Presentation: Immune System Adaptation During Gender-Affirming Testosterone Treatment ⚧💉*
-
-**Team Brenner: 1 vote**
-
-*Presentation: Decoding Influenza Vaccination: Systems Biology Insights 🌬️🦠*
-
-**Team Matzinger: 1 vote**
-
-*Presentation: Understanding Tuberculosis: Immune Factors Influencing Infection Outcomes 🦠🔍*
+- **Team Matzinger** 🦠🔍:  
+  *Understanding Tuberculosis: Immune Factors Influencing Infection Outcomes*  
+  **Votes**: 🟩 (1 vote)
