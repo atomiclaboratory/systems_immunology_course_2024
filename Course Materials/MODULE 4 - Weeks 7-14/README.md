@@ -1,27 +1,7 @@
 # MODULE 4: From Theory to Practice: AI in Immunological Cases 🤖🧬
 
 ## Overview 📚
-Module 4 is designed to bridge the gap between theoretical knowledge and practical application of machine learning (ML) techniques in immunology. Students will work with real-world datasets to explore how AI-driven approaches can predict immune responses and immunological memory, focusing on the systems biology of vaccination and disease immunity. 
-
-Throughout the module, students will engage in both supervised and unsupervised machine learning approaches, applying these to immunological datasets using the [PANDORA software](https://github.com/genular/pandora) and insights from the [PITCH study](https://www.pitch-study.org/). Teams will present theoretical aspects of assigned algorithms before performing hands-on analyses. By the end of the module, students will have a deeper understanding of how machine learning can be used to predict immune outcomes and aid in vaccine development.
-
-The module is divided into two phases:
-1. **Supervised Learning Approaches**: Teams will first explore algorithms where the model learns from labeled data to make predictions (Bayesian models, decision trees, ensemble methods, neural networks).
-2. **Unsupervised Learning Approaches**: Teams will then explore algorithms where the model discovers hidden patterns or groupings in the data without labeled outcomes (dimensionality reduction techniques, clustering methods).
-
-### Key Learning Objectives:
-- Understand the theory and application of both supervised and unsupervised machine learning techniques in the context of immunology.
-- Use machine learning algorithms to analyze and interpret immunological datasets, gaining insights into immune responses and memory.
-- Apply tools such as [PANDORA](https://github.com/genular/pandora) to real-world datasets, demonstrating the predictive power of machine learning in immunological research.
-
-### Structure of the Module:
-- **Phase 1: Supervised Learning** (Weeks 7-10)
-  - Introduce and apply supervised machine learning techniques such as Bayesian methods, decision trees, ensemble methods, and neural networks.
-  - Teams will present the theoretical foundations of these algorithms followed by class hands-on analysis using the PANDORA platform.
-
-- **Phase 2: Unsupervised Learning** (Weeks 11-14)
-  - Introduce and apply unsupervised machine learning techniques, including dimensionality reduction methods (PCA, MCA, tSNE, UMAP) and clustering algorithms (K-means, DBSCAN).
-  - Teams will explore how these algorithms reveal hidden patterns in immunological datasets, then we will apply them in the class using PANDORA.
+Module 4 is designed to bridge the gap between theoretical knowledge and practical application of machine learning (ML) techniques in immunology. Throughout the module, students will engage in both supervised and unsupervised machine learning approaches, applying these to immunological datasets using the [PANDORA software](https://github.com/genular/pandora). Teams will present theoretical aspects of assigned algorithms before performing hands-on analyses.
 
 ---
 
@@ -55,52 +35,84 @@ The module is divided into two phases:
 
 **Note:** We will reverse the order of presentations, starting with Team 6, and first delve into supervised ML approaches followed by unsupervised approaches.
 
+## Bayesian and Discriminant Analysis Approaches to Identify Patterns in Biological Data 📉🧬  
+**Team 6 - Dennis Nobel**
+- Amanda Adams, Grace Tugado, Elizabeth Esquivel, Jack Rodrigue, Wylliam Zheng  
 
-### Bayesian and Dimensionality Reduction Approaches to Identify Patterns in Biological Data 📉🧬
+This team will introduce theoretical aspects of Bayesian algorithms, such as Naive Bayes, and discuss discriminant analysis techniques used to predict immune responses.
 
-- **Team Nobel** 
-  **Title**: *Supervised ML approaches: Bayesian & Dimensionality reduction*  
-  **Goal**: Team 6 will introduce Bayesian inference and discuss how probabilistic models are used to make predictions in immunology. The presentation will also cover dimensionality reduction techniques used in supervised learning. Following the theoretical introduction, we will apply Bayesian methods and dimensionality reduction approaches to the provided datasets using PANDORA.
-
----
-
-### Decision Trees and Ensemble Methods in Predicting Immunological Responses 🌳🔀
-
-- **Team Matzinger** 
-  **Title**: *Supervised ML approach: Decision tree & Ensemble (random forest)*  
-  **Goal**: Team 5 will introduce decision tree algorithms and ensemble methods such as random forests. They will explain how these methods are used to make predictions based on hierarchical decision-making processes. The team will apply decision trees and ensemble techniques to the dataset using PANDORA to predict immune memory and response.
+**Activities 📚**:  
+- Introduction to Bayesian and discriminant analysis methods for supervised learning in immunology.
+- Hands-on application of Bayesian models and discriminant analysis using PANDORA.
 
 ---
 
-### Neural Networks and Regularization: Predicting Complex Outcomes in Immunology 🧠🔗
+## Decision Trees and Ensemble Methods in Predicting Immunological Responses 🌳🔀  
+**Team 5 - Polly Matzinger**
+- Selena Halabi, Kewei Ye, Jordan Smiley, Lexi Wittstadt (and their pets 😉)  
 
-- **Team Cohen** 
-  **Title**: *Supervised ML approach: Neural networks & Regularization*  
-  **Goal**: Team 4 will introduce neural networks, explaining how they can model complex, non-linear relationships in immunological data. They will also cover regularization techniques that help improve the model’s performance by preventing overfitting. The team will apply neural networks and regularization techniques to immunological datasets using PANDORA.
+This team will focus on decision trees and ensemble methods, such as random forests, to predict immune responses.
 
----
-
-### Clustering Methods to Reveal Hidden Structures in Immune Response Data 🧩📊
-
-- **Team Margulis** 
-  **Title**: *Unsupervised ML approach: Clustering (K-means, hClust, DBSCAN)*  
-  **Goal**: Team 3 will discuss unsupervised clustering methods like K-means, hierarchical clustering (hClust), and density-based clustering (DBSCAN). They will explain how these methods group data points into clusters based on similarities and will apply them to immunological datasets using PANDORA.
+**Activities 📚**:  
+- Introduction to decision tree algorithms and ensemble methods for supervised learning.
+- Hands-on application of decision trees and random forests using PANDORA to predict immunological outcomes.
 
 ---
 
-### Simplifying Complexity: Extracting Key Patterns in Immunological Data with PCA 🧬📉
+## Neural Networks and Regularization: Predicting Complex Outcomes in Immunology 🧠🔗  
+**Team 4 - Irun Cohen**  
+- Shea Mowry, Han Kahvecioglu, Maya Bartels, Felipe Munoz, Meghan Pinter  
 
-- **Team Brenner**  
-  **Title**: *Unsupervised ML approach: Dimensionality reduction 1 (PCA, MCA)*  
-  **Goal**: Team 2 will introduce principal component analysis (PCA) and multiple correspondence analysis (MCA), techniques used to reduce the dimensionality of complex datasets while preserving important patterns. The team will apply PCA and MCA to immunological datasets using PANDORA.
+This team will explain neural networks and their ability to model non-linear relationships in complex immunological datasets. They will discuss the importance of regularization techniques to avoid overfitting and improve model generalization.
+
+**Activities 📚**:  
+- Introduction to neural networks for supervised learning.
+- Explanation of regularization techniques (LASSO, elastic net) to optimize model performance.
+- Application of neural networks and regularization on immunological data using PANDORA.
 
 ---
 
-### Visualizing High-Dimensional Data: tSNE and UMAP for Immune System Insights 🗺️🔬
+## Clustering Methods to Reveal Hidden Structures in Immune Response Data 🧩📊  
+**Team 3 - Lynn Margulis**  
+- Kaavya Akula, Joseph Soto, Marek Pinto, Julia Nowak  
 
-- **Team Salk** 
-  **Title**: *Unsupervised ML approach: Dimensionality reduction 2 (tSNE, UMAP)*  
-  **Goal**: Team 1 will explain tSNE (t-Distributed Stochastic Neighbor Embedding) and UMAP (Uniform Manifold Approximation and Projection) as techniques for visualizing high-dimensional biological data. They will show how these methods can reveal hidden structures in immune system data and will apply tSNE and UMAP using PANDORA.
+This team will present unsupervised clustering methods, such as K-means, hierarchical clustering, and DBSCAN, to uncover hidden structures in immune response data. They will focus on how these clustering techniques can group data points based on similarities without the need for labeled outcomes.
+
+**Activities 📚**:  
+- Introduction to K-means, hierarchical clustering (hClust), and DBSCAN.
+- Hands-on application of clustering methods to immunological datasets using PANDORA.
+
+---
+
+## Simplifying Complexity: Extracting Key Patterns in Immunological Data with PCA 🧬📉  
+**Team 2 - Sydney Brenner**  
+- Ziqing Yu, Erica Anton, Annelisa Fache, Alex Norman
+
+This team will discuss dimensionality reduction methods, focusing on Principal Component Analysis (PCA) and Multiple Correspondence Analysis (MCA). They will explain how these techniques reduce dataset complexity while retaining important information, helping to identify key patterns in immunological data.
+
+**Activities 📚**:  
+- Introduction to PCA and MCA for dimensionality reduction.
+- Application of PCA to immunological data using PANDORA.
+
+---
+
+## Visualizing High-Dimensional Data: tSNE and UMAP for Immune System Insights 🗺️🔬  
+**Team 1 - Jonas Salk**  
+- Electra Scarpignato, Kara Walp, Evan Horvath, Ethan Masters  
+
+This team will focus on advanced dimensionality reduction techniques, tSNE and UMAP, for visualizing high-dimensional immune data. They will explain how these methods allow for the discovery of hidden structures and patterns in immune response datasets.
+
+**Activities 📚**:  
+- Introduction to tSNE and UMAP for visualizing complex immunological datasets.
+- Hands-on application of tSNE using PANDORA to explore immune system insights.
+
+---
+
+## Learning Objectives 🎯:
+
+- Demonstrate the ability to critically analyze and present complex scientific research in the context of AI and immunology.
+- Learn how machine learning approaches can be applied to real-world problems in immunology, focusing on both supervised and unsupervised methods.
+- Gain hands-on experience with [PANDORA software](https://github.com/genular/pandora) for immunological data analysis.
 
 ---
 
