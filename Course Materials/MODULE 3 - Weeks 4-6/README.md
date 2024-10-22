@@ -94,14 +94,16 @@ Team Cohen: 4 votes
 *Presentation: HIV-1 and Neutralizing Antibodies: A Battle for Control 🧫🔬*
 
 Team Salk: 2 votes
-
 *Presentation: Predicting Vaccine Success: Systems Biology and the Yellow Fever Vaccine 🟡*
 
 Team Margulis: 2 votes
+
 *Presentation: Immune System Adaptation During Gender-Affirming Testosterone Treatment ⚧💉*
 
 Team Brenner: 1 vote
+
 *Presentation: Decoding Influenza Vaccination: Systems Biology Insights 🌬️🦠*
 
 Team Matzinger: 1 vote
+
 *Presentation: Understanding Tuberculosis: Immune Factors Influencing Infection Outcomes 🦠🔍*
