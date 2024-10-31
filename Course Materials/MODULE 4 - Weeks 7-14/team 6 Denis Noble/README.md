@@ -58,19 +58,21 @@ This data is derived from the study ["Divergent trajectories of antiviral memory
 ### Preprocessing 🧛‍♀️
 
 - **Centering and Scaling**:  
-  **Centering** subtracts the mean from each feature, and **scaling** divides by the standard deviation, standardizing the data so all features contribute equally to model training.
+  > Centering subtracts the mean from each feature
+  > Scaling divides by the standard deviation
+  > Center/scale stanradizes the data so all features contribute equally to model training
 
-  **Example Calculation**:
+  >> **Example Calculation**:
   
-  - Original Data: [15, 25, 35]
-  - Mean: (15 + 25 + 35) / 3 = 25
-  - Standard Deviation (SD): √[((15-25)² + (25-25)² + (35-25)²) / 3] = 8.16
+  >> - Original Data: [15, 25, 35]
+  >> - Mean: (15 + 25 + 35) / 3 = 25
+  >> - Standard Deviation (SD): √[((15-25)² + (25-25)² + (35-25)²) / 3] = 8.16
 
-  | Original Value | Centered (Value - Mean) | Scaled (Centered / SD) |
-  |----------------|-------------------------|-------------------------|
-  | 15            | 15 - 25 = -10           | -10 / 8.16 ≈ -1.22     |
-  | 25            | 25 - 25 = 0             | 0 / 8.16 = 0           |
-  | 35            | 35 - 25 = 10            | 10 / 8.16 ≈ 1.22       |
+  >> | Original Value | Centered (Value - Mean) | Scaled (Centered / SD) |
+  >> |----------------|-------------------------|-------------------------|
+  >> | 15            | 15 - 25 = -10           | -10 / 8.16 ≈ -1.22     |
+  >> | 25            | 25 - 25 = 0             | 0 / 8.16 = 0           |
+  >> | 35            | 35 - 25 = 10            | 10 / 8.16 ≈ 1.22       |
 
 - **Median Imputation**:  
   Replaces missing values with the median of the column, which is less affected by outliers compared to the mean.
