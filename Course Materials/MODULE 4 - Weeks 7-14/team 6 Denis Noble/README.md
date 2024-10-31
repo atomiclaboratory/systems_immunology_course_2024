@@ -41,10 +41,19 @@ This data is derived from the study ["Divergent trajectories of antiviral memory
 
 ## 🎃 Analysis Parameters 🕸️
 
-- **Outcome**: N_IgG_responder
-- **Predictors**: All measurements except sex
-- **Training Set**: 75% of the data
-- **Test Set**: 25% of the data
+### ML Analysis Parameters 🎃
+
+- **Outcome**: `N_IgG_responder`  
+  > This is the target variable we're predicting. It indicates whether an individual is a high responder (with high anti-N SARS-CoV-2 antibodies) 6 months post-infection.
+
+- **Predictors**: All measurements except `sex`  
+  > These are the features or input variables used to predict the outcome. They include immunological and cellular measurements that may correlate with being a high responder.
+
+- **Training Set**: 75% of the data  
+  > This subset of data is used to train the ML model, helping it learn the patterns and relationships between predictors and the outcome.
+
+- **Test Set**: 25% of the data  
+  > This subset of data is used to evaluate the model's performance. It checks how well the model generalizes to unseen data, ensuring reliability.
 
 ### Preprocessing 🧛‍♀️
 
@@ -81,7 +90,7 @@ This data is derived from the study ["Divergent trajectories of antiviral memory
 - **Correlation and Zero/Near Zero Variance Filtering**:  
   Removes features with high correlation (redundant information) and those with near-zero variance (little variability).
 
-  **Example Calculation**:
+  **Example**:
 
   - **Correlation**: Feature 1 and Feature 2 have a high correlation. Correlation calculation:
     - Feature 1: [1, 2, 3]
@@ -98,8 +107,7 @@ This data is derived from the study ["Divergent trajectories of antiviral memory
   | 2         | 2.05                                        | 0.1                             |
   | 3         | 3.02                                        | 0.1                             |
 
-  
->> Since Feature 2 is highly correlated with Feature 1, and Feature 3 has near-zero variance, both would be removed in preprocessing.
+  > Since Feature 2 is highly correlated with Feature 1, and Feature 3 has near-zero variance, both would be removed in preprocessing.
 
 
 ---
