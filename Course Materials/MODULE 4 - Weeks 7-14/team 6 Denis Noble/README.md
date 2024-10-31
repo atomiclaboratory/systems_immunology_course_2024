@@ -7,7 +7,7 @@
 - Grace Tugado 🧛‍♀️
 - Elizabeth Esquivel 👻
 - Jack Rodrigue 🧟‍♂️
-- Wai Yuen (Wylliam) Zheng 🧛‍♂️
+- Wai Yuen (Wylliam) Zheng ☠️
 
 This team will introduce Bayesian and discriminant analysis, comparing Naive Bayes (NB) and Linear Discriminant Analysis (LDA), highlighting their strengths, weaknesses, and key differences.
 
