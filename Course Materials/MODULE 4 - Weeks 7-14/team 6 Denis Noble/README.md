@@ -19,7 +19,7 @@ This team will introduce Bayesian and discriminant analysis, comparing Naive Bay
    Team Nobel will present their comparison of Bayesian and discriminant analysis.
 
 2. **Hands-on Predictive Modeling using PANDORA (4:00 PM - 5:15 PM) 💻📊** 🎃  
-   Using the dataset from the PITCH study, students will predict N_IgG_responders (individuals with particularly high SARS-CoV-2 antibodies recognizing N protein 6 months post-infection) using Naive Bayes and LDA, along with other Bayesian and discriminant analysis algorithms. The efficiency of each algorithm will be compared.
+   In this session, you will use the **PITCH study dataset** to predict **N_IgG_responders** (individuals with high SARS-CoV-2 antibodies 6 months post-infection) by applying **Naive Bayes** and **Linear Discriminant Analysis (LDA)**, along with other Bayesian and discriminant analysis algorithms. You will evaluate each model's efficiency using **AUC**, and identify important features contributing to high responder status. The session emphasizes **model comparison, interpretability, and generalizability** in immunological data classification.
 
 ---
 
@@ -49,10 +49,10 @@ This data is derived from the study ["Divergent trajectories of antiviral memory
 - **Predictors**: All measurements except `sex`  
   > These are the features or input variables used to predict the outcome. They include immunological and cellular measurements that may correlate with being a high responder.
 
-- **Training Set**: 75% of the data  
+- **Training Set**: 75% of the data (n=56)
   > This subset of data is used to train the ML model, helping it learn the patterns and relationships between predictors and the outcome.
 
-- **Test Set**: 25% of the data  
+- **Test Set**: 25% of the data  (n=18)
   > This subset of data is used to evaluate the model's performance. It checks how well the model generalizes to unseen data, ensuring reliability.
 
 ### Preprocessing 🧛‍♀️
