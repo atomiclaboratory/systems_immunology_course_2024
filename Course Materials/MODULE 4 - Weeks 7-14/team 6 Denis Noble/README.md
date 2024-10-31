@@ -98,7 +98,9 @@ This data is derived from the study ["Divergent trajectories of antiviral memory
   | 2         | 2.05                                        | 0.1                             |
   | 3         | 3.02                                        | 0.1                             |
 
-  Since Feature 2 is highly correlated with Feature 1, and Feature 3 has near-zero variance, both would be removed in preprocessing.
+  
+>> Since Feature 2 is highly correlated with Feature 1, and Feature 3 has near-zero variance, both would be removed in preprocessing.
+
 
 ---
 
