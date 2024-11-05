@@ -60,32 +60,32 @@ This data is derived from the study *Divergent trajectories of antiviral memory 
 1. **Centering and Scaling**:
    - Standardizes data so all features contribute equally to the model training.
 
-   **Example Calculation**:
-   - Original Data: `[15, 25, 35]`
-   - Mean: `25`
-   - SD: `8.16`
-   - Centered/Scaled Data: `[-1.22, 0, 1.22]`
-
 2. **Median Imputation**:
    - Replaces missing values with the column median, which is less influenced by outliers.
 
-   **Example Calculation**:
-   - Original Data (with NaN): `[10, NaN, 30, 20]`
-   - Imputed Data: `[10, 20, 30, 20]`
-
 3. **Correlation and Zero/Near Zero Variance Filtering**:
    - Removes features with high correlation and low variance.
-
-   **Example**:
-   - Feature 1 and Feature 2 are highly correlated.
-   - Feature 3 has near-zero variance; both would be removed.
 
 ---
 
 ## Team Tasks
 
-- **Comparison of RF and C5.0**: Which algorithm achieves the highest AUC for predicting immune responders?
+- **Comparison of RF and C5.0**: Which algorithm can predict the best immune responders?
+- **Algorithm Comparison**: Compare both RF and C5.0 to NB and LDA algorithms we used in the last class? Which is better?
 - **Feature Importance**: Identify key predictors of a high antibody response at 6 months.
-- **Algorithm Comparison**: Evaluate the effectiveness of both RF and C5.0 in predicting high responders.
 
 ---
+
+## Self-Paced Analysis Tasks ⏳
+
+As tree and ensemble methods can be computationally intensive, you can perform the following tasks at your own pace:
+
+1. **Run All 35 Ensemble Methods**:
+   - Test all available ensemble methods in PANDORA and compare their performance to see which algorithm works best for predicting high responders.
+   
+2. **Run All 24 Tree Methods Separately**:
+   - Explore all available tree-based methods individually to determine which one yields the most accurate predictions for the given dataset.
+
+These additional analyses will help you understand the variability in performance across different algorithms.
+
+
