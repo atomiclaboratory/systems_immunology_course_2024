@@ -73,35 +73,39 @@ Upon completing this course, you will be able to:
 
 ## Planned Lecture Schedule 🗓️
 
-| **Date**     | **Day**   | **Module Content**                                                                            |
-|--------------|-----------|-----------------------------------------------------------------------------------------------|
-| **Week 1: Immunology 101: Fundamentals**                                                                                 |
-| 9/3/2024     | Tuesday   | Exploring the Immune System: Defense Mechanisms, Disease, and Vaccination – self-paced module |
-| 9/5/2024     | Thursday  | Reflection and Knowledge Check                                                                |
-| **Weeks 2-3: Human Systems Immunology & Vaccinology: Theory, Methodology & Prospects**                                   |
-| 9/10/2024    | Tuesday   | Human Immunology 2.0: Era of Systems Immunology – lecture by Dr. Tomic                        |
-| 9/12/2024    | Thursday  | Bridging Science and Practice in Human Systems Immunology – lecture by Dr. Tomic              |
-| 9/17/2024    | Tuesday   | Collaborative Research Synthesis:                                                             |
-| 9/19/2024    | Thursday  | Application of Systems Immunology Approaches in Real-world Examples: self-paced module        |
-| **Weeks 4-6: Systems Immunology in Action: Insights into Infections and Vaccinology**                        |
-| 9/24/2024    | Tuesday   | Team 1: Predicting Vaccine Success: Systems Biology and the Yellow Fever Vaccine  |
-| 9/26/2024    | Thursday  | Team 2: Decoding Influenza Vaccination: Systems Biology Insights                  |
-| 10/1/2024    | Tuesday   | Team 3: Understanding Personalized Medicine: How Sex Differences Shape Disease and Treatment Responses |
-| 10/3/2024    | Thursday  | Team 4: HIV-1 and Neutralizing Antibodies: A Battle for Control                   |
-| 10/8/2024    | Tuesday   | Team 5: Understanding Tuberculosis: Immune Factors Influencing Infection Outcomes |
-| 10/10/2024   | Thursday  | Team 6: COMBATing COVID-19 using Systems Immunology Approach                      |
-| **Weeks 7-14: From Theory to Practice: AI in Immunological Cases**                                           |
-| 10/17/2024   | Thursday  | Preparation for AI-Driven Immunology: self-paced module                          |
-| 10/22/2024   | Tuesday   | SIMON says: Advancing Human Immunology using AI – lecture by Dr. Tomic           |
-| 10/24/2024   | Thursday  | Predicting immunological memory to newly emerging viruses: Practical introduction – lecture by Dr. Tomic |
-| 10/29/2024   | Tuesday   | Hands-On Practical Sessions: Applying AI in Immunology                           |
-| 11/14/2024   | Thursday  | Team 1 - Unsupervised ML approach: PCA – presentation                             |
-| 11/19/2024   | Tuesday   | Team 2 - Unsupervised ML approach: tSNE – presentation                            |
-| 11/21/2024   | Thursday  | Team 3 - Unsupervised ML approach: Correlation – presentation                     |
-| 11/26/2024   | Tuesday   | Team 4 - Supervised ML approach: Naïve Bayes – presentation                       |
-| 12/3/2024    | Tuesday   | Team 5 - Supervised ML approach: Deep learning – presentation                     |
-| 12/5/2024    | Thursday  | Team 6 – Supervised ML approach: autoML (SIMON) – presentation                    |
-|              |           | **NextGen Immunology**: Discussion & Wrap-up                                      |
+| Date       | Day       | Module Content                                                                                             |
+|------------|-----------|------------------------------------------------------------------------------------------------------------|
+| **Week 1: Immunology 101: Fundamentals**                                                                                             |
+| 9/3/2024   | Tuesday   | Exploring the Immune System: Defense Mechanisms, Disease, and Vaccination – self-paced module              |
+| 9/5/2024   | Thursday  | Reflection and Knowledge Check                                                                             |
+| **Weeks 2-3: Human Systems Immunology & Vaccinology: Theory, Methodology & Prospects**                                              |
+| 9/10/2024  | Tuesday   | Human Immunology 2.0: Era of Systems Immunology – lecture by Dr. Tomic                                     |
+| 9/12/2024  | Thursday  | Bridging Science and Practice in Human Systems Immunology – lecture by Dr. Tomic                           |
+| 9/17/2024  | Tuesday   | Collaborative Research Synthesis: Application of Systems Immunology Approaches in Real-world Examples: self-paced module |
+| 9/19/2024  | Thursday  |                                                                                                            |
+| **Weeks 4-6: Systems Immunology in Action: Insights into Infections and Vaccinology**                                               |
+| 9/24/2024  | Tuesday   | Team 1: Predicting Vaccine Success: Systems Biology and the Yellow Fever Vaccine                           |
+| 9/26/2024  | Thursday  | Team 2: Decoding Influenza Vaccination: Systems Biology Insights                                           |
+| 10/1/2024  | Tuesday   | Team 3: Understanding Personalized Medicine: How Sex Differences Shape Disease and Treatment Responses     |
+| 10/3/2024  | Thursday  | Team 4: HIV-1 and Neutralizing Antibodies: A Battle for Control                                            |
+| 10/8/2024  | Tuesday   | Team 5: Understanding Tuberculosis: Immune Factors Influencing Infection Outcomes                          |
+| 10/10/2024 | Thursday  | Team 6: COMBATing COVID-19 using Systems Immunology Approach                                               |
+| **Weeks 7-14: From Theory to Practice: AI in Immunological Cases**                                                                  |
+| 10/17/2024 | Thursday  | Preparation for AI-Driven Immunology: self-paced module                                                    |
+| 10/22/2024 | Tuesday   | SIMON says: Advancing Human Immunology using AI – lecture by Dr. Tomic                                     |
+| 10/24/2024 | Thursday  | PANDORA: Predicting immunological memory to newly emerging viruses: Practical introduction – lecture by Dr. Tomic |
+| 10/29/2024 | Tuesday   | Machine learning algorithms: theory – self-paced module                                                   |
+| 10/31/2024 | Thursday  | Team 6 - Bayesian and Discriminant Analysis Approaches to Identify Patterns in Biological Data – presentation |
+| 11/5/2024  | Tuesday   | Team 5 - Decision Trees and Ensemble Methods in Predicting Immunological Responses – presentation          |
+| 11/7/2024  | Thursday  | Team 4 - Neural Networks and Regularization: Predicting Complex Outcomes in Immunology – presentation      |
+| 11/12/2024 | Tuesday   | Team 3 - Clustering Methods to Reveal Hidden Structures in Immune Response Data – presentation             |
+| 11/14/2024 | Thursday  | Team 2 - Simplifying Complexity: Extracting Key Patterns in Immunological Data with PCA – presentation     |
+| 11/19/2024 | Tuesday   | Team 1 – Visualizing High-Dimensional Data: tSNE and UMAP for Immune System Insights – presentation        |
+| 11/21/2024 | Thursday  | Introduction to the final task                                                                             |
+| 11/26/2024 | Tuesday   | Hands-On Practical Sessions: Team tasks SIMON – self-paced module                                         |
+| 12/3/2024  | Tuesday   | Improving modeling using SIMON – part 1                                                                    |
+| 12/5/2024  | Thursday  | Improving modeling using SIMON – part 2                                                                    |
+|            |           | NextGen Immunology: Discussion & Wrap-up                                                                   |
 
 ---
 
