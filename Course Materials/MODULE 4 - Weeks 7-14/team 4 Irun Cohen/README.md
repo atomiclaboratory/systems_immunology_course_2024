@@ -69,17 +69,4 @@ The dataset includes variables that reflect immune response measurements, includ
 - **Comparison of nnet and mlpWeightDecay**: How do Neural Networks and Multilayer Perceptrons with Weight Decay differ in their predictive power and interpretability?
 - **Algorithm Comparison**: Compare nnet and mlpWeightDecay to linear models used in prior classes; discuss where neural networks provide advantages in handling complex, non-linear data.
 - **Regularization Impact**: Evaluate the impact of regularization on model performance, focusing on preventing overfitting.
-
----
-
-## Self-Paced Analysis Tasks ⏳
-
-For those interested in deeper exploration:
-
-1. **Explore Regularization Variants**:
-   - Compare results of different regularization techniques, such as ridge regression, LASSO, and elastic net, to see their effects on the model’s stability.
-
-2. **Network Architecture Exploration**:
-   - Experiment with varying hidden layers and nodes to see how model complexity affects predictions and generalizability.
-
-These tasks allow further investigation into the flexibility and challenges of neural networks in immunology data modeling.
+- **Full Algorithm Comparison**: Run all 26 neural network and regularization algorithms available in PANDORA. Compare their performance to determine which algorithm achieves the best balance between accuracy and generalization, while providing enough interpretability for immunological predictions.
