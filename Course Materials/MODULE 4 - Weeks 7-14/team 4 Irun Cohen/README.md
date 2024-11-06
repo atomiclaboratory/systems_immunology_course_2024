@@ -19,8 +19,8 @@ This team will explore neural networks and their capability to model non-linear 
    - Discussion on regularization techniques, including LASSO and elastic net, to optimize model performance.
 
 2. **Hands-on Neural Network Modeling with PANDORA (4:00 PM - 5:15 PM) 💻**
-   - In this session, participants will apply neural network and regularization methods to immunological datasets to predict outcomes, using PANDORA as the analytical platform.
-   - **Goal**: Achieve a model that predicts complex immunological responses with minimized overfitting.
+   - In this session, participants will apply **nnet** and **mlpWeightDecay** on immunological data to predict complex outcomes using PANDORA.
+   - **Goal**: Train a model that predicts complex immunological responses with minimized overfitting.
 
 ---
 
