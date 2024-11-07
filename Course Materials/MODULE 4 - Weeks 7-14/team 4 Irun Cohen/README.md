@@ -50,13 +50,14 @@ Underfitting happens when a model is too simple to capture the underlying patter
 - **Objective**: Compare **nnet** and **mlpWeightDecay** with previously studied algorithms (**nb**, **lda**, **rf**, and **C5.0**).
 - **Goal**: Identify which model performs best for predicting COVID-19 response at 6 months, and analyze which models may have overfitted.
 
-**Question before the analysis:**
+### 📝 Quiz for Task 1:
 **Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/vZQmBiVjSDaCwtayvC4fsw)
+
+**Before analysis**:
 - **Q1**: Based on your understanding of different algorithms and the COVID-19 dataset you have, which model would you expect to perform best, and why?
 - **Q2**: When evaluating models, why is it important to look at both Train AUC and Predict AUC in addition to other metrics?
 
-### 📝 Quiz for Task 1 after analysis:
-**Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/vZQmBiVjSDaCwtayvC4fsw)
+**After analysis**:
 - **Q1**: Based on the results, which model performed best and why?
 - **Q2**: Which models show signs of overfitting, and why?
 
@@ -68,13 +69,11 @@ Underfitting happens when a model is too simple to capture the underlying patter
   - **Partition 2**: 80% training (n=61) / 20% testing (n=14)
 
 ### 📝 Quiz for Task 2
-**Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/vZQmBiVjSDaCwtayvC4fsw)
 **Partition 1 (50% Training/50% Testing)**
 - **Prediction**: What do you think will happen with a smaller training set (50%)?
 - **Analysis**: Which models handled the reduced training data best, and why?
 
 **Partition 2 (80% Training/20% Testing)**
-**Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/vZQmBiVjSDaCwtayvC4fsw)
 - **Prediction**: What do you think will happen with a larger training set (80%)?
 - **Analysis**: Which models improved most with more training data, and which continued to underperform?
 
