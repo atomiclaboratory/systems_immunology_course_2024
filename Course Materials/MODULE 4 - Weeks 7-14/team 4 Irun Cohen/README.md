@@ -1,72 +1,91 @@
 # Neural Networks and Regularization 🧠🔗
 **Team 4 - Irun Cohen**
 
-### Members:
+---
+
+### 👥 Team Members
 - Shea Mowry
 - Han Kahvecioglu
 - Maya Bartels
 - Felipe Munoz
 - Meghan Pinter
 
-This team will explore neural networks and their capability to model non-linear relationships within complex immunological datasets. They will emphasize the importance of regularization techniques to prevent overfitting and improve generalization, ensuring model reliability.
+This team will dive into neural networks and their ability to model complex, non-linear relationships in immunological data. Emphasis will be placed on regularization techniques to prevent overfitting, enhance model generalization, and ensure reliability in predictions.
 
 ---
 
-## Activities 📚
+## 🌟 Class Activities
 
 1. **Introduction to Neural Networks and Regularization (Until 4:00 PM) 🧠**
-   - The team will present the fundamentals of neural networks, focusing on their use in supervised learning for immunology.
-   - Discussion on regularization techniques, including LASSO and elastic net, to optimize model performance.
+   - We’ll start with a presentation on neural networks and their use in supervised learning, specifically for immunological data.
+   - The team will explain **neural network** and **multiple-layer perceptron** and discuss how these techniques help optimize models by reducing overfitting.
 
 2. **Hands-on Neural Network Modeling with PANDORA (4:00 PM - 5:15 PM) 💻**
-   - In this session, participants will apply **nnet** and **mlpWeightDecay** on immunological data to predict complex outcomes using PANDORA.
-   - **Goal**: Train a model that predicts complex immunological responses with minimized overfitting.
+   - Apply neural network algorithms, **nnet** and **mlpWeightDecay**, and compare them to the four previously used algorithms: Naive Bayes, Linear Discriminant Analysis, Random Forest, and C5.0.
+   - **Goal**: Train a model to predict who will be high or low responders 6 months post-COVID-19 infection, focusing on minimizing overfitting.
 
 ---
 
 ## 📊 Dataset Overview
-
-The dataset includes variables that reflect immune response measurements, including antibody titers, T-cell responses, and cytokine levels. Key variables have been selected to capture the diversity in immune response patterns and individual variability.
-
-- **Antibody measures**: IgA, IgG, IgM levels across different pathogens
-- **T-Cell Responses**: CD8+ and CD4+ responses in various stimulation contexts
-- **Cytokine Levels**: Indicators of inflammatory and anti-inflammatory responses
-- **Outcome Variable**: **Immunological Outcome** – Predicted likelihood of a strong immune response based on baseline data
+- We’ll use the same dataset as in the last two classes. Download it from the ‘Dataset’ folder.
 
 ---
 
-## ML Analysis Parameters
+## 🧩 Concepts to Understand
 
-- **Outcome**: **Immunological Outcome**
-   - Target variable representing the likelihood of a strong immune response.
-   
-- **Predictors**: All measurements excluding demographic variables.
-   - Immunological measurements serve as input features in the neural network model.
+### Overfitting 🔍
+Overfitting occurs when a model learns the training data too well, capturing noise or irrelevant details, which reduces its ability to generalize to new data. This often leads to a high **Train AUC** but a lower **Predict AUC**.
 
-- **Training Set**: 75% of the data
-   - Used for model training and tuning of parameters.
+### Underfitting 📉
+Underfitting happens when a model is too simple to capture the underlying patterns in the data. It will show low performance on both the training and testing sets, leading to both low Train AUC and Predict AUC.
 
-- **Test Set**: 25% of the data
-   - Used for evaluating model generalization to unseen data.
+### Train AUC vs. Predict AUC 📈
+**Train AUC** indicates the model's performance on the training set, while **Predict AUC** assesses its performance on the test set. High Train AUC and low Predict AUC usually indicate overfitting.
 
 ---
 
-## Preprocessing
+## 🎯 Team Tasks
 
-1. **Centering and Scaling**:
-   - Standardizes data to ensure all features contribute equally to the neural network.
+### TASK 1: Algorithm Comparison 🔄
+- **Objective**: Compare **nnet** and **mlpWeightDecay** with previously studied algorithms (**nb**, **lda**, **rf**, and **C5.0**).
+- **Goal**: Identify which model performs best for predicting COVID-19 response at 6 months, and analyze which models may have overfitted.
 
-2. **Median Imputation**:
-   - Replaces missing values with the column median for robust handling of missing data.
+**Question before the analysis:**
+**Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/vZQmBiVjSDaCwtayvC4fsw)
+- **Q1**: Based on your understanding of different algorithms and the COVID-19 dataset you have, which model would you expect to perform best, and why?
+- **Q2**: When evaluating models, why is it important to look at both Train AUC and Predict AUC in addition to other metrics?
 
-3. **Feature Selection with Regularization**:
-   - Reduces feature redundancy and improves model efficiency through LASSO or elastic net.
+### 📝 Quiz for Task 1 after analysis:
+**Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/vZQmBiVjSDaCwtayvC4fsw)
+- **Q1**: Based on the results, which model performed best and why?
+- **Q2**: Which models show signs of overfitting, and why?
 
 ---
 
-## Team Tasks
+### TASK 2: Impact of Data Partitioning on Model Performance 📊
+- **Objective**: Test all six algorithms with different data partitioning methods to see how training dataset size affects performance.
+  - **Partition 1**: 50% training (n=37) / 50% testing (n=37)
+  - **Partition 2**: 80% training (n=61) / 20% testing (n=14)
 
-- **Comparison of nnet and mlpWeightDecay**: How do Neural Networks and Multilayer Perceptrons with Weight Decay differ in their predictive power and interpretability?
-- **Algorithm Comparison**: Compare nnet and mlpWeightDecay to linear models used in prior classes; discuss where neural networks provide advantages in handling complex, non-linear data.
-- **Regularization Impact**: Evaluate the impact of regularization on model performance, focusing on preventing overfitting.
-- **Full Algorithm Comparison**: Run all 26 neural network and regularization algorithms available in PANDORA. Compare their performance to determine which algorithm achieves the best balance between accuracy and generalization, while providing enough interpretability for immunological predictions.
+### 📝 Quiz for Task 2
+**Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/vZQmBiVjSDaCwtayvC4fsw)
+**Partition 1 (50% Training/50% Testing)**
+- **Prediction**: What do you think will happen with a smaller training set (50%)?
+- **Analysis**: Which models handled the reduced training data best, and why?
+
+**Partition 2 (80% Training/20% Testing)**
+**Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/vZQmBiVjSDaCwtayvC4fsw)
+- **Prediction**: What do you think will happen with a larger training set (80%)?
+- **Analysis**: Which models improved most with more training data, and which continued to underperform?
+
+---
+
+### TASK 3: Effects of Preprocessing Steps on Model Performance 🧪
+- **Objective**: Test all algorithms using 75%/25% partition, with modified preprocessing (only center/scale and median impute; no removal of correlated features,corr or low-variance features, zv/nzv).
+  
+### 📝 Quiz for Task 3 after analysis:
+**Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/vZQmBiVjSDaCwtayvC4fsw)
+- **Q1**: What impact do you expect from keeping correlated features?
+- **Q2**: How might zero/near-zero variance features affect the models?
+- **Q3**: Which models are most affected by correlated and low-variance features?
+- **Q4**: How does including these features impact AUC and computation time?
