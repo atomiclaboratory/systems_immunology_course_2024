@@ -51,7 +51,8 @@ Underfitting happens when a model is too simple to capture the underlying patter
 - **Goal**: Identify which model performs best for predicting COVID-19 response at 6 months, and analyze which models may have overfitted.
 
 ### 📝 Quiz for Task 1:
-**Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/vZQmBiVjSDaCwtayvC4fsw)
+**Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/vZQmBiVjSDaCwtayvC4fsw)  
+![QR Code for Slido Quiz](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%204%20-%20Weeks%207-14/team%204%20Irun%20Cohen/images/QR%20Code%20for%20Supervised%20ML%20quiz.png)
 
 **Before analysis**:
 - **Q1**: Based on your understanding of different algorithms and the COVID-19 dataset you have, which model would you expect to perform best, and why?
@@ -82,8 +83,7 @@ Underfitting happens when a model is too simple to capture the underlying patter
 ### TASK 3: Effects of Preprocessing Steps on Model Performance 🧪
 - **Objective**: Test all algorithms using 75%/25% partition, with modified preprocessing (only center/scale and median impute; no removal of correlated features,corr or low-variance features, zv/nzv).
   
-### 📝 Quiz for Task 3 after analysis:
-**Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/vZQmBiVjSDaCwtayvC4fsw)
+### 📝 Quiz for Task 3:
 - **Q1**: What impact do you expect from keeping correlated features?
 - **Q2**: How might zero/near-zero variance features affect the models?
 - **Q3**: Which models are most affected by correlated and low-variance features?
