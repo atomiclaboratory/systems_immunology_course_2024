@@ -52,7 +52,7 @@ Underfitting happens when a model is too simple to capture the underlying patter
 
 ### 📝 Quiz for Task 1:
 **Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/vZQmBiVjSDaCwtayvC4fsw)  
-![QR Code for Slido Quiz](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%204%20-%20Weeks%207-14/team%204%20Irun%20Cohen/images/QR%20Code%20for%20Supervised%20ML%20quiz.png)
+![QR Code for Slido Quiz](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%204%20-%20Weeks%207-14/team%204%20Irun%20Cohen/images/qr%20code.jpg)
 
 **Before analysis**:
 - **Q1**: Based on your understanding of different algorithms and the COVID-19 dataset you have, which model would you expect to perform best, and why?
