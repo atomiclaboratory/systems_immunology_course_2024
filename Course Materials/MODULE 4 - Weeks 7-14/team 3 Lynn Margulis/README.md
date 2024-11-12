@@ -21,65 +21,63 @@ Today, Team Margulis will present unsupervised clustering methods, including **K
 
 2. **Hands-on Clustering Application with PANDORA (4:00 PM - 5:15 PM) 💻**
    - Practical application of clustering techniques on immunological datasets using **PANDORA**.
-   - Emphasis on **Hierarchical Clustering (HClust)**, exploring how different dendrogram structures reveal immune response patterns.
-   - Comparison between clustering methods to see which best reveals distinct groupings within the dataset.
-
----
-
-## 📊 Dataset Overview
-- We will be using the immunological dataset available in the 'Dataset' folder, similar to previous classes.
+   - Task: Use HClust to stratify individuals into N-IgG high and low responders based on serological responses to SARS-CoV-2 infection.
 
 ---
 
 ## 🧩 Concepts to Understand
 
-### Clustering Techniques 🔍
-Clustering is an unsupervised learning technique used to group data points based on their inherent similarities. In immunology, clustering can help us identify subgroups within immune responses that might correlate with certain outcomes, like high or low responder profiles.
+### Hierarchical Clustering (HClust) 🔍
+Hierarchical Clustering (HClust) is an unsupervised learning technique that groups data points based on their similarities, visualized through a **dendrogram**. Dendrogram is built by successively merging or splitting clusters based on distance, useful for identifying nested cluster structures. Different **distance measures** and **linkage methods** influence how clusters are formed, each with unique characteristics useful for specific data types and clustering goals.
 
-- **K-means Clustering**: Partitions data into a set number of clusters, each represented by the cluster’s centroid.
-- **Hierarchical Clustering (HClust)**: Builds a dendrogram by successively merging or splitting clusters based on distance, useful for identifying nested cluster structures.
-- **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**: Groups data points based on density, useful for identifying clusters of varying shapes and sizes, including outliers.
+#### Key Features of HClust:
+- **Dendrogram Structure**: Visualizes the merging process of clusters, showing relationships and nested structures in the data.
+- **Distance Measure**: Used to calculate dissimilarities among samples, providing a basis for grouping.
+- **Linkage Method**: Applied for merging, which minimizes the variance within clusters, forming tighter and more cohesive clusters.
+
+#### Distance Measures
+1. **Correlation**: Measures the similarity between two data points based on the correlation coefficient, indicating how variables move in relation to each other.
+2. **Euclidean**: Calculates the straight-line distance between points in multidimensional space. Commonly used, it captures overall similarity based on magnitude.
+3. **Maximum**: Also known as Chebyshev distance, it considers the maximum difference between dimensions of two points, highlighting the largest deviation.
+4. **Manhattan**: Computes distance based on absolute differences across dimensions, summing each dimension’s distance (like navigating a city grid).
+5. **Canberra**: Emphasizes relative differences by dividing absolute differences by the sum of values for each dimension, making it sensitive to small values.
+6. **Binary**: Compares data points based on binary attributes, often used for categorical data, counting mismatches (0 vs. 1) between points.
+7. **Minkowski**: A generalized distance measure, extending Euclidean and Manhattan distances by varying the order parameter \( p \); for \( p = 2 \) it becomes Euclidean, and for \( p = 1 \) it becomes Manhattan.
+
+#### Linkage Methods
+1. **Single Linkage**: Connects clusters based on the smallest distance between any two points across clusters, often forming elongated clusters.
+2. **Complete Linkage**: Uses the largest distance between points in clusters, resulting in compact, evenly shaped clusters.
+3. **Average Linkage**: Calculates the average distance between all pairs of points in two clusters, balancing compactness and connectivity.
+4. **McQuitty (WPGMA)**: Weighs clusters equally regardless of size, using the average of the minimum distances.
+5. **Median Linkage**: Centers clusters around the median distance, which can help stabilize clusters but may not form balanced structures.
+6. **Centroid Linkage**: Uses the centroids (mean points) of clusters for merging, often forming natural groupings based on the central location.
+7. **Ward’s Method (Ward.D and Ward.D2)**: Minimizes the variance within clusters by choosing merges that produce the smallest increase in total within-cluster variance. **Ward.D2** is a variation that uses squared Euclidean distances, creating very tight, cohesive clusters.
+
+In today's class, we’ll apply **Euclidean distance** with **Ward.D2 linkage** in HClust to capture immune response profiles and identify predictive clusters based on their early immunological characteristics.
+
+#### How to Run HClust Analysis in PANDORA:
+1. **Prepare the Data**: Use immunological parameters measured on day 28 post-symptom onset (pso).
+2. **Compute Dissimilarity Matrix**: Calculate using **Euclidean distance** to capture similarities among samples.
+3. **Cluster Formation**: Apply **Ward’s D2 linkage method** to join the most similar clusters iteratively.
+4. **Plot the Dendrogram**: Visualize in a heatmap with the tightest clusters ordered first, revealing distinct groups (e.g., high and low responders).
 
 ---
 
 ## 🎯 Team Tasks
 
-### TASK 1: Comparison of Clustering Methods 🔄
-- **Objective**: Apply hierarchical clusterinh (HClust) to the dataset to identify distinct clusters within the immune response data.
-- **Goal**: Determine which method best captures natural groupings and provides interpretable clusters.
+### TASK 1: Identify Predictive Immunological Signatures with HClust 🔄
+- **Objective**: Use HClust to identify early immunological signatures that predict whether an individual will maintain a high-magnitude immune response six months after SARS-CoV-2 infection.
+- **Goal**: Distinguish between high and low responders by analyzing clustering results and the corresponding immunological features on day 28 pso.
 
-### 📝 Quiz for Task 1:
+### 📝 Quiz for HClust Task:
 **Join the Interactive Quiz on Slido**
 
-**Before analysis**:
-- **Q1**: Based on the characteristics of each clustering method, which one would you expect to perform best on the immune response dataset, and why?
-- **Q2**: Why is it useful to use clustering in immunological data analysis?
+**Quiz Questions**:
+- **Q1**: What does the structure of a dendrogram tell us about the immune response data?
+  - **Answer**: It shows relationships and nested clusters, helping identify distinct immune response groups.
 
-**After analysis**:
-- **Q1**: Which clustering method produced the most distinct and interpretable clusters, and why?
-- **Q2**: Which method struggled the most with noise in the dataset, and why?
+- **Q2**: Why is the Ward’s D2 linkage method beneficial for clustering immunological data?
+  - **Answer**: It minimizes variance within clusters, creating tighter, more interpretable groupings.
 
----
-
-### TASK 2: Exploring Clustering Parameters 📊
-- **Objective**: Test different parameters within each clustering method to see how they affect clustering results.
-  - **K-means**: Experiment with different numbers of clusters (k values).
-  - **HClust**: Experiment with different linkage methods (e.g., single, complete, average).
-  - **DBSCAN**: Adjust parameters for neighborhood radius and minimum points per cluster.
-
-### 📝 Quiz for Task 2
-**Parameter Exploration**
-- **Q1**: What effect does increasing the number of clusters (k) in K-means have on the cluster compactness?
-- **Q2**: In HClust, how does the choice of linkage method impact the shape and interpretability of clusters?
-- **Q3**: How does changing the neighborhood radius in DBSCAN affect cluster formation, especially in noisy data?
-
----
-
-### TASK 3: Practical Application and Interpretation 🧪
-- **Objective**: Use the best-performing clustering method(s) to identify biologically meaningful clusters in immune response data and interpret their implications.
-
-### 📝 Quiz for Task 3:
-
-- **Q1**: What insights can we gain from the clusters identified in the immune response data?
-- **Q2**: How might these clusters help in stratifying patients or predicting immune responses?
-- **Q3**: Which clustering method would you recommend for future analyses on similar datasets, and why?
+- **Q3**: Based on your HClust analysis, which immunological features on day 28 seem most predictive of a high response at 6 months?
+  - **Answer**: Likely strong anti-N IgG titers and increased T cell responses, though results may vary.
