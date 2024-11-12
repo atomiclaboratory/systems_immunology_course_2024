@@ -41,13 +41,14 @@ Hierarchical Clustering (HClust) is an unsupervised learning technique that grou
 
 ## HClust Analysis in PANDORA
 1. **Select Parameters**: Use immunological data such as antibody responses (e.g., anti-N IgG) and T cell proliferation measured on day 28 post infection.
-2. **Choose Distance Measure**: Use **Euclidean distance** for this analysis to calculate similarity between individuals.
-3. **Apply Clustering Method**: Run HClust using each of the following linkage methods:
+2. **Pre-processing Steps**: Use center and scale, and MedianImpute
+3. **Choose Distance Measure**: Use **Euclidean distance** for this analysis to calculate similarity between individuals.
+4. **Apply Clustering Method**: Run HClust using each of the following linkage methods:
    - **Ward D2**: Minimizes within-cluster variance for tighter, more cohesive clusters.
    - **Single Linkage**: Links clusters based on the closest data points; can lead to elongated clusters.
    - **Average Linkage**: Uses the average distance between points, balancing compactness and separation.
    - **Complete Linkage**: Links based on the farthest points, often maximizing separation but creating uneven cluster sizes.
-4. **Interpret the Dendrogram**: Observe how different linkage methods impact cluster appearance and clarity in separating high vs. low responders.
+5. **Interpret the Dendrogram**: Observe how different linkage methods impact cluster appearance and clarity in separating high vs. low responders.
 
 ---
 
