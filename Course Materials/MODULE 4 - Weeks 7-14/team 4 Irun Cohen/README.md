@@ -52,15 +52,21 @@ Underfitting happens when a model is too simple to capture the underlying patter
 
 ### 📝 Quiz for Task 1:
 **Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/vZQmBiVjSDaCwtayvC4fsw)  
-![QR Code for Slido Quiz](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%204%20-%20Weeks%207-14/team%204%20Irun%20Cohen/images/qr%20code.jpg)
+![QR Code for Slido Quiz](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%204%20-%20Weeks%207-14/team%204%20Irun%20Cohen/images/QR%20Code%20for%20Supervised%20ML%20quiz.png)
 
 **Before analysis**:
-- **Q1**: Based on your understanding of different algorithms and the COVID-19 dataset you have, which model would you expect to perform best, and why?
-- **Q2**: When evaluating models, why is it important to look at both Train AUC and Predict AUC in addition to other metrics?
+- **Q1**: Based on your understanding of different algorithms and the COVID-19 dataset you have, which model would you expect to perform best, and why?  
+  - **Answer**: Random Forest, as it typically handles complex patterns well.
+
+- **Q2**: When evaluating models, why is it important to look at both Train AUC and Predict AUC in addition to other metrics?  
+  - **Answer**: To detect overfitting; high Train AUC and low Predict AUC can indicate overfitting.
 
 **After analysis**:
-- **Q1**: Based on the results, which model performed best and why?
-- **Q2**: Which models show signs of overfitting, and why?
+- **Q1**: Based on the results, which model performed best and why?  
+  - **Answer**: The model with the best balance between Train and Predict AUC (e.g., **Random Forest or nnet**).
+
+- **Q2**: Which models show signs of overfitting, and why?  
+  - **Answer**: Models with high Train AUC but lower Predict AUC, like **Naive Bayes**.
 
 ---
 
@@ -71,20 +77,41 @@ Underfitting happens when a model is too simple to capture the underlying patter
 
 ### 📝 Quiz for Task 2
 **Partition 1 (50% Training/50% Testing)**
-- **Prediction**: What do you think will happen with a smaller training set (50%)?
-- **Analysis**: Which models handled the reduced training data best, and why?
+- **Prediction**: What do you think will happen with a smaller training set (50%)?  
+  - **Answer**: Lower performance, as the model has fewer data points to learn patterns.
+
+- **Analysis**: Which models handled the reduced training data best, and why?  
+  - **Answer**: Simpler models like **Naive Bayes** may perform better with limited data.
 
 **Partition 2 (80% Training/20% Testing)**
-- **Prediction**: What do you think will happen with a larger training set (80%)?
-- **Analysis**: Which models improved most with more training data, and which continued to underperform?
+- **Prediction**: What do you think will happen with a larger training set (80%)?  
+  - **Answer**: Performance should improve as the model has more data to learn from.
+
+- **Analysis**: Which models improved most with more training data, and which continued to underperform?  
+  - **Answer**: Complex models like **Random Forest** likely improved, while simpler models may not benefit as much.
 
 ---
 
 ### TASK 3: Effects of Preprocessing Steps on Model Performance 🧪
-- **Objective**: Test all algorithms using 75%/25% partition, with modified preprocessing (only center/scale and median impute; no removal of correlated features,corr or low-variance features, zv/nzv).
+- **Objective**: Test all algorithms using 75%/25% partition, with modified preprocessing (only center/scale and median impute; no removal of correlated features, corr, or low-variance features, zv/nzv).
   
-### 📝 Quiz for Task 3:
-- **Q1**: What impact do you expect from keeping correlated features?
-- **Q2**: How might zero/near-zero variance features affect the models?
-- **Q3**: Which models are most affected by correlated and low-variance features?
-- **Q4**: How does including these features impact AUC and computation time?
+### 📝 Quiz for Task 3 after analysis:
+**Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/vZQmBiVjSDaCwtayvC4fsw)  
+![QR Code for Slido Quiz](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%204%20-%20Weeks%207-14/team%204%20Irun%20Cohen/images/QR%20Code%20for%20Supervised%20ML%20quiz.png)
+
+- **Q1**: What impact do you expect from keeping correlated features?  
+  - **Answer**: Increased risk of overfitting and reduced model interpretability.
+
+- **Q2**: How might zero/near-zero variance features affect the models?  
+  - **Answer**: They add noise and increase computation without contributing valuable information.
+
+- **Q3**: Which models are most affected by correlated and low-variance features?  
+  - **Answer**: Linear models like **LDA** and **Naive Bayes** are sensitive to these features.
+
+- **Q4**: How does including these features impact AUC and computation time?  
+  - **Answer**: It can lower AUC and increase computation time due to added complexity.
+
+---
+
+## 🎉 Quiz Winners
+![Quiz Winners](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%204%20-%20Weeks%207-14/team%204%20Irun%20Cohen/images/quiz%20winners.png)
