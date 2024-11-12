@@ -15,9 +15,9 @@ Today, Team Margulis will present unsupervised clustering methods, including **K
 
 ## 🌟 Class Activities
 
-1. **Introduction to Hierarchical Clustering for Immunology (Until 4:00 PM) 🧠**
-   - Overview of **Hierarchical Clustering (HClust)** and how it can stratify individuals based on immune response data.
-   - Key focus on interpreting dendrograms and understanding how different clustering methods impact visual separation.
+1. **Introduction to Clustering Techniques (Until 4:00 PM) 🧠**
+   - Overview of unsupervised clustering techniques: K-means, HClust, and DBSCAN.
+   - Key focus on understanding how these methods help in grouping data points based on similarity, with examples relevant to immune response data.
 
 2. **Hands-on Clustering Application with PANDORA (4:00 PM - 5:15 PM) 💻**
    - Practical application of HClust on immunological datasets using **PANDORA**.
