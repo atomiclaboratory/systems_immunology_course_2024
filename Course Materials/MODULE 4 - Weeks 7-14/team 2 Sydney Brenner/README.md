@@ -121,11 +121,4 @@ PCA will allow us to examine patterns in immune responses across disease severit
 - **Objective**: Use PCA to uncover key patterns in the dataset, interpreting the meaning of each principal component and how it relates to immune response.
 - **Goal**: Identify the principal components that capture the most significant variance, interpret the main factors driving these components, and reflect on the advantages of using PCA to analyze immunological data.
 
-**Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/goiF4Knx2J2M5bHahCZ7XA)
-
-**Quiz Questions**:
-1. Which principal components explained the highest variance in immune response data?
-2. How do we interpret the main components in relation to specific immune response variables?
-3. What are the advantages of using PCA over clustering methods like HClust when exploring immune data?
-4. How does PCA help in identifying which immune variables are most influential in driving variation in the dataset?
-5. What are some limitations of PCA compared to clustering methods in terms of identifying distinct groups?
+**Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/px7Ds71gNCMa1BeTcAatGa)
