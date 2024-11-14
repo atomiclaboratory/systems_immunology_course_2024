@@ -77,11 +77,11 @@ Once the PCA is complete, understanding the output involves examining several ke
 
 - **🔎 Kaiser-Meyer-Olkin (KMO) Index**: Assesses sampling adequacy, with values from 0 to 1. A value >0.6 is considered acceptable, indicating sufficient shared variance for PCA.
 > KMO ≥ 0.90: "Marvelous" – Excellent common variance, ideal for PCA.
->0.80 ≤ KMO < 0.90: "Meritorious" – Very good common variance, suitable for PCA.
+> 0.80 ≤ KMO < 0.90: "Meritorious" – Very good common variance, suitable for PCA.
 > 0.70 ≤ KMO < 0.80: "Middling" – Adequate common variance, PCA is generally appropriate.
->0.60 ≤ KMO < 0.70: "Mediocre" – Acceptable, but only marginally suitable for PCA.
+> 0.60 ≤ KMO < 0.70: "Mediocre" – Acceptable, but only marginally suitable for PCA.
 > 0.50 ≤ KMO < 0.60: "Miserable" – Poor common variance; PCA may not be appropriate.
->KMO < 0.50: "Unacceptable" – Very low common variance, unsuitable for PCA.
+> KMO < 0.50: "Unacceptable" – Very low common variance, unsuitable for PCA.
 
 ### 2. **Eigenvalues and Scree Plot**
 
