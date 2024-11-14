@@ -67,6 +67,44 @@ After configuring these settings, **click PLOT IMAGE** to initiate the PCA analy
 
 ---
 
+## 📊 Interpreting PCA Results
+
+Once the PCA is complete, understanding the output involves examining several key measures and plots:
+
+### 1. **PCA Performance Checks**
+
+- **🧪 Bartlett's Test of Sphericity**: Checks if the dataset is suitable for PCA by evaluating correlations among variables. A p-value > 0.05 suggests PCA may not be informative, while a low p-value supports its use.
+  - ![Bartlett's Test](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Probability_density_function_of_the_chi-square_distribution.svg/2560px-Probability_density_function_of_the_chi-square_distribution.svg.png)
+
+- **🔎 Kaiser-Meyer-Olkin (KMO) Index**: Assesses sampling adequacy, with values from 0 to 1. A value >0.6 is considered acceptable, indicating sufficient shared variance for PCA.
+  - ![KMO Test](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Covariance_correlation_illustration.png/1280px-Covariance_correlation_illustration.png)
+
+### 2. **Eigenvalues and Scree Plot**
+
+- **🔢 Eigenvalues**: Represent the variance captured by each principal component (PC). PCs with higher eigenvalues explain more dataset variation. Typically, components with eigenvalues >1 are retained as they capture more variance than individual variables.
+  - ![Eigenvalues Plot](https://upload.wikimedia.org/wikipedia/commons/0/05/Eigenvalue_distribution.png)
+
+- **📉 Scree Plot**: Visualizes eigenvalues to help determine the optimal number of PCs. The “elbow” point, where the explained variance sharply decreases, suggests the number of PCs to retain.
+  - ![Scree Plot](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/PCA_Scree_Plot.png/800px-PCA_Scree_Plot.png)
+
+### 3. **PCA Interpretation Plots**
+
+- **🔗 Correlation Plot**: Shows relationships among variables based on their loading on each PC.
+  - Variables close together are positively correlated, while those in opposite quadrants are negatively correlated.
+  - Variables farther from the origin are better represented by the PCs.
+  - ![Correlation Plot](https://upload.wikimedia.org/wikipedia/commons/8/84/Correlation_matrix_visualization.png)
+
+- **📐 Cos² Plot (Squared Cosine)**: Reflects the quality of variable representation on the factor map. Higher cos² values indicate better representation by the PCs. 
+  - ![Cos² Plot](https://upload.wikimedia.org/wikipedia/commons/0/0e/Cosine_similarity.png)
+
+- **🎯 Contribution Plot**: Displays each variable’s contribution percentage to the variance explained by specific PCs. Variables with high contributions on primary PCs are crucial in explaining data variability.
+  - ![Contribution Plot](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/PCA_variable_contributions_plot.png/800px-PCA_variable_contributions_plot.png)
+
+- **🔀 Biplot**: Combines sample and variable projections on PCs, illustrating which variables most influence sample positions. Observing patterns based on variables or groups can reveal clustering trends or relationships within the data.
+  - ![Biplot](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Biplot_example.png/800px-Biplot_example.png)
+
+---
+
 ## 🎯 Team Task
 
 ### Research Questions
