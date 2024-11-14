@@ -40,15 +40,46 @@ PCA is a dimensionality reduction technique that transforms high-dimensional dat
 ---
 
 ## PCA Analysis in PANDORA
-1. **Select Parameters**: Use immunological data such as antibody and T-cell responses measured across different days.
-2. **Pre-processing Steps**: Normalize and scale the data (center/scale) to ensure that each variable contributes equally; and impute missing values with MedianImpute.
-3. **Run PCA**: Execute PCA in PANDORA to extract the top principal components that explain the highest variance.
-4. **Interpret Results**: Analyze the loadings of each variable on the principal components to understand which immune responses are most influential in driving variation in the data.
-5. **Visualize**: Create plots to visualize clusters of data points along the principal components, helping to identify natural groupings or trends in immune responses.
+
+### Step 1: Column Selection
+- **Choose Columns**: Select specific columns you wish to analyze and plot. Leaving this empty will include all valid numerical columns, except excluded ones.
+- **Default Setting**: If no columns are selected, PANDORA will automatically take the first `n` columns from your dataset, up to a maximum of 50,000.
+- **Excluded Columns**: No excluded columns by default.
+
+### Step 2: Preprocessing Options
+- **Unique Threshold**: Removing columns with fewer than a defined number of unique values (default:5) helps eliminate variables that don’t provide enough variation, which could otherwise lead to misleading or insignificant components in the analysis.
+- **OPTIONAL - Percentage Threshold**: Columns with unique values below 10% of the total observations lack variability, which can skew results or add noise to the PCA. By excluding these low-variability columns, we focus on variables that contribute more effectively to capturing the true patterns and variance in the dataset.
+*These steps are necessary to ensure that PCA operates on meaningful variables!*
+- **Percentage Threshold**: 
+- **Preprocessing**: Use `MedianImpute` for handling missing values, and apply `Center/Scale` to standardize data across variables. This standardization ensures that all variables contribute equally to PCA, which is critical for meaningful results.
+- **Remove NA Option**: Turn this on to remove NA values from grouping variables.
+
+### Step 3: PCA Settings
+- **Choose Grouping Variable**: Grouping variables are excluded from PCA calculations and preprocessing. They are used solely for plotting and displaying PCA results. Only variables with unique values less than 10% of total observations appear here.
+   - **Example**: Select "Disease Severity" (with values asymptomatic, mild, severe) as the grouping variable.
+   - **Research Question**: Investigate immunological parameters (B cells, T cells, SARS-CoV-2-specific T cells, antibody profiles) measured across 6 time points up to 6 months post-infection to analyze patterns related to disease severity.
+- **Component Limits**: If there are more than 1000 columns, Bartlett’s test and the Kaiser-Meyer-Olkin measure will be skipped due to computational limitations.
+
+### Step 4: Display Options
+- **Font Size**: Set font size to 16 for clarity in the plots.
+
+After configuring these settings, **click PLOT IMAGE** to initiate the PCA analysis.
 
 ---
 
 ## 🎯 Team Task
+
+### Research Questions
+
+**Integrative Analysis to Identify Immune Parameters Associated with Disease Severity**
+
+To investigate the trajectory of cellular and humoral adaptive immune responses during SARS-CoV-2 infection and their relationship with disease severity, perform an integrative analysis on aggregated immunological data from 433 samples obtained from 86 donors (12 asymptomatic, 66 mild, 8 severe) at 6 different time points. Our main objectives are:
+
+1. **Hypothesis**: Samples from asymptomatic individuals may resemble those taken at later time points from individuals with mild, symptomatic disease, suggesting a similarity in immune response evolution.
+2. **Objective**: Identify immunological differences between individuals with asymptomatic and mild infections by performing PCA on immunological parameters alone.
+3. **Analysis Goal**: Determine if immunological parameters alone can explain a significant portion of variance in SARS-CoV-2 positive individuals, revealing distinct immunophenotypes among asymptomatic, mild, and severe cases.
+
+PCA will allow us to examine patterns in immune responses across disease severities, helping identify critical variables—such as specific T cell responses and antibody markers—that drive differences in immune profiles.
 
 ### TASK: Analyzing and Interpreting PCA Results 🔄
 - **Objective**: Use PCA to uncover key patterns in the dataset, interpreting the meaning of each principal component and how it relates to immune response.
