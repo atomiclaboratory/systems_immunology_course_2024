@@ -67,3 +67,8 @@ Hierarchical Clustering (HClust) is an unsupervised learning technique that grou
 4. Which grouping variable correlates most with high response levels in this dataset?
 5. When is unsupervised ML, like HClust, more appropriate than supervised ML in immunology research?
 6. What are the limitations of HClust compared to supervised methods in predicting immune outcomes?
+
+---
+
+## 🎉 Quiz Winners
+![Quiz Winners](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%204%20-%20Weeks%207-14/team%203%20Lynn%20Margulis/images/H-Clust%20Quiz%20Winners.png)
