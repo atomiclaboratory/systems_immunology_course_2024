@@ -123,3 +123,7 @@ PCA will allow us to examine patterns in immune responses across disease severit
 - **Goal**: Identify the principal components that capture the most significant variance, interpret the main factors driving these components, and reflect on the advantages of using PCA to analyze immunological data.
 
 **Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/px7Ds71gNCMa1BeTcAatGa)
+---
+
+## 🎉 Quiz Winners
+![Quiz Winners](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%204%20-%20Weeks%207-14/team%202%20Sydney%20Brenner/images/PCA-quiz%20winners.png)
