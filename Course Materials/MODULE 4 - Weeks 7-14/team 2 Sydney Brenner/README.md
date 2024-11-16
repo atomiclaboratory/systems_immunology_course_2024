@@ -123,6 +123,56 @@ PCA will allow us to examine patterns in immune responses across disease severit
 - **Goal**: Identify the principal components that capture the most significant variance, interpret the main factors driving these components, and reflect on the advantages of using PCA to analyze immunological data.
 
 **Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/px7Ds71gNCMa1BeTcAatGa)
+
+---
+
+### Quiz Questions with Correct Answers
+
+1. **What does a low p-value in Bartlett's Test of Sphericity indicate about the dataset's suitability for PCA?**  
+   *A low p-value indicates that the dataset is highly suitable for PCA, as it suggests significant correlations among variables, allowing for effective dimension reduction.*
+
+2. **Based on performance evaluation, is this PCA analysis worth further evaluation?**  
+   *Yes, both the Bartlett’s test p-value and KMO index indicate that the data has sufficient correlation and shared variance to justify PCA.*
+
+3. **Based on the Scree Plot, how many principal components should be retained for analysis, and why?**  
+   *2, because the "elbow" in the plot suggests that components after the second one add minimal additional variance.*
+
+4. **What percentage of the total variance is explained by the first two principal components in this Scree Plot?**  
+   *34.5%*
+
+5. **If the first two principal components explain only 34.5% of the total variance in a dataset comparing mild and severe infections, what might this suggest about your data?**  
+   *The dataset can distinguish 34.5% between disease severity based on measured parameters, and adding more relevant measurements could increase the variance explained.*
+
+6. **In the PCA correlation plot, how should the color coding based on cos² values (from blue to orange) be interpreted?**  
+   *Variables with a more intense color (closer to orange) have a high contribution to explaining the overall variance.*
+
+7. **In the PCA correlation plot, what does it mean when a variable is positioned far from the center?**  
+   *Variables farther from the center are strongly represented in the data, indicating they contribute significantly to the patterns identified.*
+
+8. **In the PCA correlation plot, what does it mean when two variables are positioned close to each other?**  
+   *When one of these variables increases, the other is likely to increase as well, as they are positively related.*
+
+9. **Based on the PCA correlation plot, what does the positioning of "Days PSO" and Antibody response measurements mean?**  
+   *As the timepoint after infection increases, antibody responses decrease.*
+
+10. **Which variables contribute the most to explaining the variance on dimensions 1 and 2?**  
+   *Variables like "Proliferation_S2_CD8" and "SARS-CoV2_S_MSD" have high cos² values, meaning they contribute significantly to the variance on dimensions 1 and 2.*
+
+11. **Based on the PCA plot, how similar are mild and asymptomatic cases compared to mild and severe cases?**  
+   *Mild and asymptomatic cases are more similar, as they are closely clustered together with considerable overlap.*
+
+12. **In the PCA plot, what do the individuals in the upper right quadrant represent?**  
+   *The individuals in the upper right quadrant display a distinct separation along dimension 1, which explains 23.6% of the variance, indicating they have unique biological characteristics that differ from other individuals.*
+
+13. **In the PCA biplot, which type of variables primarily separates severe cases in the upper right quadrant from other cases, and which type separates mild cases in the lower right quadrant?**  
+   *Antibody response variables separate severe cases in the upper right quadrant, while T cell response variables separate mild cases in the lower right quadrant.*
+
+14. **How does PCA differ from hierarchical clustering when analyzing immune response data, and what unique insights does each method provide?**  
+   *PCA provides metrics such as variance explained and identifies key contributing variables, making it easier to interpret the main sources of variance, while hierarchical clustering is more exploratory, grouping individuals without providing a clear metric of performance.*
+
+15. **In the context of a novel emerging disease like avian flu, with rising cases and no established therapies, when would PCA be more appropriate than supervised machine learning methods such as neural networks, Random Forest, or Naive Bayes?**  
+   *When the goal is to explore unknown patterns in the immune response over time without predefined outcomes, as PCA reduces dimensionality across various immune parameters, allowing researchers to identify emerging response profiles.*
+   
 ---
 
 ## 🎉 Quiz Winners
