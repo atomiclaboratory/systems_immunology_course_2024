@@ -43,29 +43,35 @@ t-SNE is a non-linear dimensionality reduction technique particularly well-suite
 
 ---
 
-## t-SNE Analysis in PANDORA
+## t-SNE Analysis in PANDORA: Step-by-Step 🚀
 
-### Step 1: Data Selection
-- **Choose Data Columns**: Select the high-dimensional features you wish to visualize. This could include various immunological parameters like cell counts, cytokine levels, etc.
-- **Default Setting**: If no specific columns are selected, PANDORA will include all valid numerical columns.
+### Step 1: Data Selection 📂
+- **Columns**: Leave empty to include all columns in the analysis.
+- **Exclude**: Exclude `days_pso` from the dataset.
+- **Grouping Variables**: Set `timepoint` and `disease severity` as grouping variables.
 
-### Step 2: Preprocessing Options
-- **Standardization**: Apply `Center/Scale` to normalize your data, ensuring each feature contributes equally to the analysis.
-- **Handling Missing Values**: Use `MedianImpute` to fill in any missing data points, which helps in maintaining the integrity of the dataset.
+### Step 2: Preprocessing Steps 🧹
+- Apply the following preprocessing settings:
+  - **Center/Scale**: 📏 Standardize the data to ensure all variables contribute equally.
+  - **MedianImpute**: 🩹 Handle missing values by imputing with the median.
+  - **Correlation Filter (corr)**: 🔗 Remove variables with high correlation to reduce redundancy.
+  - **Zero and Near-Zero Variance Filter (zv/nzv)**: ⚙️ Exclude variables with little to no variability.
 
-### Step 3: t-SNE Settings
-- **Perplexity**: Set the perplexity parameter (commonly between 5 and 50). This balances attention between local and global aspects of your data.
-- **Learning Rate**: Adjust the learning rate to control how the algorithm converges.
-- **Iterations**: Specify the number of iterations for optimization (a higher number can lead to more stable results).
+### Step 3: Clustering Settings 🔍
+- Use **Mclust (DBSCAN)** for clustering.
+- Set the `epsQuantile` parameter to `1`.
+- Set the number of cluster groups to `3`.
 
-### Step 4: Grouping Variables
-- **Color Coding**: Choose a categorical variable to color-code your data points, such as disease severity or time points.
-  - **Example**: Select "Disease Severity" to observe how different severity levels cluster in the visualization.
+### Step 4: t-SNE Settings ⚙️
+- **Perplexity**: Test values `5`, `20`, `30`, `50`, and `100`.
+- **Exaggeration Factor**: Test values `4`, `12`, `36`, and `100`.
+- **Max Iterations**: Test values `250`, `1,000`, and `10,000` with a fixed learning rate of `500`.
+- **Learning Rate (eta)**: Test values `10`, `30`, and `500` with max iterations fixed at `10,000`.
 
-### Step 5: Display Options
-- **Plot Customization**: Adjust font sizes, point sizes, and other visual aspects for clarity.
+### Step 5: Plot and Analyze 📊
+- Run the analysis by clicking **PLOT IMAGE** and observe the t-SNE plot.
+- Use the color-coded grouping variables (`timepoint` and `disease severity`) to interpret clusters.
 
-After configuring these settings, **click PLOT IMAGE** to run the t-SNE analysis.
 
 ---
 
