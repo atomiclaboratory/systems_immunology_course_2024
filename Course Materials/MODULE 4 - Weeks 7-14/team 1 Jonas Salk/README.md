@@ -58,22 +58,28 @@ t-SNE is a non-linear dimensionality reduction technique particularly well-suite
   - **Zero and Near-Zero Variance Filter (zv/nzv)**: ⚙️ Exclude variables with little to no variability.
 
 ### Step 3: Clustering Settings 🔍
-- Use **Mclust (DBSCAN)** for clustering.
+- Use **Mclust (DBSCAN)** for clustering:
+  - **DBSCAN**: A density-based clustering algorithm that groups points based on their proximity and marks outliers.
+  - **epsQuantile**: Sets the distance threshold to define clusters; higher values create broader clusters, and lower values tighten clustering.
 - Set the `epsQuantile` parameter to `1`.
 - Set the number of cluster groups to `3`.
 
 ### Step 4: t-SNE Settings ⚙️
 - **Perplexity**: Test values `5`, `20`, `30`, `50`, and `100`.
+  - *Defines the balance between local and global structure in the data. Lower values focus on local details, while higher values capture broader structures.*
 - **Exaggeration Factor**: Test values `4`, `12`, `36`, and `100`.
+  - *Controls the spread of points during the embedding process. Higher values exaggerate separations between clusters.*
 - **Max Iterations**: Test values `250`, `1,000`, and `10,000` with a fixed learning rate of `500`.
+  - *Sets the number of optimization steps; higher values increase precision but take longer.*
 - **Learning Rate (eta)**: Test values `10`, `30`, and `500` with max iterations fixed at `10,000`.
+  - *Determines the step size during optimization. A low value slows down convergence, while a high value can destabilize results.*
 
 ### Step 5: Plot and Analyze 📊
 - Run the analysis by clicking **PLOT IMAGE** and observe the t-SNE plot.
 - Use the color-coded grouping variables (`timepoint` and `disease severity`) to interpret clusters.
 
-
 ---
+
 
 ## 📊 Interpreting t-SNE Results
 
