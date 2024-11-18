@@ -106,7 +106,7 @@ To explore how high-dimensional immunological data can be visualized to reveal p
 2. **Objective**: Use t-SNE to reduce the dimensionality of immunological parameters and visualize how samples group based on disease severity.
 3. **Analysis Goal**: Identify whether t-SNE can effectively separate asymptomatic, mild, and severe cases, and determine which immunological features contribute to these separations.
 
-**Join the Interactive Quiz on Slido**: [Slido Link](TBD)
+**Join the Interactive Quiz on Slido**: [Slido Link](https://app.sli.do/event/cTfKSL3Dq2sHKMnfSArQMo)
 
 ---
 
