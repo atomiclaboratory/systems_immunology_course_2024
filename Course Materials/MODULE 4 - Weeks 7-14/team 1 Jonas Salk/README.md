@@ -108,3 +108,21 @@ To explore how high-dimensional immunological data can be visualized to reveal p
 
 **Join the Interactive Quiz on Slido**: [Slido Link](TBD)
 
+---
+
+## 📚 Additional Reading Materials on t-SNE
+
+### Articles and Blogs
+- [Exploring t-SNE](http://nickc1.github.io/dimensionality/reduction/2017/11/04/exploring-tsne.html) - A great introductory blog post to understand t-SNE and its applications.
+
+- [Understanding t-SNE and Its Pitfalls](https://distill.pub/2016/misread-tsne/) - A comprehensive guide to interpreting t-SNE plots and avoiding common misinterpretations.
+
+### Videos
+- [Google t-SNE Introduction (3 min)](https://www.youtube.com/watch?v=wvsE8jm1GzE) - A short and engaging video explaining the basics of t-SNE.
+  
+- [StatQuest: t-SNE (12 min)](https://www.youtube.com/watch?v=NEaUSP4YerM) - A detailed and easy-to-follow explanation of t-SNE with visual aids.
+
+### Academic Paper
+- [Original t-SNE Paper by van der Maaten and Hinton](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf) - The foundational research paper introducing t-SNE, covering the algorithm and its mathematical foundation.
+
+
