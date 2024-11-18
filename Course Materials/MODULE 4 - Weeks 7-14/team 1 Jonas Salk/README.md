@@ -80,7 +80,6 @@ t-SNE is a non-linear dimensionality reduction technique particularly well-suite
 
 ---
 
-
 ## 📊 Interpreting t-SNE Results
 
 Understanding the t-SNE output involves examining how data points are arranged in the reduced-dimensional space:
@@ -92,10 +91,6 @@ Understanding the t-SNE output involves examining how data points are arranged i
 ### 2. **Color-Coding and Patterns**
 - **Grouping Variables**: By color-coding data points, you can observe how different categories distribute across the visualization.
 - **Identifying Trends**: Patterns in color distribution can reveal relationships between immunological features and clinical outcomes.
-
-### 3. **Analyzing Outliers**
-- **Outlier Detection**: Data points that are isolated from clusters may represent unique cases or anomalies in the dataset.
-- **Investigate Further**: Outliers should be examined to determine if they are due to data errors or represent significant biological variations.
 
 ---
 
