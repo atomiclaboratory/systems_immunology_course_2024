@@ -150,7 +150,6 @@ Submissions will be evaluated using:
 ## 🏆 **Awards**
 
 1. 🥇 **1st Place**:  
-   - **A+ Grade** in the course.  
    - Certificate of **Awesomeness**.  
    - Special **Giant Microbe Trophy** for the team.  
 
