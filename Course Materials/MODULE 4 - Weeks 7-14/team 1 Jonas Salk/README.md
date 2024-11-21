@@ -126,3 +126,7 @@ To explore how high-dimensional immunological data can be visualized to reveal p
 - [Original t-SNE Paper by van der Maaten and Hinton](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf) - The foundational research paper introducing t-SNE, covering the algorithm and its mathematical foundation.
 
 
+---
+
+## 🎉 Quiz Winners
+![Quiz Winners](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/MODULE%204%20-%20Weeks%207-14/team%201%20Jonas%20Salk/images/tSNE-%20quiz%20winners.png)
