@@ -102,9 +102,9 @@ Upon completing this course, you will be able to:
 | 11/14/2024 | Thursday  | Team 2 - Simplifying Complexity: Extracting Key Patterns in Immunological Data with PCA – presentation     |
 | 11/19/2024 | Tuesday   | Team 1 – Visualizing High-Dimensional Data: tSNE and UMAP for Immune System Insights – presentation        |
 | 11/21/2024 | Thursday  | Introduction to the final task                                                                             |
-| 11/26/2024 | Tuesday   | Hands-On Practical Sessions: Team tasks SIMON – self-paced module                                         |
-| 12/3/2024  | Tuesday   | Improving modeling using SIMON – part 1                                                                    |
-| 12/5/2024  | Thursday  | Improving modeling using SIMON – part 2                                                                    |
+| 11/26/2024 | Tuesday   | Hands-On Practical Sessions: Flu Fighters Prediction Challnege Team task – self-paced module                                         |
+| 12/3/2024  | Tuesday   | Flu Fighters Prediction Challenge – consulting session                                                                   |
+| 12/5/2024  | Thursday  | Flu Fighters Prediction Challenge – revealing winners and presentations by teams                                                                    |
 |            |           | NextGen Immunology: Discussion & Wrap-up                                                                   |
 
 ---
