@@ -161,20 +161,9 @@ Submissions will be evaluated using:
 3. 🥉 **3rd Place**:  
    - Certificate of **Achievement**.  
    - Giant Microbes for each team member. 
----
-
-## 💡 **Hints and Tips**
-
-Here are some helpful hints based on **Module 4 content**:
-
-1. **SIMON**: Use this automated ML platform to improve modeling and streamline the prediction process.  
-2. **Mulset Algorithm**: This algorithm reduces noise and handles missing data effectively by creating smaller datasets.  
-3. **PANDORA's t-SNE Function**: Utilize automated t-SNE for high-dimensionality reduction and improved clustering.  
-4. **Clustering Algorithms**: Experiment with different clustering approaches to identify responder profiles.  
-5. **Feature Selection**: Not all features are equally useful. Focus on those with the highest predictive power.  
-6. **Baseline Exploration**: Analyze baseline immune data to identify patterns correlated with vaccine responsiveness.
 
 ---
+
 ## 🚀 **Get Started**
 
 This section provides ideas and suggestions to help you and your team tackle the Flu Fighters challenge. These are not strict guidelines but are meant to inspire your process and help you think critically about the task. Feel free to be creative and come up with your unique approach! 🌟
@@ -295,6 +284,18 @@ When presenting on **Dec 5th**, make sure to cover:
 2. **Methods**: What modeling strategy did you use, and why?  
 3. **Results**: Show performance metrics and highlight interesting findings.  
 4. **Biological Meaning**: What insights did your model uncover about LAIV vaccine responses?
+
+---
+
+## 💡 **Hints and Tips**
+
+Here are some helpful hints based on **Module 4 content**:
+
+1. **SIMON**: Use this automated ML platform to improve modeling and streamline the prediction process.  
+2. **Mulset Algorithm**: This algorithm reduces noise and handles missing data effectively by creating smaller datasets.  
+3. **PANDORA's t-SNE Function**: Utilize automated t-SNE for high-dimensionality reduction and improved clustering.  
+4. **Clustering Algorithms**: Experiment with different clustering approaches to identify responder profiles.  
+5. **Feature Selection**: Not all features are equally useful. Focus on those with the highest predictive power.
 
 ---
 
