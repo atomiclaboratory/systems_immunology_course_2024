@@ -92,7 +92,7 @@ The dataset contains **predictor variables** (baseline immune data, demographics
 
 ### **📥 Predictors**
 
-Refer to the **[baseline predictive modeling](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/Flu%20Fighters%20Challenge%202024/images/baseline%20predictive%20modeling%20overview.png)** for more information on sample collection and assay measurements.
+For more information on sample collection and assay measurements, see **![baseline predictive modeling](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/Flu%20Fighters%20Challenge%202024/images/baseline%20predictive%20modeling%20overview.png)**
 
 #### 🧑‍🔬 **Demographics**
 - `subid1`: Unique participant ID.  
