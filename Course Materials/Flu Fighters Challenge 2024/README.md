@@ -178,10 +178,11 @@ Before diving into the dataset, decide on your **research question**:
      - Group A: High IgA responses, low T-cell responses.  
      - Group B: Strong T-cell activation, moderate humoral immunity.  
 
-💡 **Idea**: Try visualizing the fold-change data to identify patterns or trends before modeling. For clustering, try different algorithms and compare results:  
+💡 **Idea**: For a specific outcomes, such as HAI responders, set up threshold HAI >4 as high responders and all below as low responders.
+For clustering, try different algorithms and compare results:  
   - Use PANDORA’s automated clustering options if available.  
   - Evaluate cluster quality with metrics like silhouette scores or biological interpretability. 
- For a specific outcomes, such as HAI responders, set up threshold HAI >4 as high responders and all below as low responders.
+ 
 
 ---
 
