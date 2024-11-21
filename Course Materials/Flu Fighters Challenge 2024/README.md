@@ -2,6 +2,10 @@
 
 Welcome to **Flu Fighters: The Ultimate Immunogenicity Challenge**, where your mission is to predict vaccine responsiveness to the **Live Attenuated Influenza Vaccine (LAIV)** and uncover the secrets of vaccine immunogenicity. This is not your average data science task—this is the **most difficult challenge yet**! Why? Let’s break it down:
 
+---
+
+## 🌟 Why This Challenge is Unique:
+
 1. **Immune Complexity**: Vaccine-induced immunity involves interactions between multiple immune compartments—humoral, cellular, and mucosal—all influenced by baseline immune states.  
 2. **Interindividual Variability**: No two individuals respond to a vaccine in exactly the same way, and biological outliers make predictions even harder.  
 3. **High-Dimensional Data**: You’ll work with transcriptomics, cellular data, and serological markers, all integrated into a single dataset.  
@@ -20,9 +24,12 @@ For more details, refer to the publication that describes this cohort:
 **[Effect of a Russian-backbone live-attenuated influenza vaccine on shedding and immunogenicity among children in The Gambia](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/FLU%20PREDICTION%20CHALLENGE/reading%20materials/2019%20Lindsey%20LAIV%20phase%204%20study.pdf)**  
 (*Lindsey, Benjamin B et al., The Lancet Respiratory Medicine, 2019.*)
 
-View the **[study design overview](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/FLU%20PREDICTION%20CHALLENGE/images/study%20design.png)** to understand how vaccine responsiveness is defined.
+📌 **Study Design Overview:**  
+![Study Design Overview](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/FLU%20PREDICTION%20CHALLENGE/images/study%20design.png)
 
-### Why It Matters:
+---
+
+### ‼️ Why It Matters:
 - **Understanding Immunogenicity**: Key to improving vaccine design and targeting specific populations.  
 - **Guiding Personalized Strategies**: Accurate predictions can inform tailored vaccination approaches.  
 - **Unique LAIV Features**: This intranasal vaccine stimulates robust mucosal IgA immunity, moderate T-cell responses, and generally low systemic HAI antibody titers.
@@ -33,7 +40,7 @@ This challenge mimics **real-world vaccine research**, where interindividual var
 
 ## **How Vaccine Responsiveness Is Defined**
 
-### **Definition**
+### 📈 **Definition**
 Vaccine responsiveness is measured as the **fold-change** in immune responses, calculated as:  
 
 \[
@@ -42,7 +49,7 @@ Vaccine responsiveness is measured as the **fold-change** in immune responses, c
 
 This approach ensures that **pre-existing immune states** are accounted for when assessing vaccine-induced changes. By using the fold-change, we can compare individuals who start at very different baseline levels.
 
-### **Why This Matters**
+### ‼️ **Why This Matters**
 Using fold-change helps avoid misinterpreting absolute response values. For example:
 - A participant with **high baseline levels** of antibodies may exhibit a smaller increase post-vaccination compared to a participant with **low baseline levels**, even though their final antibody levels remain higher.
 - Conversely, a participant with **low baseline levels** may show a dramatic fold-change increase post-vaccination, reflecting a strong vaccine response despite lower absolute levels.
@@ -62,7 +69,7 @@ This strategy captures the **individualized nature** of immune responses, ensuri
 
 ---
 
-### **Timeline and Guidelines**
+### 📅 **Timeline and Guidelines**
 
 - **Nov 26th**: **Self-paced**  
   - Teams will work independently to develop a **strategy** for predictive modeling.  
@@ -145,13 +152,15 @@ Submissions will be evaluated using:
 1. 🥇 **1st Place**:  
    - **A+ Grade** in the course.  
    - Certificate of **Awesomeness**.  
+   - Special **Giant Microbe Trophy** for the team.  
 
 2. 🥈 **2nd Place**:  
    - Certificate of **Excellence**.  
+   - Giant Microbes for each team member.  
 
 3. 🥉 **3rd Place**:  
    - Certificate of **Achievement**.  
-
+   - Giant Microbes for each team member. 
 ---
 
 ## 💡 **Hints and Tips**
@@ -291,4 +300,4 @@ When presenting on **Dec 5th**, make sure to cover:
 
 ## 🌟 **Good Luck!**
 
-Remember, there’s no single right way to approach this challenge. Be creative, think critically, and have fun exploring the data! Let’s see who will become the **next best Flu Fighters on the planet**! 🌍💪  
+Remember, there’s no single right way to approach this challenge. Be creative, think critically, and have fun exploring the data!
