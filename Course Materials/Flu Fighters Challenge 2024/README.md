@@ -1,16 +1,15 @@
 # **Flu Fighters: The Ultimate Immunogenicity Challenge 🤖🧬💉**
 
-Welcome to **Flu Fighters: The Ultimate Immunogenicity Challenge**, where your mission is to predict vaccine responsiveness to the **Live Attenuated Influenza Vaccine (LAIV)** and uncover the secrets of vaccine immunogenicity. This is not your average data science task—this is the **most difficult challenge yet**! Why? Let’s break it down:
+Welcome to **Flu Fighters: The Ultimate Immunogenicity Challenge**, where your mission is to predict vaccine responsiveness to the **Live Attenuated Influenza Vaccine (LAIV)** and uncover the secrets of vaccine immunogenicity. This is not your average data science task—this is the **most difficult challenge yet**! Why? Let’s break it down.
 
 ---
 
-## 🌟 Why This Challenge is Unique:
+## 🌟 Why this challenge is unique:
 
 1. **Immune Complexity**: Vaccine-induced immunity involves interactions between multiple immune compartments—humoral, cellular, and mucosal—all influenced by baseline immune states.  
 2. **Interindividual Variability**: No two individuals respond to a vaccine in exactly the same way, and biological outliers make predictions even harder.  
 3. **High-Dimensional Data**: You’ll work with transcriptomics, cellular data, and serological markers, all integrated into a single dataset.  
 4. **Missing Data and Noise**: Real-world datasets like this one come with challenges like missing values and measurement noise.  
-5. **Predicting the Unpredictable**: Vaccine responsiveness depends on subtle and complex immune features that are difficult to model.
 
 Are you ready to tackle one of the most critical and complex questions in immunology and data science? Let's find out which team will become the **next best Flu Fighters on the planet**! 🌍💪
 
@@ -24,7 +23,7 @@ For more details, refer to the publication that describes this cohort:
 **[Effect of a Russian-backbone live-attenuated influenza vaccine on shedding and immunogenicity among children in The Gambia](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/FLU%20PREDICTION%20CHALLENGE/reading%20materials/2019%20Lindsey%20LAIV%20phase%204%20study.pdf)**  
 (*Lindsey, Benjamin B et al., The Lancet Respiratory Medicine, 2019.*)
 
-📌 **Study Design Overview:**  
+📌 **Figure 1. Study Design Overview.**  
 ![Study Design Overview](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/Flu%20Fighters%20Challenge%202024/images/study%20design.png)
 
 ---
@@ -43,9 +42,7 @@ This challenge mimics **real-world vaccine research**, where interindividual var
 ### 📈 **Definition**
 Vaccine responsiveness is measured as the **fold-change** in immune responses, calculated as:  
 
-\[
-\text{Fold-Change} = \frac{\text{Response on Day 21 Post-Vaccination}}{\text{Baseline Response (Day 0)}}
-\]
+Fold-Change = Response on Day 21 Post-Vaccination / Baseline Response (Day 0)
 
 This approach ensures that **pre-existing immune states** are accounted for when assessing vaccine-induced changes. By using the fold-change, we can compare individuals who start at very different baseline levels.
 
@@ -91,8 +88,8 @@ This strategy captures the **individualized nature** of immune responses, ensuri
 The dataset contains **predictor variables** (baseline immune data, demographics, and transcriptomics) and **outcome variables** (vaccine responsiveness).
 
 ### **📥 Predictors**
-
-For more information on sample collection and assay measurements, see **![baseline predictive modeling](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/Flu%20Fighters%20Challenge%202024/images/baseline%20predictive%20modeling%20overview.png)**
+📌 **Figure 2. Overview of the baseline measurements included in the dataset.** 
+![baseline predictive modeling](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/Flu%20Fighters%20Challenge%202024/images/baseline%20predictive%20modeling%20overview.png)
 
 #### 🧑‍🔬 **Demographics**
 - `subid1`: Unique participant ID.  
@@ -183,7 +180,8 @@ Before diving into the dataset, decide on your **research question**:
 
 💡 **Idea**: Try visualizing the fold-change data to identify patterns or trends before modeling. For clustering, try different algorithms and compare results:  
   - Use PANDORA’s automated clustering options if available.  
-  - Evaluate cluster quality with metrics like silhouette scores or biological interpretability.  
+  - Evaluate cluster quality with metrics like silhouette scores or biological interpretability. 
+ For a specific outcomes, such as HAI responders, set up threshold HAI >4 as high responders and all below as low responders.
 
 ---
 
