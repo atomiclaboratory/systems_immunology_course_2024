@@ -25,7 +25,7 @@ For more details, refer to the publication that describes this cohort:
 (*Lindsey, Benjamin B et al., The Lancet Respiratory Medicine, 2019.*)
 
 📌 **Study Design Overview:**  
-![Study Design Overview](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/FLU%20PREDICTION%20CHALLENGE/images/study%20design.png)
+![Study Design Overview](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/Flu%20Fighters%20Challenge%202024/images/study%20design.png)
 
 ---
 
@@ -92,7 +92,7 @@ The dataset contains **predictor variables** (baseline immune data, demographics
 
 ### **📥 Predictors**
 
-Refer to the **[study design image](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/FLU%20PREDICTION%20CHALLENGE/images/baseline%20predictive%20modeling%20overview.png)** for more information on sample collection and assay measurements.
+Refer to the **[baseline predictive modeling](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/Flu%20Fighters%20Challenge%202024/images/baseline%20predictive%20modeling%20overview.png)** for more information on sample collection and assay measurements.
 
 #### 🧑‍🔬 **Demographics**
 - `subid1`: Unique participant ID.  
