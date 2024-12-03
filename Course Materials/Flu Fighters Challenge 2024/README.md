@@ -1,6 +1,6 @@
 # **Flu Fighters: The Ultimate Immunogenicity Challenge 🤖🧬💉**
 
-![Flu Fighters Logo](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/Flu%20Fighters%20Challenge%202024/images/logo_full.png)
+<img src="https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/Flu%20Fighters%20Challenge%202024/images/logo_full.png" alt="Flu Fighters Logo" width="400px">
 
 Welcome to **Flu Fighters: The Ultimate Immunogenicity Challenge**, where your mission is to predict vaccine responsiveness to the **Live Attenuated Influenza Vaccine (LAIV)** and uncover the secrets of vaccine immunogenicity. This is not your average data science task—this is the **most difficult challenge yet**! Why? Let’s break it down.
 
