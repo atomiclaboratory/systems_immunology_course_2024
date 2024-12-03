@@ -304,3 +304,55 @@ Here are some helpful hints based on **Module 4 content**:
 ## 🌟 **Good Luck!**
 
 Remember, there’s no single right way to approach this challenge. Be creative, think critically, and have fun exploring the data!
+
+---
+
+# **T-minus 24h to the Fight-Off: Final Prep Guide 🤘🧬💥**
+
+The clock is ticking, Flu Fighters! We’re 24 hours away from the ultimate showdown. This is your moment to tune up, recalibrate, and prepare to rock the world of AI-driven biomedical engineering. Here's how you conquer the final hours:  
+
+---
+
+## 🛠️ **1. Strategy Tune-Up with the Instructor**  
+- Each team gets **15 minutes today** to meet with the instructor.  
+- 🎯 Use this time to clarify your approach, validate your models, and ask burning questions.  
+- Treat it like the final jam session—leave no riff unplayed!  
+
+---
+
+## 🎸 **2. Build, Test, Repeat**  
+- Your models are your instruments, and precision is the key. 🎵  
+- 🧪 Test your algorithms, refine your predictions, and push the limits of your biomedical AI wizardry.  
+- Remember, **there are no rules** in the fight-off—so think big, think bold, and experiment fearlessly!  
+
+---
+
+## 🤝 **3. Collaboration is Key**  
+- Every team member has a role to play. No solos here—it’s all about the ensemble! 🎤  
+- Brainstorm together, share insights, and make sure your final strategy hits all the right notes.  
+- Together, you’re stronger. 🎶  
+
+---
+
+## 🗂️ **4. Submitting the Final Model (Deadline: 5 PM, Wednesday, Dec 4th)**  
+Here’s how to submit your final work:  
+1. **Send a table** with all models built and their performance metrics (Predict AUC).  
+2. **Include the Rdata file** for your top-performing model.  
+3. **Prepare 1 slide** (PPT format) summarizing your strategy overview for the presentation on Thursday.  
+   - This slide should demonstarte step-by-step your approach leading to the final top model.  
+
+📧 Email your submission to Dr. Tomic by the deadline.
+
+---
+
+## 🎤 **5. Final Fight-Off: Presentation & Winners (Thursday, Dec 5th)**  
+- The **Fight-Off starts with team presentations**:  
+  - Each team has **5 minutes** to present their work using **1 slide (PPT)**.  
+  - Provide a concise, impactful overview of your strategy, results, and top model.  
+  - 🎯 Focus on **innovation, creativity, and scientific rigor**—this is your moment to shine!  
+
+- After the presentations, we’ll **announce the winners** based on creativity, scientific insight, and overall performance. 🏆 
+
+---
+
+Flu Fighters, the future of vaccine prediction is in your hands. The world is watching—so gear up, power on, and let’s make history! 💉🌟
