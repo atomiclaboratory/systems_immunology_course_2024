@@ -356,3 +356,31 @@ Here’s how to submit your final work:
 ---
 
 Flu Fighters, the future of vaccine prediction is in your hands. The world is watching—so gear up, power on, and let’s make history! 💉🌟
+
+--
+
+## 🏆 **Winners Announcement**
+
+<div align="center">
+  <img src="https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Course%20Materials/Flu%20Fighters%20Challenge%202024/images/Flu%20Fighters%20Winners.png" alt="Flu Fighters Winners" width="600px">
+</div>
+
+The results are in, and it’s time to celebrate the incredible achievements of all the teams who participated in the Flu Fighters Challenge! 🎉
+
+1. **🥇 1st Place**: **Team Matzinger**  
+   Congratulations to Team Matzinger for their outstanding performance and securing the top spot! 🏆
+
+2. **🥈 2nd Place**: **Team Brenner**  
+   A fantastic effort by Team Brenner, earning them a well-deserved second place! 🥈
+
+3. **🥉 3rd Place**: **Team Salk**  
+   Kudos to Team Salk for their impressive work and achieving third place! 🥉
+
+4. **Honorable Mentions**:  
+   - **Team Cohen**: Incredible effort, narrowly missing third place, but deserving recognition for their amazing contributions! 👏  
+   - **Team Noble**: For presenting the **most innovative idea**, even though it didn’t work as expected. Great creativity, Team Noble! 💡✨
+
+
+Thank you to all participants for your hard work, creativity, and scientific rigor. Each of you contributed to advancing our understanding of vaccine immunogenicity, and we couldn't be prouder of the amazing results. 💉🌟
+
+---
