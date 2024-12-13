@@ -2,13 +2,6 @@
 
 # 🧬 **Systems Immunology Course**
 
-## 🙌 **Thank You, Class of 2024!**
-To our amazing **Systems Immunology Class of 2024**, thank you for an unforgettable semester! We had a blast exploring the intricacies of the immune system together, and we hope you’ve gained new insights and skills that will serve you well in your future endeavors. When you clinch that next **Kaggle challenge**, don’t forget to think of us a little! 😄
-
-**Class Photos:**
-- [Class photo with Meghan](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Images/BE500%20Class%202024.jpg)
-- [Class photo with me (Meghan taking the photo, since Google Pixel Add Me doesn’t work for >20 people 🫤)](https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Images/Systems%20Immunology%20Class%202024.jpg)
-
 ## 📚 **Course Overview**
 Welcome to the **Systems Immunology** course. This course offers a comprehensive exploration of Systems Immunology, blending foundational knowledge with advanced theoretical concepts and practical applications. Throughout the course, students will engage with cutting-edge research, collaborate on group projects, and gain hands-on experience in applying AI and machine learning techniques to immunological data. Our goal is to equip you with the skills and knowledge necessary to navigate and contribute to the rapidly evolving field of Systems Immunology.
 
@@ -33,3 +26,16 @@ Welcome to the **Systems Immunology** course. This course offers a comprehensive
 
 ## 📬 **Contact**
 If you have any questions or need further assistance, please reach out to the course instructor, Dr. Adriana Tomic, at **at [atomic\[at\]bu\[dot\]edu](mailto:atomic@bu.edu)**. Explore our work at the **[Atomic Lab](http://atomic-lab.org)**.
+
+## 🙌 **Thank You, Class of 2024!**
+To our amazing **Systems Immunology Class of 2024**, thank you for an unforgettable semester! We had a blast exploring the intricacies of the immune system together, and we hope you’ve gained new insights and skills that will serve you well in your future endeavors. When you clinch that next **Kaggle challenge**, don’t forget to think of us a little! 😄
+
+<div align="center">
+  <img src="https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Images/BE500%20Class%202024.jpg" alt="Class photo with Meghan" width="600"/>
+  <p><strong>Class photo with Meghan</strong></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/atomiclaboratory/systems_immunology_course_2024/blob/main/Images/Systems%20Immunology%20Class%202024.jpg" alt="Class photo with Dr. Adriana Tomic" width="600"/>
+  <p><strong>Class photo with me (Meghan taking the photo, since Google Pixel Add Me doesn’t work for >20 people 🫤)</strong></p>
+</div>
